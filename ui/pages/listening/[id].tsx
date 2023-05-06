@@ -151,7 +151,12 @@ const ListeningAudio: NextPage = () => {
   };
 
   return (
-    <Box height={"100%"} display={"flex"} flexDirection={"column"}>
+    <Box
+      height={"100%"}
+      display={"flex"}
+      flexDirection={"column"}
+      overflow={"auto"}
+    >
       <Box>
         <Accordion>
           <AccordionSummary
