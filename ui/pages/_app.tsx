@@ -27,6 +27,7 @@ import { useState } from "react";
 import { useRouter } from "next/router";
 import HomeIcon from "@mui/icons-material/Home";
 type Anchor = "top" | "left" | "bottom" | "right";
+import HeadphonesIcon from "@mui/icons-material/Headphones";
 
 export default function App({ Component, pageProps }: AppProps) {
   const [openLeftNav, setOpenLeftNav] = useState(false);
@@ -53,6 +54,14 @@ export default function App({ Component, pageProps }: AppProps) {
               <KeyboardIcon />
             </ListItemIcon>
             <ListItemText primary={"Type Writing"} />
+          </ListItemButton>
+        </ListItem>
+        <ListItem disablePadding onClick={() => router.push("/listening")}>
+          <ListItemButton>
+            <ListItemIcon>
+              <HeadphonesIcon />
+            </ListItemIcon>
+            <ListItemText primary={"Listening"} />
           </ListItemButton>
         </ListItem>
       </List>

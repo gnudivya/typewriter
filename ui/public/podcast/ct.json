@@ -1,0 +1,6854 @@
+{
+    "wireMagic": "pb3",
+    "pens": [ {
+    
+    } ],
+    "wsWinStyles": [ {
+    
+    } ],
+    "wpWinPositions": [ {
+    
+    } ],
+    "events": [ {
+      "tStartMs": 91,
+      "dDurationMs": 5260,
+      "segs": [ {
+        "utf8": "[MUSIC]"
+      } ]
+    }, {
+      "tStartMs": 5351,
+      "dDurationMs": 1023,
+      "segs": [ {
+        "utf8": "Welcome."
+      } ]
+    }, {
+      "tStartMs": 6374,
+      "dDurationMs": 4034,
+      "segs": [ {
+        "utf8": "I'm very excited today to talk about\neffective speaking in"
+      } ]
+    }, {
+      "tStartMs": 10408,
+      "dDurationMs": 2042,
+      "segs": [ {
+        "utf8": "spontaneous situations."
+      } ]
+    }, {
+      "tStartMs": 12450,
+      "dDurationMs": 740,
+      "segs": [ {
+        "utf8": "I thank you all for"
+      } ]
+    }, {
+      "tStartMs": 13190,
+      "dDurationMs": 3640,
+      "segs": [ {
+        "utf8": "joining us, even though the title of my\ntalk is grammatically incorrect."
+      } ]
+    }, {
+      "tStartMs": 16830,
+      "dDurationMs": 2020,
+      "segs": [ {
+        "utf8": "I thought that might scare a few of you\naway."
+      } ]
+    }, {
+      "tStartMs": 18850,
+      "dDurationMs": 1580,
+      "segs": [ {
+        "utf8": "But I learned teaching here at the\nbusiness school,"
+      } ]
+    }, {
+      "tStartMs": 20430,
+      "dDurationMs": 1900,
+      "segs": [ {
+        "utf8": "catching people's attention is hard."
+      } ]
+    }, {
+      "tStartMs": 22330,
+      "dDurationMs": 4040,
+      "segs": [ {
+        "utf8": "So, something as simple as that, I\nthought, might draw a few of you here, so"
+      } ]
+    }, {
+      "tStartMs": 26370,
+      "dDurationMs": 5570,
+      "segs": [ {
+        "utf8": "this is going to be a highly interactive\nand participative workshop today."
+      } ]
+    }, {
+      "tStartMs": 31940,
+      "dDurationMs": 2980,
+      "segs": [ {
+        "utf8": "If you don't feel comfortable\nparticipating that's completely fine, but"
+      } ]
+    }, {
+      "tStartMs": 34920,
+      "dDurationMs": 2470,
+      "segs": [ {
+        "utf8": "do know I'm gonna ask you to talk to\npeople next to you."
+      } ]
+    }, {
+      "tStartMs": 37390,
+      "dDurationMs": 2180,
+      "segs": [ {
+        "utf8": "They'll be opportunities to stand up and"
+      } ]
+    }, {
+      "tStartMs": 39570,
+      "dDurationMs": 4270,
+      "segs": [ {
+        "utf8": "practice some things because I believe the\nway we become effective communicators is"
+      } ]
+    }, {
+      "tStartMs": 43840,
+      "dDurationMs": 3650,
+      "segs": [ {
+        "utf8": "by actually communicating, so let's get\nstarted right away."
+      } ]
+    }, {
+      "tStartMs": 47490,
+      "dDurationMs": 5190,
+      "segs": [ {
+        "utf8": "I'd like to ask you all to read this\nsentence, and as you read this sentence,"
+      } ]
+    }, {
+      "tStartMs": 52680,
+      "dDurationMs": 3550,
+      "segs": [ {
+        "utf8": "what's most important to me is that you\ncount the number of fs"
+      } ]
+    }, {
+      "tStartMs": 56230,
+      "dDurationMs": 2800,
+      "segs": [ {
+        "utf8": "that you find in this sentence, please."
+      } ]
+    }, {
+      "tStartMs": 59030,
+      "dDurationMs": 1190,
+      "segs": [ {
+        "utf8": "Count the number of fs."
+      } ]
+    }, {
+      "tStartMs": 60220,
+      "dDurationMs": 1093,
+      "segs": [ {
+        "utf8": "Keep it quiet to yourself."
+      } ]
+    }, {
+      "tStartMs": 61313,
+      "dDurationMs": 5839,
+      "segs": [ {
+        "utf8": "[BLANK_AUDIO]"
+      } ]
+    }, {
+      "tStartMs": 67152,
+      "dDurationMs": 2158,
+      "segs": [ {
+        "utf8": "Give you just another couple seconds here."
+      } ]
+    }, {
+      "tStartMs": 69310,
+      "dDurationMs": 3517,
+      "segs": [ {
+        "utf8": "[BLANK_AUDIO]"
+      } ]
+    }, {
+      "tStartMs": 72827,
+      "dDurationMs": 1303,
+      "segs": [ {
+        "utf8": "Three, two, one."
+      } ]
+    }, {
+      "tStartMs": 75880,
+      "dDurationMs": 2730,
+      "segs": [ {
+        "utf8": "Raise your hand please if you found three\nand only three f's."
+      } ]
+    }, {
+      "tStartMs": 79800,
+      "dDurationMs": 1640,
+      "segs": [ {
+        "utf8": "Excellent, great.\nDid anybody find four?"
+      } ]
+    }, {
+      "tStartMs": 82760,
+      "dDurationMs": 1226,
+      "segs": [ {
+        "utf8": "Anybody find only five fs?"
+      } ]
+    }, {
+      "tStartMs": 83986,
+      "dDurationMs": 4204,
+      "segs": [ {
+        "utf8": "Anybody find six?"
+      } ]
+    }, {
+      "tStartMs": 88190,
+      "dDurationMs": 2147,
+      "segs": [ {
+        "utf8": "There's six fs."
+      } ]
+    }, {
+      "tStartMs": 90337,
+      "dDurationMs": 3543,
+      "segs": [ {
+        "utf8": "What two letter word ending in f did many\nof us miss?"
+      } ]
+    }, {
+      "tStartMs": 94920,
+      "dDurationMs": 3440,
+      "segs": [ {
+        "utf8": "Oh.\nWe'll make sure to get this to you so"
+      } ]
+    }, {
+      "tStartMs": 98360,
+      "dDurationMs": 2450,
+      "segs": [ {
+        "utf8": "you can torment your friends and family at\na later date."
+      } ]
+    }, {
+      "tStartMs": 102240,
+      "dDurationMs": 4450,
+      "segs": [ {
+        "utf8": "When I first was exposed to this over 12\nyears ago I only found three, and"
+      } ]
+    }, {
+      "tStartMs": 106690,
+      "dDurationMs": 1110,
+      "segs": [ {
+        "utf8": "I felt really stupid."
+      } ]
+    }, {
+      "tStartMs": 107800,
+      "dDurationMs": 1660,
+      "segs": [ {
+        "utf8": "So, I like to start every workshop,"
+      } ]
+    }, {
+      "tStartMs": 109460,
+      "dDurationMs": 2390,
+      "segs": [ {
+        "utf8": "every class I teach with to pass that\nfeeling along."
+      } ]
+    }, {
+      "tStartMs": 111850,
+      "dDurationMs": 1930,
+      "segs": [ {
+        "utf8": "No, no.\n[LAUGH] That's not,"
+      } ]
+    }, {
+      "tStartMs": 113780,
+      "dDurationMs": 1880,
+      "segs": [ {
+        "utf8": "that's not why I do this."
+      } ]
+    }, {
+      "tStartMs": 115660,
+      "dDurationMs": 2700,
+      "segs": [ {
+        "utf8": "I do this because this is a perfect\nanalogy for"
+      } ]
+    }, {
+      "tStartMs": 118360,
+      "dDurationMs": 2110,
+      "segs": [ {
+        "utf8": "what we're going to be talking about\ntoday."
+      } ]
+    }, {
+      "tStartMs": 120470,
+      "dDurationMs": 3560,
+      "segs": [ {
+        "utf8": "The vast majority of us in this room, very\nsmart people in this room,"
+      } ]
+    }, {
+      "tStartMs": 124030,
+      "dDurationMs": 3280,
+      "segs": [ {
+        "utf8": "were not as effective as we could have\nbeen in this activity."
+      } ]
+    }, {
+      "tStartMs": 127310,
+      "dDurationMs": 1000,
+      "segs": [ {
+        "utf8": "We didn't get it right."
+      } ]
+    }, {
+      "tStartMs": 129330,
+      "dDurationMs": 3750,
+      "segs": [ {
+        "utf8": "And the same is true when it comes to\nspeaking in public,"
+      } ]
+    }, {
+      "tStartMs": 133080,
+      "dDurationMs": 2440,
+      "segs": [ {
+        "utf8": "particularly when spontaneous speaking."
+      } ]
+    }, {
+      "tStartMs": 135520,
+      "dDurationMs": 4220,
+      "segs": [ {
+        "utf8": "It's little things that make a big\ndifference in being affective."
+      } ]
+    }, {
+      "tStartMs": 139740,
+      "dDurationMs": 3790,
+      "segs": [ {
+        "utf8": "So today we're going to talk about little\nthings in terms of your approach, your"
+      } ]
+    }, {
+      "tStartMs": 143530,
+      "dDurationMs": 4840,
+      "segs": [ {
+        "utf8": "attitude, your practice, that can change\nhow you feel when you speak in public."
+      } ]
+    }, {
+      "tStartMs": 149890,
+      "dDurationMs": 2180,
+      "segs": [ {
+        "utf8": "And we're gonna be talking primarily about\none type of public speaking."
+      } ]
+    }, {
+      "tStartMs": 154100,
+      "dDurationMs": 2690,
+      "segs": [ {
+        "utf8": "Not the type that you plan for in advance,\nthe type"
+      } ]
+    }, {
+      "tStartMs": 156790,
+      "dDurationMs": 4860,
+      "segs": [ {
+        "utf8": "that you actually spend time thinking\nabout, you might even create slides for."
+      } ]
+    }, {
+      "tStartMs": 161650,
+      "dDurationMs": 4590,
+      "segs": [ {
+        "utf8": "These are the key notes, the conference\npresentation, the formal toasts."
+      } ]
+    }, {
+      "tStartMs": 167520,
+      "dDurationMs": 1450,
+      "segs": [ {
+        "utf8": "That's not what we are talking about\ntoday,"
+      } ]
+    }, {
+      "tStartMs": 168970,
+      "dDurationMs": 2890,
+      "segs": [ {
+        "utf8": "we are talking about spontaneous speaking."
+      } ]
+    }, {
+      "tStartMs": 172900,
+      "dDurationMs": 3900,
+      "segs": [ {
+        "utf8": "When you are in a situation that you are\nasked to speak off the cuff and"
+      } ]
+    }, {
+      "tStartMs": 176800,
+      "dDurationMs": 560,
+      "segs": [ {
+        "utf8": "in the moment."
+      } ]
+    }, {
+      "tStartMs": 178672,
+      "dDurationMs": 3268,
+      "segs": [ {
+        "utf8": "What we're going through today is actually\nthe result of a workshop I"
+      } ]
+    }, {
+      "tStartMs": 181940,
+      "dDurationMs": 2680,
+      "segs": [ {
+        "utf8": "created here for the business school."
+      } ]
+    }, {
+      "tStartMs": 184620,
+      "dDurationMs": 3200,
+      "segs": [ {
+        "utf8": "Several years ago, a survey was taken\namong the students, and they said, what's"
+      } ]
+    }, {
+      "tStartMs": 187820,
+      "dDurationMs": 3810,
+      "segs": [ {
+        "utf8": "one of the, what are things we could do to\nhelp make you more successful here?"
+      } ]
+    }, {
+      "tStartMs": 191630,
+      "dDurationMs": 4290,
+      "segs": [ {
+        "utf8": "And at the top of that list was this\nnotion of responding to cold calls."
+      } ]
+    }, {
+      "tStartMs": 195920,
+      "dDurationMs": 1800,
+      "segs": [ {
+        "utf8": "Does everybody know what a cold call is?"
+      } ]
+    }, {
+      "tStartMs": 197720,
+      "dDurationMs": 3260,
+      "segs": [ {
+        "utf8": "It's where the mean professor like me\nlooks at some student and"
+      } ]
+    }, {
+      "tStartMs": 200980,
+      "dDurationMs": 870,
+      "segs": [ {
+        "utf8": "says, what do you think?"
+      } ]
+    }, {
+      "tStartMs": 202930,
+      "dDurationMs": 1990,
+      "segs": [ {
+        "utf8": "And there was a lot of panic, and a lot of\nsilence."
+      } ]
+    }, {
+      "tStartMs": 206010,
+      "dDurationMs": 2350,
+      "segs": [ {
+        "utf8": "So as a result of that, this workshop was\ncreated, and"
+      } ]
+    }, {
+      "tStartMs": 208360,
+      "dDurationMs": 4360,
+      "segs": [ {
+        "utf8": "a vast majority of first year students\nhere at the GSB go through this workshop."
+      } ]
+    }, {
+      "tStartMs": 212720,
+      "dDurationMs": 3590,
+      "segs": [ {
+        "utf8": "So I'm gonna walk you through sort of a\nhybrid version of what they do."
+      } ]
+    }, {
+      "tStartMs": 217640,
+      "dDurationMs": 3850,
+      "segs": [ {
+        "utf8": "The reality is that spontaneous speaking\nis actually more"
+      } ]
+    }, {
+      "tStartMs": 221490,
+      "dDurationMs": 2210,
+      "segs": [ {
+        "utf8": "prevalent than planned speaking."
+      } ]
+    }, {
+      "tStartMs": 223700,
+      "dDurationMs": 1390,
+      "segs": [ {
+        "utf8": "Perhaps it's giving introductions."
+      } ]
+    }, {
+      "tStartMs": 225090,
+      "dDurationMs": 670,
+      "segs": [ {
+        "utf8": "You're at a dinner and"
+      } ]
+    }, {
+      "tStartMs": 225760,
+      "dDurationMs": 3560,
+      "segs": [ {
+        "utf8": "somebody says, you know so and so, would\nyou mind introducing them?"
+      } ]
+    }, {
+      "tStartMs": 229320,
+      "dDurationMs": 1430,
+      "segs": [ {
+        "utf8": "Maybe it's giving feedback."
+      } ]
+    }, {
+      "tStartMs": 230750,
+      "dDurationMs": 2670,
+      "segs": [ {
+        "utf8": "In the moment, your boss turns to you and\nsays, would you tell me what you think?"
+      } ]
+    }, {
+      "tStartMs": 234660,
+      "dDurationMs": 2090,
+      "segs": [ {
+        "utf8": "It could be a surprise toast."
+      } ]
+    }, {
+      "tStartMs": 236750,
+      "dDurationMs": 3040,
+      "segs": [ {
+        "utf8": "Or finally, it could be during the Q and A\nsession."
+      } ]
+    }, {
+      "tStartMs": 239790,
+      "dDurationMs": 720,
+      "segs": [ {
+        "utf8": "And by the way,"
+      } ]
+    }, {
+      "tStartMs": 240510,
+      "dDurationMs": 3570,
+      "segs": [ {
+        "utf8": "we will leave plenty of time at the end of\nour day today for Q and A."
+      } ]
+    }, {
+      "tStartMs": 244080,
+      "dDurationMs": 2910,
+      "segs": [ {
+        "utf8": "I'd love to hear the questions you have\nabout this topic or"
+      } ]
+    }, {
+      "tStartMs": 246990,
+      "dDurationMs": 1600,
+      "segs": [ {
+        "utf8": "other topics related to communicating."
+      } ]
+    }, {
+      "tStartMs": 250490,
+      "dDurationMs": 4850,
+      "segs": [ {
+        "utf8": "So our agenda is simple, in order to be an\neffective communicator, regardless of if"
+      } ]
+    }, {
+      "tStartMs": 255340,
+      "dDurationMs": 3920,
+      "segs": [ {
+        "utf8": "it's planned or spontaneous, you need to\nhave your anxiety under control."
+      } ]
+    }, {
+      "tStartMs": 260680,
+      "dDurationMs": 1830,
+      "segs": [ {
+        "utf8": "So we'll start there."
+      } ]
+    }, {
+      "tStartMs": 262510,
+      "dDurationMs": 3620,
+      "segs": [ {
+        "utf8": "Second, what we're going to talk about is\nsome ground rules for"
+      } ]
+    }, {
+      "tStartMs": 266130,
+      "dDurationMs": 1980,
+      "segs": [ {
+        "utf8": "the interactivity we'll have today and"
+      } ]
+    }, {
+      "tStartMs": 268110,
+      "dDurationMs": 3640,
+      "segs": [ {
+        "utf8": "then finally we're going to get into the\nheart of what we will be covering and"
+      } ]
+    }, {
+      "tStartMs": 271750,
+      "dDurationMs": 3280,
+      "segs": [ {
+        "utf8": "again, as I said, lots of activity and I\ninvite you to participate."
+      } ]
+    }, {
+      "tStartMs": 277080,
+      "dDurationMs": 1945,
+      "segs": [ {
+        "utf8": "So lets get started with anxiety\nmanagement."
+      } ]
+    }, {
+      "tStartMs": 279025,
+      "dDurationMs": 5855,
+      "segs": [ {
+        "utf8": "85% of people tell us that they're nervous\nwhen speaking in public."
+      } ]
+    }, {
+      "tStartMs": 284880,
+      "dDurationMs": 2550,
+      "segs": [ {
+        "utf8": "And I think the other 15% are lying."
+      } ]
+    }, {
+      "tStartMs": 287430,
+      "dDurationMs": 1850,
+      "segs": [ {
+        "utf8": "Okay?\nWe could create a situation where we"
+      } ]
+    }, {
+      "tStartMs": 289280,
+      "dDurationMs": 1760,
+      "segs": [ {
+        "utf8": "could make them nervous too."
+      } ]
+    }, {
+      "tStartMs": 291040,
+      "dDurationMs": 5740,
+      "segs": [ {
+        "utf8": "In fact, just this past week a study from\nChapman University asked American's,"
+      } ]
+    }, {
+      "tStartMs": 296780,
+      "dDurationMs": 2090,
+      "segs": [ {
+        "utf8": "what are the things you fear most?"
+      } ]
+    }, {
+      "tStartMs": 298870,
+      "dDurationMs": 3560,
+      "segs": [ {
+        "utf8": "And among being caught in a surprise\nterrorist attack,"
+      } ]
+    }, {
+      "tStartMs": 302430,
+      "dDurationMs": 3520,
+      "segs": [ {
+        "utf8": "having identity, your identity stolen, was\npublic speaking."
+      } ]
+    }, {
+      "tStartMs": 305950,
+      "dDurationMs": 2540,
+      "segs": [ {
+        "utf8": "Among the top five was speaking in front\nof others."
+      } ]
+    }, {
+      "tStartMs": 309710,
+      "dDurationMs": 4020,
+      "segs": [ {
+        "utf8": "This is a ubiquitous fear, and one that I\nbelieve we can learn to manage."
+      } ]
+    }, {
+      "tStartMs": 313730,
+      "dDurationMs": 4230,
+      "segs": [ {
+        "utf8": "And I use that word manage very carefully\nbecause I"
+      } ]
+    }, {
+      "tStartMs": 317960,
+      "dDurationMs": 2160,
+      "segs": [ {
+        "utf8": "don't think we ever want to overcome it."
+      } ]
+    }, {
+      "tStartMs": 320120,
+      "dDurationMs": 1930,
+      "segs": [ {
+        "utf8": "Anxiety actually helps us."
+      } ]
+    }, {
+      "tStartMs": 322050,
+      "dDurationMs": 3970,
+      "segs": [ {
+        "utf8": "It gives us energy, helps us focus, tells\nus what we're doing is important."
+      } ]
+    }, {
+      "tStartMs": 326020,
+      "dDurationMs": 2070,
+      "segs": [ {
+        "utf8": "But we want to learn to manage it."
+      } ]
+    }, {
+      "tStartMs": 328090,
+      "dDurationMs": 3000,
+      "segs": [ {
+        "utf8": "So I'd like to introduce you to a few\ntechniques that can work and"
+      } ]
+    }, {
+      "tStartMs": 331090,
+      "dDurationMs": 3250,
+      "segs": [ {
+        "utf8": "all of these techniques are based on\nacademic research."
+      } ]
+    }, {
+      "tStartMs": 334340,
+      "dDurationMs": 5160,
+      "segs": [ {
+        "utf8": "But before we get there, I'd love to ask\nyou what does it feel like"
+      } ]
+    }, {
+      "tStartMs": 339500,
+      "dDurationMs": 3130,
+      "segs": [ {
+        "utf8": "when you're sitting in the audience\nwatching a nervous speaker present,"
+      } ]
+    }, {
+      "tStartMs": 342630,
+      "dDurationMs": 2249,
+      "segs": [ {
+        "utf8": "how do you feel, just shout out a few\nthings, how to do you feel?"
+      } ]
+    }, {
+      "tStartMs": 346110,
+      "dDurationMs": 580,
+      "segs": [ {
+        "utf8": "\u003e\u003e Uncomfortable."
+      } ]
+    }, {
+      "tStartMs": 346690,
+      "dDurationMs": 1480,
+      "segs": [ {
+        "utf8": "\u003e\u003e Uncomfortable."
+      } ]
+    }, {
+      "tStartMs": 348170,
+      "dDurationMs": 1800,
+      "segs": [ {
+        "utf8": "I heard many of you going, yes,\nuncomfortable."
+      } ]
+    }, {
+      "tStartMs": 349970,
+      "dDurationMs": 2180,
+      "segs": [ {
+        "utf8": "It feels very awkward, doesn't it?"
+      } ]
+    }, {
+      "tStartMs": 352150,
+      "dDurationMs": 720,
+      "segs": [ {
+        "utf8": "So what do we do?"
+      } ]
+    }, {
+      "tStartMs": 352870,
+      "dDurationMs": 2915,
+      "segs": [ {
+        "utf8": "Now a couple of you probably like watching\nsomebody suffer."
+      } ]
+    }, {
+      "tStartMs": 355785,
+      "dDurationMs": 2225,
+      "segs": [ {
+        "utf8": "[LAUGH] 'Kay, but most of us don't."
+      } ]
+    }, {
+      "tStartMs": 358010,
+      "dDurationMs": 780,
+      "segs": [ {
+        "utf8": "So what do we do?"
+      } ]
+    }, {
+      "tStartMs": 358790,
+      "dDurationMs": 4040,
+      "segs": [ {
+        "utf8": "We sit there and we nod and we smile or we\ndisengage."
+      } ]
+    }, {
+      "tStartMs": 364140,
+      "dDurationMs": 1880,
+      "segs": [ {
+        "utf8": "And to the nervous speaker looking out at\nhis or"
+      } ]
+    }, {
+      "tStartMs": 366020,
+      "dDurationMs": 4800,
+      "segs": [ {
+        "utf8": "her audience seeing a bunch of people\nnodding or disengaged, that does not help."
+      } ]
+    }, {
+      "tStartMs": 370820,
+      "dDurationMs": 1430,
+      "segs": [ {
+        "utf8": "Okay.\nSo we need to manage our anxiety."
+      } ]
+    }, {
+      "tStartMs": 372250,
+      "dDurationMs": 3500,
+      "segs": [ {
+        "utf8": "Cuz, fundamentally, your job as a\ncommunicator rather, regardless of"
+      } ]
+    }, {
+      "tStartMs": 375750,
+      "dDurationMs": 4420,
+      "segs": [ {
+        "utf8": "if it's planned or spontaneous, is to make\nyour audience comfortable."
+      } ]
+    }, {
+      "tStartMs": 380170,
+      "dDurationMs": 3010,
+      "segs": [ {
+        "utf8": "Because if they're comfortable they can\nreceive your message."
+      } ]
+    }, {
+      "tStartMs": 383180,
+      "dDurationMs": 3190,
+      "segs": [ {
+        "utf8": "And when I say comfortable I am not\nreferring to the fact that"
+      } ]
+    }, {
+      "tStartMs": 386370,
+      "dDurationMs": 4150,
+      "segs": [ {
+        "utf8": "your message has to be sugar coated and\nnice for them to hear."
+      } ]
+    }, {
+      "tStartMs": 390520,
+      "dDurationMs": 1550,
+      "segs": [ {
+        "utf8": "It can be a harsh message."
+      } ]
+    }, {
+      "tStartMs": 392070,
+      "dDurationMs": 3100,
+      "segs": [ {
+        "utf8": "But they have to be in a place where they\ncan receive it."
+      } ]
+    }, {
+      "tStartMs": 395170,
+      "dDurationMs": 5080,
+      "segs": [ {
+        "utf8": "So it's incumbent on you as a communicator\nto help your audience feel comfortable and"
+      } ]
+    }, {
+      "tStartMs": 400250,
+      "dDurationMs": 2780,
+      "segs": [ {
+        "utf8": "we do that by managing our anxiety."
+      } ]
+    }, {
+      "tStartMs": 403030,
+      "dDurationMs": 2850,
+      "segs": [ {
+        "utf8": "So let me introduce you to a few\ntechniques that I think you can"
+      } ]
+    }, {
+      "tStartMs": 405880,
+      "dDurationMs": 2790,
+      "segs": [ {
+        "utf8": "use right away to help you feel more\ncomfortable."
+      } ]
+    }, {
+      "tStartMs": 410310,
+      "dDurationMs": 3810,
+      "segs": [ {
+        "utf8": "The first has to do with when you begin to\nfeel those anxiety symptoms."
+      } ]
+    }, {
+      "tStartMs": 414120,
+      "dDurationMs": 3630,
+      "segs": [ {
+        "utf8": "For most people this happens the, in the\ninitial minutes prior to speaking."
+      } ]
+    }, {
+      "tStartMs": 419260,
+      "dDurationMs": 3430,
+      "segs": [ {
+        "utf8": "In this situation what happens is many of\nus begin to feel whatever it"
+      } ]
+    }, {
+      "tStartMs": 422690,
+      "dDurationMs": 980,
+      "segs": [ {
+        "utf8": "is that happens to you."
+      } ]
+    }, {
+      "tStartMs": 423670,
+      "dDurationMs": 2290,
+      "segs": [ {
+        "utf8": "Maybe your stomach gets a little gurgly."
+      } ]
+    }, {
+      "tStartMs": 425960,
+      "dDurationMs": 1490,
+      "segs": [ {
+        "utf8": "Maybe your legs begin to shake."
+      } ]
+    }, {
+      "tStartMs": 427450,
+      "dDurationMs": 2130,
+      "segs": [ {
+        "utf8": "Maybe you begin to perspire."
+      } ]
+    }, {
+      "tStartMs": 429580,
+      "dDurationMs": 4050,
+      "segs": [ {
+        "utf8": "And then we start to say to ourselves, oh,\nmy goodness, I'm nervous."
+      } ]
+    }, {
+      "tStartMs": 433630,
+      "dDurationMs": 1730,
+      "segs": [ {
+        "utf8": "oh.\nThey're gonna tell I'm nervous."
+      } ]
+    }, {
+      "tStartMs": 435360,
+      "dDurationMs": 1030,
+      "segs": [ {
+        "utf8": "This is not gonna go well."
+      } ]
+    }, {
+      "tStartMs": 436390,
+      "dDurationMs": 1660,
+      "segs": [ {
+        "utf8": "And we start spiraling out of control."
+      } ]
+    }, {
+      "tStartMs": 439410,
+      "dDurationMs": 3600,
+      "segs": [ {
+        "utf8": "So, research on mindful attention tells us\nthat if,"
+      } ]
+    }, {
+      "tStartMs": 443010,
+      "dDurationMs": 2900,
+      "segs": [ {
+        "utf8": "when we begin to feel those anxiety\nsymptoms,"
+      } ]
+    }, {
+      "tStartMs": 445910,
+      "dDurationMs": 5220,
+      "segs": [ {
+        "utf8": "we simply greet our anxiety and say hey,\nthis is me feeling nervous."
+      } ]
+    }, {
+      "tStartMs": 451130,
+      "dDurationMs": 2040,
+      "segs": [ {
+        "utf8": "I'm about to do something of consequence."
+      } ]
+    }, {
+      "tStartMs": 454340,
+      "dDurationMs": 3080,
+      "segs": [ {
+        "utf8": "And simply by greeting your anxiety and\nacknowledging it,"
+      } ]
+    }, {
+      "tStartMs": 457420,
+      "dDurationMs": 2060,
+      "segs": [ {
+        "utf8": "that it's normal and natural."
+      } ]
+    }, {
+      "tStartMs": 459480,
+      "dDurationMs": 1980,
+      "segs": [ {
+        "utf8": "Heck, 85% of people tell us they have it."
+      } ]
+    }, {
+      "tStartMs": 462950,
+      "dDurationMs": 4080,
+      "segs": [ {
+        "utf8": "You actually can stem the tide of that\nanxiety spiraling out of control."
+      } ]
+    }, {
+      "tStartMs": 467030,
+      "dDurationMs": 2710,
+      "segs": [ {
+        "utf8": "It's not necessarily going to reduce the\nanxiety but"
+      } ]
+    }, {
+      "tStartMs": 469740,
+      "dDurationMs": 2220,
+      "segs": [ {
+        "utf8": "it will stop it from spinning out."
+      } ]
+    }, {
+      "tStartMs": 471960,
+      "dDurationMs": 3060,
+      "segs": [ {
+        "utf8": "So the next time you begin to feel those\nanxiety signs,"
+      } ]
+    }, {
+      "tStartMs": 475020,
+      "dDurationMs": 3870,
+      "segs": [ {
+        "utf8": "take a deep breath and say, this is me\nfeeling anxious."
+      } ]
+    }, {
+      "tStartMs": 480880,
+      "dDurationMs": 1680,
+      "segs": [ {
+        "utf8": "I notice a few of you taking some notes."
+      } ]
+    }, {
+      "tStartMs": 482560,
+      "dDurationMs": 2110,
+      "segs": [ {
+        "utf8": "There's a handout that will come at the\nend."
+      } ]
+    }, {
+      "tStartMs": 484670,
+      "dDurationMs": 4160,
+      "segs": [ {
+        "utf8": "It has everything that I'm supposed to\nsay, okay?"
+      } ]
+    }, {
+      "tStartMs": 488830,
+      "dDurationMs": 2390,
+      "segs": [ {
+        "utf8": "Can't guarantee I'm gonna say it, but\nyou'll have it there."
+      } ]
+    }, {
+      "tStartMs": 492560,
+      "dDurationMs": 3090,
+      "segs": [ {
+        "utf8": "In addition to this approach, a technique\nthat works very well, and"
+      } ]
+    }, {
+      "tStartMs": 495650,
+      "dDurationMs": 3110,
+      "segs": [ {
+        "utf8": "this is a technique that I helped do some\nresearch on way back when I was in"
+      } ]
+    }, {
+      "tStartMs": 498760,
+      "dDurationMs": 5230,
+      "segs": [ {
+        "utf8": "graduate school, has to do with re-framing\nhow you see the speaking situation."
+      } ]
+    }, {
+      "tStartMs": 505010,
+      "dDurationMs": 3110,
+      "segs": [ {
+        "utf8": "Most of us, when we are up presenting,\nplanned or"
+      } ]
+    }, {
+      "tStartMs": 508120,
+      "dDurationMs": 6500,
+      "segs": [ {
+        "utf8": "spontaneous, we feel that we have to do it\nright and we feel like we are performing."
+      } ]
+    }, {
+      "tStartMs": 514620,
+      "dDurationMs": 2610,
+      "segs": [ {
+        "utf8": "How many of you have ever acted, done\nsinging or"
+      } ]
+    }, {
+      "tStartMs": 517230,
+      "dDurationMs": 2670,
+      "segs": [ {
+        "utf8": "dancing, I am not going to ask for\nperformances now, okay."
+      } ]
+    }, {
+      "tStartMs": 519900,
+      "dDurationMs": 1050,
+      "segs": [ {
+        "utf8": "Many of you have."
+      } ]
+    }, {
+      "tStartMs": 520950,
+      "dDurationMs": 3520,
+      "segs": [ {
+        "utf8": "We should note that we could do next year,\nmaybe, a talent show of alums."
+      } ]
+    }, {
+      "tStartMs": 524470,
+      "dDurationMs": 1380,
+      "segs": [ {
+        "utf8": "It looks like we got the talent there."
+      } ]
+    }, {
+      "tStartMs": 525850,
+      "dDurationMs": 500,
+      "segs": [ {
+        "utf8": "That's great."
+      } ]
+    }, {
+      "tStartMs": 527910,
+      "dDurationMs": 3080,
+      "segs": [ {
+        "utf8": "So when you perform, you know that there's\na right way and a wrong way to do it."
+      } ]
+    }, {
+      "tStartMs": 530990,
+      "dDurationMs": 4740,
+      "segs": [ {
+        "utf8": "If you don't hit your, the right note or\nyou right line at the right time,"
+      } ]
+    }, {
+      "tStartMs": 535730,
+      "dDurationMs": 2940,
+      "segs": [ {
+        "utf8": "at the right place, you've made a mistake."
+      } ]
+    }, {
+      "tStartMs": 538670,
+      "dDurationMs": 2130,
+      "segs": [ {
+        "utf8": "It messes up the audience."
+      } ]
+    }, {
+      "tStartMs": 540800,
+      "dDurationMs": 2380,
+      "segs": [ {
+        "utf8": "It messes up the people on stage."
+      } ]
+    }, {
+      "tStartMs": 543180,
+      "dDurationMs": 3360,
+      "segs": [ {
+        "utf8": "But when you present, there is no right\nway."
+      } ]
+    }, {
+      "tStartMs": 546540,
+      "dDurationMs": 1370,
+      "segs": [ {
+        "utf8": "There's certainly better and worse ways."
+      } ]
+    }, {
+      "tStartMs": 547910,
+      "dDurationMs": 1770,
+      "segs": [ {
+        "utf8": "But there is no one right way."
+      } ]
+    }, {
+      "tStartMs": 549680,
+      "dDurationMs": 3730,
+      "segs": [ {
+        "utf8": "So we need to look at presenting as\nsomething other than performance."
+      } ]
+    }, {
+      "tStartMs": 553410,
+      "dDurationMs": 4330,
+      "segs": [ {
+        "utf8": "And what I'd like to suggest is what we\nneed to see this is as is a conversation."
+      } ]
+    }, {
+      "tStartMs": 558780,
+      "dDurationMs": 2450,
+      "segs": [ {
+        "utf8": "Right now, I'm having a conversation with\n100 plus people."
+      } ]
+    }, {
+      "tStartMs": 563080,
+      "dDurationMs": 3000,
+      "segs": [ {
+        "utf8": "Rather than saying I'm performing for you."
+      } ]
+    }, {
+      "tStartMs": 566080,
+      "dDurationMs": 3370,
+      "segs": [ {
+        "utf8": "But it's not enough just to say, this is a\nconversation."
+      } ]
+    }, {
+      "tStartMs": 569450,
+      "dDurationMs": 3420,
+      "segs": [ {
+        "utf8": "I want to give you some concrete things\nyou can do."
+      } ]
+    }, {
+      "tStartMs": 572870,
+      "dDurationMs": 3260,
+      "segs": [ {
+        "utf8": "First, start with questions."
+      } ]
+    }, {
+      "tStartMs": 576130,
+      "dDurationMs": 3140,
+      "segs": [ {
+        "utf8": "Questions by their very nature are\ndialogic, they're two way."
+      } ]
+    }, {
+      "tStartMs": 579270,
+      "dDurationMs": 4140,
+      "segs": [ {
+        "utf8": "What was one of the very first things I\ndid here for you?"
+      } ]
+    }, {
+      "tStartMs": 583410,
+      "dDurationMs": 2430,
+      "segs": [ {
+        "utf8": "I had you count the number of fs and raise\nyour hands."
+      } ]
+    }, {
+      "tStartMs": 585840,
+      "dDurationMs": 1700,
+      "segs": [ {
+        "utf8": "I asked you a question."
+      } ]
+    }, {
+      "tStartMs": 587540,
+      "dDurationMs": 1640,
+      "segs": [ {
+        "utf8": "That gets your audience involved,"
+      } ]
+    }, {
+      "tStartMs": 589180,
+      "dDurationMs": 4180,
+      "segs": [ {
+        "utf8": "it makes it feel to me as the presenter as\nif we're in conversation."
+      } ]
+    }, {
+      "tStartMs": 593360,
+      "dDurationMs": 1000,
+      "segs": [ {
+        "utf8": "So, use questions."
+      } ]
+    }, {
+      "tStartMs": 594360,
+      "dDurationMs": 1450,
+      "segs": [ {
+        "utf8": "They can be rhetorical."
+      } ]
+    }, {
+      "tStartMs": 595810,
+      "dDurationMs": 3130,
+      "segs": [ {
+        "utf8": "They can be polling, perhaps I actually\nwant to hear information from you."
+      } ]
+    }, {
+      "tStartMs": 600200,
+      "dDurationMs": 4720,
+      "segs": [ {
+        "utf8": "In fact, I use questions when I create an\noutline for my presentations."
+      } ]
+    }, {
+      "tStartMs": 604920,
+      "dDurationMs": 3540,
+      "segs": [ {
+        "utf8": "Rather than writing bullet points, I list\nquestions that I'm going to answer."
+      } ]
+    }, {
+      "tStartMs": 608460,
+      "dDurationMs": 3270,
+      "segs": [ {
+        "utf8": "And that puts me in that conversational\nmode."
+      } ]
+    }, {
+      "tStartMs": 611730,
+      "dDurationMs": 1400,
+      "segs": [ {
+        "utf8": "If you were to look at my notes for"
+      } ]
+    }, {
+      "tStartMs": 613130,
+      "dDurationMs": 3440,
+      "segs": [ {
+        "utf8": "today's talk, you'll see it's just a\nseries of questions."
+      } ]
+    }, {
+      "tStartMs": 616570,
+      "dDurationMs": 3490,
+      "segs": [ {
+        "utf8": "Right now I'm answering the question, how\ndo we manage our anxiety?"
+      } ]
+    }, {
+      "tStartMs": 621860,
+      "dDurationMs": 2590,
+      "segs": [ {
+        "utf8": "Beyond questions, another very useful\ntechnique for"
+      } ]
+    }, {
+      "tStartMs": 624450,
+      "dDurationMs": 4500,
+      "segs": [ {
+        "utf8": "making us conversational is to use\nconversational language."
+      } ]
+    }, {
+      "tStartMs": 630240,
+      "dDurationMs": 3380,
+      "segs": [ {
+        "utf8": "Many nervous speakers distance themselves\nphysically."
+      } ]
+    }, {
+      "tStartMs": 633620,
+      "dDurationMs": 2460,
+      "segs": [ {
+        "utf8": "If you’ve ever seen a nervous speaker\npresent, he or"
+      } ]
+    }, {
+      "tStartMs": 636080,
+      "dDurationMs": 1570,
+      "segs": [ {
+        "utf8": "she will say something like this."
+      } ]
+    }, {
+      "tStartMs": 637650,
+      "dDurationMs": 2410,
+      "segs": [ {
+        "utf8": "Welcome, I am really excited to be here\nwith you."
+      } ]
+    }, {
+      "tStartMs": 641700,
+      "dDurationMs": 1930,
+      "segs": [ {
+        "utf8": "They pull as far away from you as\npossible,"
+      } ]
+    }, {
+      "tStartMs": 643630,
+      "dDurationMs": 2710,
+      "segs": [ {
+        "utf8": "because you threaten us, speakers."
+      } ]
+    }, {
+      "tStartMs": 646340,
+      "dDurationMs": 2320,
+      "segs": [ {
+        "utf8": "You make us nervous so we want to get away\nfrom you."
+      } ]
+    }, {
+      "tStartMs": 648660,
+      "dDurationMs": 2300,
+      "segs": [ {
+        "utf8": "We do the same thing linguistically."
+      } ]
+    }, {
+      "tStartMs": 650960,
+      "dDurationMs": 2750,
+      "segs": [ {
+        "utf8": "We use language that distances ourselves."
+      } ]
+    }, {
+      "tStartMs": 653710,
+      "dDurationMs": 3174,
+      "segs": [ {
+        "utf8": "It's not unusual to hear a nervous speaker\nsay something like,"
+      } ]
+    }, {
+      "tStartMs": 656884,
+      "dDurationMs": 1956,
+      "segs": [ {
+        "utf8": "one must consider the ramifications."
+      } ]
+    }, {
+      "tStartMs": 660180,
+      "dDurationMs": 3650,
+      "segs": [ {
+        "utf8": "Or, today we're going to cover step one,\nstep two, step three."
+      } ]
+    }, {
+      "tStartMs": 663830,
+      "dDurationMs": 1280,
+      "segs": [ {
+        "utf8": "That's very distancing language."
+      } ]
+    }, {
+      "tStartMs": 666390,
+      "dDurationMs": 2300,
+      "segs": [ {
+        "utf8": "To be more conversational, use\nconversational language."
+      } ]
+    }, {
+      "tStartMs": 668690,
+      "dDurationMs": 1320,
+      "segs": [ {
+        "utf8": "Instead of one must consider say,"
+      } ]
+    }, {
+      "tStartMs": 670010,
+      "dDurationMs": 3230,
+      "segs": [ {
+        "utf8": "this is important to you, we all need to\nbe concerned with."
+      } ]
+    }, {
+      "tStartMs": 673240,
+      "dDurationMs": 3520,
+      "segs": [ {
+        "utf8": "Do you hear that inclusive conversational\nlanguage?"
+      } ]
+    }, {
+      "tStartMs": 676760,
+      "dDurationMs": 1030,
+      "segs": [ {
+        "utf8": "Has to do with the pronouns."
+      } ]
+    }, {
+      "tStartMs": 679020,
+      "dDurationMs": 2050,
+      "segs": [ {
+        "utf8": "Instead of step 1, step, 2, step 3."
+      } ]
+    }, {
+      "tStartMs": 681070,
+      "dDurationMs": 5300,
+      "segs": [ {
+        "utf8": "First what we need to do is this, the\nsecond thing you should consider is here."
+      } ]
+    }, {
+      "tStartMs": 686370,
+      "dDurationMs": 2110,
+      "segs": [ {
+        "utf8": "Use conversational language, so"
+      } ]
+    }, {
+      "tStartMs": 688480,
+      "dDurationMs": 3100,
+      "segs": [ {
+        "utf8": "being conversational can also help you\nmanage your anxiety."
+      } ]
+    }, {
+      "tStartMs": 693280,
+      "dDurationMs": 3650,
+      "segs": [ {
+        "utf8": "The third technique I would like to share\nis research that I actually started when I"
+      } ]
+    }, {
+      "tStartMs": 696930,
+      "dDurationMs": 2700,
+      "segs": [ {
+        "utf8": "was an undergraduate here, I was very\nfortunate to study with"
+      } ]
+    }, {
+      "tStartMs": 699630,
+      "dDurationMs": 2930,
+      "segs": [ {
+        "utf8": "Phil Zimbardo of the Stanford Prison\nexperiment fame."
+      } ]
+    }, {
+      "tStartMs": 703590,
+      "dDurationMs": 5490,
+      "segs": [ {
+        "utf8": "Many people don't know that Zim actually\nwas instrumental in starting one of"
+      } ]
+    }, {
+      "tStartMs": 709080,
+      "dDurationMs": 4640,
+      "segs": [ {
+        "utf8": "the very first shyness institutes in the,\nthe world and especially in the country."
+      } ]
+    }, {
+      "tStartMs": 713720,
+      "dDurationMs": 5050,
+      "segs": [ {
+        "utf8": "And I did some research with him that\nlooked at how your orientation to time"
+      } ]
+    }, {
+      "tStartMs": 718770,
+      "dDurationMs": 1710,
+      "segs": [ {
+        "utf8": "influences how you react."
+      } ]
+    }, {
+      "tStartMs": 721800,
+      "dDurationMs": 3970,
+      "segs": [ {
+        "utf8": "And what we learned is if you can bring\nyourself into the present moment,"
+      } ]
+    }, {
+      "tStartMs": 725770,
+      "dDurationMs": 2380,
+      "segs": [ {
+        "utf8": "rather than being worried about the future\nconsequences,"
+      } ]
+    }, {
+      "tStartMs": 729150,
+      "dDurationMs": 1900,
+      "segs": [ {
+        "utf8": "you can actually be less nervous."
+      } ]
+    }, {
+      "tStartMs": 731050,
+      "dDurationMs": 3850,
+      "segs": [ {
+        "utf8": "Most of us, when we present, are worried\nabout the future consequences."
+      } ]
+    }, {
+      "tStartMs": 734900,
+      "dDurationMs": 2410,
+      "segs": [ {
+        "utf8": "My students are worried they're not going\nto get the right grade."
+      } ]
+    }, {
+      "tStartMs": 737310,
+      "dDurationMs": 1990,
+      "segs": [ {
+        "utf8": "Some of you are worried you might not get\nthe funding."
+      } ]
+    }, {
+      "tStartMs": 739300,
+      "dDurationMs": 1300,
+      "segs": [ {
+        "utf8": "You might not get the support."
+      } ]
+    }, {
+      "tStartMs": 740600,
+      "dDurationMs": 2530,
+      "segs": [ {
+        "utf8": "You might not get the laughs that you\nwant."
+      } ]
+    }, {
+      "tStartMs": 743130,
+      "dDurationMs": 1850,
+      "segs": [ {
+        "utf8": "All of those are future states."
+      } ]
+    }, {
+      "tStartMs": 744980,
+      "dDurationMs": 4270,
+      "segs": [ {
+        "utf8": "So if we can bring ourselves into the\npresent moment, we're not going to be"
+      } ]
+    }, {
+      "tStartMs": 749250,
+      "dDurationMs": 3370,
+      "segs": [ {
+        "utf8": "as concerned about those future states and\ntherefore we will be less nervous."
+      } ]
+    }, {
+      "tStartMs": 753840,
+      "dDurationMs": 1700,
+      "segs": [ {
+        "utf8": "There are lots of ways to become present\noriented."
+      } ]
+    }, {
+      "tStartMs": 756980,
+      "dDurationMs": 4320,
+      "segs": [ {
+        "utf8": "I know a professional speaker, he's paid\n$10,000 an hour to speak."
+      } ]
+    }, {
+      "tStartMs": 761300,
+      "dDurationMs": 2530,
+      "segs": [ {
+        "utf8": "It's a good gig."
+      } ]
+    }, {
+      "tStartMs": 763830,
+      "dDurationMs": 810,
+      "segs": [ {
+        "utf8": "He gets very nervous."
+      } ]
+    }, {
+      "tStartMs": 764640,
+      "dDurationMs": 2400,
+      "segs": [ {
+        "utf8": "He's up in front of crowds of thousands."
+      } ]
+    }, {
+      "tStartMs": 767040,
+      "dDurationMs": 3495,
+      "segs": [ {
+        "utf8": "Behind the stage what he does is 100\npush-ups right before he comes out."
+      } ]
+    }, {
+      "tStartMs": 770535,
+      "dDurationMs": 4495,
+      "segs": [ {
+        "utf8": "[LAUGH] You can't be that physically\nactive and not be in the present moment."
+      } ]
+    }, {
+      "tStartMs": 775030,
+      "dDurationMs": 3170,
+      "segs": [ {
+        "utf8": "Now, I'm not recommending all of us go to\nthat level of exertion cuz he"
+      } ]
+    }, {
+      "tStartMs": 778200,
+      "dDurationMs": 2025,
+      "segs": [ {
+        "utf8": "starts out out of breath and sweaty, okay?"
+      } ]
+    }, {
+      "tStartMs": 780225,
+      "dDurationMs": 3845,
+      "segs": [ {
+        "utf8": "[LAUGH] But a walk around the building\nbefore you speak."
+      } ]
+    }, {
+      "tStartMs": 784070,
+      "dDurationMs": 1820,
+      "segs": [ {
+        "utf8": "That can do it.\nThere are other ways."
+      } ]
+    }, {
+      "tStartMs": 785890,
+      "dDurationMs": 2240,
+      "segs": [ {
+        "utf8": "If you've ever watched athletes perform\nand"
+      } ]
+    }, {
+      "tStartMs": 788130,
+      "dDurationMs": 2530,
+      "segs": [ {
+        "utf8": "get ready to do their event, they listen\nto music."
+      } ]
+    }, {
+      "tStartMs": 790660,
+      "dDurationMs": 3410,
+      "segs": [ {
+        "utf8": "They focus on a song or a playlist that\nhelps get them in the moment."
+      } ]
+    }, {
+      "tStartMs": 795220,
+      "dDurationMs": 2350,
+      "segs": [ {
+        "utf8": "You can do things as simple as counting\nbackwards from 100"
+      } ]
+    }, {
+      "tStartMs": 797570,
+      "dDurationMs": 860,
+      "segs": [ {
+        "utf8": "by tough number like 17."
+      } ]
+    }, {
+      "tStartMs": 798430,
+      "dDurationMs": 5070,
+      "segs": [ {
+        "utf8": "I'm gonna pause 'cuz I know people in the\nroom are trying."
+      } ]
+    }, {
+      "tStartMs": 803500,
+      "dDurationMs": 960,
+      "segs": [ {
+        "utf8": "Yeah."
+      } ]
+    }, {
+      "tStartMs": 804460,
+      "dDurationMs": 2620,
+      "segs": [ {
+        "utf8": "Get's hard after that third or fourth one,\nI know."
+      } ]
+    }, {
+      "tStartMs": 807080,
+      "dDurationMs": 3380,
+      "segs": [ {
+        "utf8": "My favorite way to get present-oriented is\nto say tongue twisters."
+      } ]
+    }, {
+      "tStartMs": 811900,
+      "dDurationMs": 2260,
+      "segs": [ {
+        "utf8": "Saying a tongue twister forces you to be\nin the moment."
+      } ]
+    }, {
+      "tStartMs": 814160,
+      "dDurationMs": 1620,
+      "segs": [ {
+        "utf8": "Otherwise you'll say it wrong."
+      } ]
+    }, {
+      "tStartMs": 815780,
+      "dDurationMs": 2670,
+      "segs": [ {
+        "utf8": "And it has the added benefit of warming up\nyour voice."
+      } ]
+    }, {
+      "tStartMs": 818450,
+      "dDurationMs": 3480,
+      "segs": [ {
+        "utf8": "Most nervous speakers don't warm up their\nvoice."
+      } ]
+    }, {
+      "tStartMs": 821930,
+      "dDurationMs": 3470,
+      "segs": [ {
+        "utf8": "They retreat inside themselves and start\nsaying all these bad things to themselves."
+      } ]
+    }, {
+      "tStartMs": 825400,
+      "dDurationMs": 3420,
+      "segs": [ {
+        "utf8": "So, saying a tongue twister can help you\nbe both present-oriented and"
+      } ]
+    }, {
+      "tStartMs": 828820,
+      "dDurationMs": 590,
+      "segs": [ {
+        "utf8": "warm up your voice."
+      } ]
+    }, {
+      "tStartMs": 830930,
+      "dDurationMs": 2750,
+      "segs": [ {
+        "utf8": "Remember, I said today we're gonna have a\nlot of participation?"
+      } ]
+    }, {
+      "tStartMs": 833680,
+      "dDurationMs": 3530,
+      "segs": [ {
+        "utf8": "I'm gonna ask you to repeat after me my\nfavorite tongue twister, and"
+      } ]
+    }, {
+      "tStartMs": 837210,
+      "dDurationMs": 4500,
+      "segs": [ {
+        "utf8": "I like this tongue twister because if you\nsay it wrong you say a naughty word, and"
+      } ]
+    }, {
+      "tStartMs": 841710,
+      "dDurationMs": 3270,
+      "segs": [ {
+        "utf8": "I'm gonna be listening to see if I hear\nany naughty words this morning."
+      } ]
+    }, {
+      "tStartMs": 844980,
+      "dDurationMs": 860,
+      "segs": [ {
+        "utf8": "Okay?"
+      } ]
+    }, {
+      "tStartMs": 845840,
+      "dDurationMs": 600,
+      "segs": [ {
+        "utf8": "Repeat after me."
+      } ]
+    }, {
+      "tStartMs": 846440,
+      "dDurationMs": 1390,
+      "segs": [ {
+        "utf8": "It's only three phrases."
+      } ]
+    }, {
+      "tStartMs": 847830,
+      "dDurationMs": 1320,
+      "segs": [ {
+        "utf8": "I slit a sheet."
+      } ]
+    }, {
+      "tStartMs": 851810,
+      "dDurationMs": 1100,
+      "segs": [ {
+        "utf8": "A sheet I slit."
+      } ]
+    }, {
+      "tStartMs": 854770,
+      "dDurationMs": 3050,
+      "segs": [ {
+        "utf8": "And on that slitted sheet I sit."
+      } ]
+    }, {
+      "tStartMs": 861780,
+      "dDurationMs": 1330,
+      "segs": [ {
+        "utf8": "Very good, no shits."
+      } ]
+    }, {
+      "tStartMs": 863110,
+      "dDurationMs": 500,
+      "segs": [ {
+        "utf8": "Excellent."
+      } ]
+    }, {
+      "tStartMs": 864640,
+      "dDurationMs": 500,
+      "segs": [ {
+        "utf8": "Very good."
+      } ]
+    }, {
+      "tStartMs": 866390,
+      "dDurationMs": 5050,
+      "segs": [ {
+        "utf8": "Now in that moment, in that moment, you\nweren't worried about,"
+      } ]
+    }, {
+      "tStartMs": 871440,
+      "dDurationMs": 3630,
+      "segs": [ {
+        "utf8": "I'm in front of all these people, this is\nweird, this guy's having me do this."
+      } ]
+    }, {
+      "tStartMs": 875070,
+      "dDurationMs": 2660,
+      "segs": [ {
+        "utf8": "You were so focused on saying it right and"
+      } ]
+    }, {
+      "tStartMs": 877730,
+      "dDurationMs": 3490,
+      "segs": [ {
+        "utf8": "trying to figure out what the naughty word\nwas that you were in the present moment."
+      } ]
+    }, {
+      "tStartMs": 881220,
+      "dDurationMs": 770,
+      "segs": [ {
+        "utf8": "That's how easy it is."
+      } ]
+    }, {
+      "tStartMs": 883450,
+      "dDurationMs": 3630,
+      "segs": [ {
+        "utf8": "So it's very possible for us to manage our\nanxiety."
+      } ]
+    }, {
+      "tStartMs": 888120,
+      "dDurationMs": 4695,
+      "segs": [ {
+        "utf8": "We can do it initially by greeting the\nanxiety when we begin to feel those signs."
+      } ]
+    }, {
+      "tStartMs": 892815,
+      "dDurationMs": 4704,
+      "segs": [ {
+        "utf8": "We can do it when we re-frame the\nsituation as a conversation."
+      } ]
+    }, {
+      "tStartMs": 897519,
+      "dDurationMs": 3064,
+      "segs": [ {
+        "utf8": "And we do it when we become present\noriented."
+      } ]
+    }, {
+      "tStartMs": 900583,
+      "dDurationMs": 3927,
+      "segs": [ {
+        "utf8": "Those are three of many tools that exist\nto help you manage your anxiety."
+      } ]
+    }, {
+      "tStartMs": 905870,
+      "dDurationMs": 3330,
+      "segs": [ {
+        "utf8": "If you have questions about other ways,\nI'm happy to chat with you."
+      } ]
+    }, {
+      "tStartMs": 909200,
+      "dDurationMs": 2940,
+      "segs": [ {
+        "utf8": "And at the end, I'm gonna point you to\nsome resources that you can"
+      } ]
+    }, {
+      "tStartMs": 912140,
+      "dDurationMs": 2980,
+      "segs": [ {
+        "utf8": "refer to to help you find additional\nsources for you."
+      } ]
+    }, {
+      "tStartMs": 917260,
+      "dDurationMs": 3470,
+      "segs": [ {
+        "utf8": "So let's get started on the core part of\nwhat we're doing today,"
+      } ]
+    }, {
+      "tStartMs": 920730,
+      "dDurationMs": 4690,
+      "segs": [ {
+        "utf8": "which is how to feel more comfortable\nspeaking in spontaneous situations."
+      } ]
+    }, {
+      "tStartMs": 925420,
+      "dDurationMs": 1620,
+      "segs": [ {
+        "utf8": "Some very simple ground rules for you."
+      } ]
+    }, {
+      "tStartMs": 928690,
+      "dDurationMs": 4140,
+      "segs": [ {
+        "utf8": "First, I'm going to identify four steps\nthat I believe are critical to"
+      } ]
+    }, {
+      "tStartMs": 932830,
+      "dDurationMs": 4140,
+      "segs": [ {
+        "utf8": "becoming effective at speaking in, in a\nspontaneous situation."
+      } ]
+    }, {
+      "tStartMs": 936970,
+      "dDurationMs": 3560,
+      "segs": [ {
+        "utf8": "With each of those steps, I'm going to ask\nyou to participate in an activity."
+      } ]
+    }, {
+      "tStartMs": 940530,
+      "dDurationMs": 3600,
+      "segs": [ {
+        "utf8": "None of them are more painful than saying\nthe tongue twister out loud."
+      } ]
+    }, {
+      "tStartMs": 944130,
+      "dDurationMs": 2680,
+      "segs": [ {
+        "utf8": "They may require you to stand up, they\nmight require you to talk to"
+      } ]
+    }, {
+      "tStartMs": 946810,
+      "dDurationMs": 3090,
+      "segs": [ {
+        "utf8": "the person next to you, but none of them\nare painful."
+      } ]
+    }, {
+      "tStartMs": 949900,
+      "dDurationMs": 2960,
+      "segs": [ {
+        "utf8": "And then finally, I'm going to conclude\nwith a phrase or"
+      } ]
+    }, {
+      "tStartMs": 952860,
+      "dDurationMs": 3160,
+      "segs": [ {
+        "utf8": "saying that comes from the wonderful world\nof improvisation."
+      } ]
+    }, {
+      "tStartMs": 957770,
+      "dDurationMs": 2720,
+      "segs": [ {
+        "utf8": "Through the continuing studies program\nhere at Stanford, for"
+      } ]
+    }, {
+      "tStartMs": 960490,
+      "dDurationMs": 3440,
+      "segs": [ {
+        "utf8": "the past five years, I have co-taught a\nclass with Adam Tobin."
+      } ]
+    }, {
+      "tStartMs": 963930,
+      "dDurationMs": 4370,
+      "segs": [ {
+        "utf8": "He is a lecturer in the Creative Arts\nDepartment."
+      } ]
+    }, {
+      "tStartMs": 968300,
+      "dDurationMs": 2210,
+      "segs": [ {
+        "utf8": "He teaches film and new media."
+      } ]
+    }, {
+      "tStartMs": 970510,
+      "dDurationMs": 1120,
+      "segs": [ {
+        "utf8": "And he's an expert at improv."
+      } ]
+    }, {
+      "tStartMs": 971630,
+      "dDurationMs": 2760,
+      "segs": [ {
+        "utf8": "And we've partnered together to help\npeople learn how to"
+      } ]
+    }, {
+      "tStartMs": 974390,
+      "dDurationMs": 1840,
+      "segs": [ {
+        "utf8": "speak more spontaneously."
+      } ]
+    }, {
+      "tStartMs": 976230,
+      "dDurationMs": 2530,
+      "segs": [ {
+        "utf8": "We call it improvisationally speaking."
+      } ]
+    }, {
+      "tStartMs": 978760,
+      "dDurationMs": 2600,
+      "segs": [ {
+        "utf8": "And Adam has taught me wonderful phrases\nand"
+      } ]
+    }, {
+      "tStartMs": 981360,
+      "dDurationMs": 3660,
+      "segs": [ {
+        "utf8": "ideas from improv that I want to impart to\nyou, that really stick."
+      } ]
+    }, {
+      "tStartMs": 985020,
+      "dDurationMs": 3260,
+      "segs": [ {
+        "utf8": "That's why I'm sharing them with you, to\nhelp you remember these techniques."
+      } ]
+    }, {
+      "tStartMs": 988280,
+      "dDurationMs": 3590,
+      "segs": [ {
+        "utf8": "And again at the end of all this, you'll\nget a handout that has this listed."
+      } ]
+    }, {
+      "tStartMs": 991870,
+      "dDurationMs": 1655,
+      "segs": [ {
+        "utf8": "So let's get started."
+      } ]
+    }, {
+      "tStartMs": 993525,
+      "dDurationMs": 6441,
+      "segs": [ {
+        "utf8": "The very first thing that gets in people's\nway when it comes to spontaneous speaking,"
+      } ]
+    }, {
+      "tStartMs": 999966,
+      "dDurationMs": 1245,
+      "segs": [ {
+        "utf8": "is themselves."
+      } ]
+    }, {
+      "tStartMs": 1001211,
+      "dDurationMs": 2647,
+      "segs": [ {
+        "utf8": "We get in our own way."
+      } ]
+    }, {
+      "tStartMs": 1003858,
+      "dDurationMs": 1950,
+      "segs": [ {
+        "utf8": "We want to be perfect."
+      } ]
+    }, {
+      "tStartMs": 1005808,
+      "dDurationMs": 2229,
+      "segs": [ {
+        "utf8": "We want to give the right answer."
+      } ]
+    }, {
+      "tStartMs": 1008037,
+      "dDurationMs": 3563,
+      "segs": [ {
+        "utf8": "We want out toast to be incredibly\nmemorable."
+      } ]
+    }, {
+      "tStartMs": 1011600,
+      "dDurationMs": 4820,
+      "segs": [ {
+        "utf8": "These things are burdened by our effort,\nby our trying."
+      } ]
+    }, {
+      "tStartMs": 1016420,
+      "dDurationMs": 1660,
+      "segs": [ {
+        "utf8": "The best thing we can do,"
+      } ]
+    }, {
+      "tStartMs": 1018080,
+      "dDurationMs": 4650,
+      "segs": [ {
+        "utf8": "the first step in our process, is to get\nourselves out of the way."
+      } ]
+    }, {
+      "tStartMs": 1024150,
+      "dDurationMs": 1820,
+      "segs": [ {
+        "utf8": "Easier said than done."
+      } ]
+    }, {
+      "tStartMs": 1025970,
+      "dDurationMs": 3707,
+      "segs": [ {
+        "utf8": "Most of us in this room are in this room\nbecause we are type A personalities."
+      } ]
+    }, {
+      "tStartMs": 1029677,
+      "dDurationMs": 4250,
+      "segs": [ {
+        "utf8": "We work hard, we think fast, we make sure\nthat we get things right."
+      } ]
+    }, {
+      "tStartMs": 1033927,
+      "dDurationMs": 4603,
+      "segs": [ {
+        "utf8": "But that can actually serve as a\ndisservice as we try to"
+      } ]
+    }, {
+      "tStartMs": 1038530,
+      "dDurationMs": 1851,
+      "segs": [ {
+        "utf8": "speak in the moment."
+      } ]
+    }, {
+      "tStartMs": 1040381,
+      "dDurationMs": 3460,
+      "segs": [ {
+        "utf8": "I'd like to demonstrate a little of this\nfor you, and I need your help to do that."
+      } ]
+    }, {
+      "tStartMs": 1043841,
+      "dDurationMs": 2763,
+      "segs": [ {
+        "utf8": "So we're going to do our first activity."
+      } ]
+    }, {
+      "tStartMs": 1046604,
+      "dDurationMs": 4412,
+      "segs": [ {
+        "utf8": "We are going to do an activity that's\ncalled shout the wrong name."
+      } ]
+    }, {
+      "tStartMs": 1051016,
+      "dDurationMs": 5024,
+      "segs": [ {
+        "utf8": "In a moment, if you are able and willing,\nI'm going to ask you to stand."
+      } ]
+    }, {
+      "tStartMs": 1056040,
+      "dDurationMs": 4340,
+      "segs": [ {
+        "utf8": "And I am going to ask you, for about 30\nseconds, to look all around you in"
+      } ]
+    }, {
+      "tStartMs": 1060380,
+      "dDurationMs": 2720,
+      "segs": [ {
+        "utf8": "this environment, and you are going to\npoint at different things."
+      } ]
+    }, {
+      "tStartMs": 1063100,
+      "dDurationMs": 3110,
+      "segs": [ {
+        "utf8": "And I know it's rude to point, but for\nthis exercise, please point."
+      } ]
+    }, {
+      "tStartMs": 1066210,
+      "dDurationMs": 2970,
+      "segs": [ {
+        "utf8": "I want you to point to things, and you are\ngoing to call the things you"
+      } ]
+    }, {
+      "tStartMs": 1069180,
+      "dDurationMs": 3290,
+      "segs": [ {
+        "utf8": "are pointing to, out loud, anything but\nwhat they really are."
+      } ]
+    }, {
+      "tStartMs": 1074090,
+      "dDurationMs": 2240,
+      "segs": [ {
+        "utf8": "So I might point to this and say,\nrefrigerator."
+      } ]
+    }, {
+      "tStartMs": 1077620,
+      "dDurationMs": 2230,
+      "segs": [ {
+        "utf8": "I might point to this and say, cat."
+      } ]
+    }, {
+      "tStartMs": 1081070,
+      "dDurationMs": 2650,
+      "segs": [ {
+        "utf8": "I am pointing to anything in your\nenvironment around you."
+      } ]
+    }, {
+      "tStartMs": 1083720,
+      "dDurationMs": 2650,
+      "segs": [ {
+        "utf8": "It can be the person sitting next to you,\nstanding next to you."
+      } ]
+    }, {
+      "tStartMs": 1086370,
+      "dDurationMs": 4380,
+      "segs": [ {
+        "utf8": "You will just shout, and shouting is\nimportant, the wrong name."
+      } ]
+    }, {
+      "tStartMs": 1093570,
+      "dDurationMs": 3157,
+      "segs": [ {
+        "utf8": "So in a moment I'm gonna ask you to stand\nand do that."
+      } ]
+    }, {
+      "tStartMs": 1096727,
+      "dDurationMs": 2597,
+      "segs": [ {
+        "utf8": "Please raise your hand if you already have\nthe first five or"
+      } ]
+    }, {
+      "tStartMs": 1099324,
+      "dDurationMs": 1699,
+      "segs": [ {
+        "utf8": "six things you're going to call out."
+      } ]
+    }, {
+      "tStartMs": 1101023,
+      "dDurationMs": 1927,
+      "segs": [ {
+        "utf8": "\u003e\u003e [LAUGH]."
+      } ]
+    }, {
+      "tStartMs": 1102950,
+      "dDurationMs": 3228,
+      "segs": [ {
+        "utf8": "\u003e\u003e Yeah, that's what I'm talking about."
+      } ]
+    }, {
+      "tStartMs": 1106178,
+      "dDurationMs": 1880,
+      "segs": [ {
+        "utf8": "We stockpile."
+      } ]
+    }, {
+      "tStartMs": 1108058,
+      "dDurationMs": 2502,
+      "segs": [ {
+        "utf8": "You all are excellent gameplayers."
+      } ]
+    }, {
+      "tStartMs": 1110560,
+      "dDurationMs": 3180,
+      "segs": [ {
+        "utf8": "I told you the game, shout the wrong name."
+      } ]
+    }, {
+      "tStartMs": 1113740,
+      "dDurationMs": 3700,
+      "segs": [ {
+        "utf8": "And you have already begun figuring out\nhow you're going to master the game."
+      } ]
+    }, {
+      "tStartMs": 1117440,
+      "dDurationMs": 4542,
+      "segs": [ {
+        "utf8": "That's your brain trying to help you get\nit right."
+      } ]
+    }, {
+      "tStartMs": 1121982,
+      "dDurationMs": 1362,
+      "segs": [ {
+        "utf8": "I'd like to suggest,"
+      } ]
+    }, {
+      "tStartMs": 1123344,
+      "dDurationMs": 4745,
+      "segs": [ {
+        "utf8": "the only way you can get this activity\nwrong is by doing what you've just done."
+      } ]
+    }, {
+      "tStartMs": 1128089,
+      "dDurationMs": 1137,
+      "segs": [ {
+        "utf8": "\u003e\u003e [LAUGH]."
+      } ]
+    }, {
+      "tStartMs": 1129226,
+      "dDurationMs": 2009,
+      "segs": [ {
+        "utf8": "\u003e\u003e There is no way to get this wrong."
+      } ]
+    }, {
+      "tStartMs": 1131235,
+      "dDurationMs": 1845,
+      "segs": [ {
+        "utf8": "Okay."
+      } ]
+    }, {
+      "tStartMs": 1133080,
+      "dDurationMs": 5385,
+      "segs": [ {
+        "utf8": "Even if I call this a chair, no penalty\nwill be bestowed upon you."
+      } ]
+    }, {
+      "tStartMs": 1138465,
+      "dDurationMs": 925,
+      "segs": [ {
+        "utf8": "\u003e\u003e [LAUGH]."
+      } ]
+    }, {
+      "tStartMs": 1139390,
+      "dDurationMs": 765,
+      "segs": [ {
+        "utf8": "\u003e\u003e Okay?"
+      } ]
+    }, {
+      "tStartMs": 1140155,
+      "dDurationMs": 1405,
+      "segs": [ {
+        "utf8": "Because I won't know what you were\npointing at."
+      } ]
+    }, {
+      "tStartMs": 1141560,
+      "dDurationMs": 3070,
+      "segs": [ {
+        "utf8": "You could have been pointing at the floor\nunder the chair, and"
+      } ]
+    }, {
+      "tStartMs": 1144630,
+      "dDurationMs": 1520,
+      "segs": [ {
+        "utf8": "you called the floor the chair and you\nwere fine."
+      } ]
+    }, {
+      "tStartMs": 1147240,
+      "dDurationMs": 3920,
+      "segs": [ {
+        "utf8": "The point is, we are planning and working\nto get it right."
+      } ]
+    }, {
+      "tStartMs": 1151160,
+      "dDurationMs": 2150,
+      "segs": [ {
+        "utf8": "And there is no way to get it right."
+      } ]
+    }, {
+      "tStartMs": 1153310,
+      "dDurationMs": 1930,
+      "segs": [ {
+        "utf8": "Just doing it gets it right."
+      } ]
+    }, {
+      "tStartMs": 1155240,
+      "dDurationMs": 1650,
+      "segs": [ {
+        "utf8": "Okay, so let's try this now."
+      } ]
+    }, {
+      "tStartMs": 1156890,
+      "dDurationMs": 1360,
+      "segs": [ {
+        "utf8": "We're gonna play this game twice."
+      } ]
+    }, {
+      "tStartMs": 1158250,
+      "dDurationMs": 1260,
+      "segs": [ {
+        "utf8": "Again, it's for 30 seconds."
+      } ]
+    }, {
+      "tStartMs": 1159510,
+      "dDurationMs": 2510,
+      "segs": [ {
+        "utf8": "If you are willing and able, will you\nplease stand up?"
+      } ]
+    }, {
+      "tStartMs": 1162020,
+      "dDurationMs": 1058,
+      "segs": [ {
+        "utf8": "You can do this seated, by the way."
+      } ]
+    }, {
+      "tStartMs": 1163078,
+      "dDurationMs": 1928,
+      "segs": [ {
+        "utf8": "But if you're willing and able, let's\nstand up."
+      } ]
+    }, {
+      "tStartMs": 1165006,
+      "dDurationMs": 3204,
+      "segs": [ {
+        "utf8": "Okay, in a moment I am about to say, go."
+      } ]
+    }, {
+      "tStartMs": 1168210,
+      "dDurationMs": 4209,
+      "segs": [ {
+        "utf8": "And I would like for you to point at\nanything around here, including me."
+      } ]
+    }, {
+      "tStartMs": 1172419,
+      "dDurationMs": 1138,
+      "segs": [ {
+        "utf8": "It's okay to point at me."
+      } ]
+    }, {
+      "tStartMs": 1173557,
+      "dDurationMs": 2484,
+      "segs": [ {
+        "utf8": "I hope it's not a bad thing you say when\nyou point at me."
+      } ]
+    }, {
+      "tStartMs": 1176041,
+      "dDurationMs": 3345,
+      "segs": [ {
+        "utf8": "But point at different things, and loudly\nand"
+      } ]
+    }, {
+      "tStartMs": 1179386,
+      "dDurationMs": 3528,
+      "segs": [ {
+        "utf8": "proudly call them different than what they\nare."
+      } ]
+    }, {
+      "tStartMs": 1182914,
+      "dDurationMs": 1045,
+      "segs": [ {
+        "utf8": "Ready?"
+      } ]
+    }, {
+      "tStartMs": 1183959,
+      "dDurationMs": 998,
+      "segs": [ {
+        "utf8": "Begin."
+      } ]
+    }, {
+      "tStartMs": 1184957,
+      "dDurationMs": 1347,
+      "segs": [ {
+        "utf8": "\u003e\u003e [CROSSTALK]."
+      } ]
+    }, {
+      "tStartMs": 1186304,
+      "dDurationMs": 975,
+      "segs": [ {
+        "utf8": "\u003e\u003e Porcupine."
+      } ]
+    }, {
+      "tStartMs": 1187279,
+      "dDurationMs": 1161,
+      "segs": [ {
+        "utf8": "\u003e\u003e [CROSSTALK]."
+      } ]
+    }, {
+      "tStartMs": 1188440,
+      "dDurationMs": 7983,
+      "segs": [ {
+        "utf8": "\u003e\u003e California, salt shaker, car, library,"
+      } ]
+    }, {
+      "tStartMs": 1196423,
+      "dDurationMs": 7992,
+      "segs": [ {
+        "utf8": "tennis racket, purple, orange, putrid."
+      } ]
+    }, {
+      "tStartMs": 1204415,
+      "dDurationMs": 1509,
+      "segs": [ {
+        "utf8": "Hello."
+      } ]
+    }, {
+      "tStartMs": 1205924,
+      "dDurationMs": 6826,
+      "segs": [ {
+        "utf8": "[NOISE]\nTime, time."
+      } ]
+    }, {
+      "tStartMs": 1212750,
+      "dDurationMs": 1001,
+      "segs": [ {
+        "utf8": "[NOISE] Let's,"
+      } ]
+    }, {
+      "tStartMs": 1213751,
+      "dDurationMs": 4781,
+      "segs": [ {
+        "utf8": "you can stay standing, cuz in mere\nmoments, we're going to do it again."
+      } ]
+    }, {
+      "tStartMs": 1218532,
+      "dDurationMs": 1927,
+      "segs": [ {
+        "utf8": "So if you're comfortable standing, we're\nabout to do it again."
+      } ]
+    }, {
+      "tStartMs": 1220459,
+      "dDurationMs": 1207,
+      "segs": [ {
+        "utf8": "First, thank you."
+      } ]
+    }, {
+      "tStartMs": 1221666,
+      "dDurationMs": 976,
+      "segs": [ {
+        "utf8": "That was wonderful."
+      } ]
+    }, {
+      "tStartMs": 1222642,
+      "dDurationMs": 2268,
+      "segs": [ {
+        "utf8": "I heard great words being called out."
+      } ]
+    }, {
+      "tStartMs": 1224910,
+      "dDurationMs": 1020,
+      "segs": [ {
+        "utf8": "It was, it was fun."
+      } ]
+    }, {
+      "tStartMs": 1225930,
+      "dDurationMs": 1890,
+      "segs": [ {
+        "utf8": "And some of you in the back were doing it\nin sync."
+      } ]
+    }, {
+      "tStartMs": 1227820,
+      "dDurationMs": 1983,
+      "segs": [ {
+        "utf8": "So it looked like you were doing some 70s\ndisco dance."
+      } ]
+    }, {
+      "tStartMs": 1229803,
+      "dDurationMs": 813,
+      "segs": [ {
+        "utf8": "It was awesome."
+      } ]
+    }, {
+      "tStartMs": 1230616,
+      "dDurationMs": 813,
+      "segs": [ {
+        "utf8": "Okay."
+      } ]
+    }, {
+      "tStartMs": 1231429,
+      "dDurationMs": 1718,
+      "segs": [ {
+        "utf8": "This, this was great."
+      } ]
+    }, {
+      "tStartMs": 1233147,
+      "dDurationMs": 3093,
+      "segs": [ {
+        "utf8": "Now, let me ask you just a few questions."
+      } ]
+    }, {
+      "tStartMs": 1236240,
+      "dDurationMs": 3140,
+      "segs": [ {
+        "utf8": "Did you notice anything about the words\nthat you were saying?"
+      } ]
+    }, {
+      "tStartMs": 1240980,
+      "dDurationMs": 2670,
+      "segs": [ {
+        "utf8": "Did we find patterns, perhaps?"
+      } ]
+    }, {
+      "tStartMs": 1243650,
+      "dDurationMs": 3030,
+      "segs": [ {
+        "utf8": "Maybe some of you were going through\nfruits and vegetables."
+      } ]
+    }, {
+      "tStartMs": 1246680,
+      "dDurationMs": 5360,
+      "segs": [ {
+        "utf8": "A few of you were going through things\nthat started with the letter A, right?"
+      } ]
+    }, {
+      "tStartMs": 1252040,
+      "dDurationMs": 3189,
+      "segs": [ {
+        "utf8": "That's your brain saying, okay you told me\nnot to stockpile, so"
+      } ]
+    }, {
+      "tStartMs": 1255229,
+      "dDurationMs": 5500,
+      "segs": [ {
+        "utf8": "I'm gonna try to be a little more devious\nand I'm gonna give you patterns, okay?"
+      } ]
+    }, {
+      "tStartMs": 1260729,
+      "dDurationMs": 2941,
+      "segs": [ {
+        "utf8": "Same problem."
+      } ]
+    }, {
+      "tStartMs": 1263670,
+      "dDurationMs": 3430,
+      "segs": [ {
+        "utf8": "When we teach that class I told you about,\nthat improvisationally speaking class,"
+      } ]
+    }, {
+      "tStartMs": 1267100,
+      "dDurationMs": 2190,
+      "segs": [ {
+        "utf8": "we like to say, your brain is there to\nhelp you."
+      } ]
+    }, {
+      "tStartMs": 1270390,
+      "dDurationMs": 3670,
+      "segs": [ {
+        "utf8": "These things it's doing have helped you be\nsuccessful, but like a windshield wiper,"
+      } ]
+    }, {
+      "tStartMs": 1274060,
+      "dDurationMs": 3640,
+      "segs": [ {
+        "utf8": "we just wanna wipe those suggestions away\nand see what happens."
+      } ]
+    }, {
+      "tStartMs": 1277700,
+      "dDurationMs": 1380,
+      "segs": [ {
+        "utf8": "Okay."
+      } ]
+    }, {
+      "tStartMs": 1279080,
+      "dDurationMs": 1680,
+      "segs": [ {
+        "utf8": "So we're going to do this activity again."
+      } ]
+    }, {
+      "tStartMs": 1282000,
+      "dDurationMs": 4210,
+      "segs": [ {
+        "utf8": "This time, try the best you can to thank\nyour brain if it provides you"
+      } ]
+    }, {
+      "tStartMs": 1286210,
+      "dDurationMs": 3240,
+      "segs": [ {
+        "utf8": "with patterns or stockpiles and just say\nthank you brain."
+      } ]
+    }, {
+      "tStartMs": 1289450,
+      "dDurationMs": 1360,
+      "segs": [ {
+        "utf8": "And disregard them."
+      } ]
+    }, {
+      "tStartMs": 1290810,
+      "dDurationMs": 2950,
+      "segs": [ {
+        "utf8": "Okay, so lets see what happens when we're\nnot stockpiling and"
+      } ]
+    }, {
+      "tStartMs": 1293760,
+      "dDurationMs": 1170,
+      "segs": [ {
+        "utf8": "we're not playing off patterns."
+      } ]
+    }, {
+      "tStartMs": 1294930,
+      "dDurationMs": 4200,
+      "segs": [ {
+        "utf8": "We'll do this for only 15 seconds, see how\nthis feels."
+      } ]
+    }, {
+      "tStartMs": 1300130,
+      "dDurationMs": 1130,
+      "segs": [ {
+        "utf8": "Baby steps."
+      } ]
+    }, {
+      "tStartMs": 1301260,
+      "dDurationMs": 6076,
+      "segs": [ {
+        "utf8": "Ready begin.\n[NOISE] Kodak, [NOISE] Bicycle chain."
+      } ]
+    }, {
+      "tStartMs": 1307336,
+      "dDurationMs": 1857,
+      "segs": [ {
+        "utf8": "Skate board."
+      } ]
+    }, {
+      "tStartMs": 1309193,
+      "dDurationMs": 4337,
+      "segs": [ {
+        "utf8": "Bananas."
+      } ]
+    }, {
+      "tStartMs": 1313530,
+      "dDurationMs": 4041,
+      "segs": [ {
+        "utf8": "Purple."
+      } ]
+    }, {
+      "tStartMs": 1317571,
+      "dDurationMs": 1433,
+      "segs": [ {
+        "utf8": "Putrid."
+      } ]
+    }, {
+      "tStartMs": 1319004,
+      "dDurationMs": 5085,
+      "segs": [ {
+        "utf8": "[NOISE]\nTime."
+      } ]
+    }, {
+      "tStartMs": 1324089,
+      "dDurationMs": 1486,
+      "segs": [ {
+        "utf8": "Please have a seat."
+      } ]
+    }, {
+      "tStartMs": 1325575,
+      "dDurationMs": 2345,
+      "segs": [ {
+        "utf8": "Thank you again."
+      } ]
+    }, {
+      "tStartMs": 1327920,
+      "dDurationMs": 6040,
+      "segs": [ {
+        "utf8": "Did you notice a difference between the\nsecond time and the first time."
+      } ]
+    }, {
+      "tStartMs": 1335060,
+      "dDurationMs": 3170,
+      "segs": [ {
+        "utf8": "Yes, was it a little easier that second\ntime?"
+      } ]
+    }, {
+      "tStartMs": 1338230,
+      "dDurationMs": 500,
+      "segs": [ {
+        "utf8": "No."
+      } ]
+    }, {
+      "tStartMs": 1340080,
+      "dDurationMs": 1160,
+      "segs": [ {
+        "utf8": "That's okay."
+      } ]
+    }, {
+      "tStartMs": 1341240,
+      "dDurationMs": 1660,
+      "segs": [ {
+        "utf8": "We're just starting."
+      } ]
+    }, {
+      "tStartMs": 1342900,
+      "dDurationMs": 2155,
+      "segs": [ {
+        "utf8": "These skills are not like a light switch."
+      } ]
+    }, {
+      "tStartMs": 1345055,
+      "dDurationMs": 1865,
+      "segs": [ {
+        "utf8": "It's not like you learn these [UNKNOWN]\nskills and"
+      } ]
+    }, {
+      "tStartMs": 1346920,
+      "dDurationMs": 2600,
+      "segs": [ {
+        "utf8": "then all of a sudden you can execute on\nthem."
+      } ]
+    }, {
+      "tStartMs": 1349520,
+      "dDurationMs": 1020,
+      "segs": [ {
+        "utf8": "This is a wonderful game."
+      } ]
+    }, {
+      "tStartMs": 1350540,
+      "dDurationMs": 5980,
+      "segs": [ {
+        "utf8": "This is a wonderful game to train your\nbrain to get out of its own way."
+      } ]
+    }, {
+      "tStartMs": 1356520,
+      "dDurationMs": 2520,
+      "segs": [ {
+        "utf8": "You can play this game anywhere, anytime."
+      } ]
+    }, {
+      "tStartMs": 1359040,
+      "dDurationMs": 2015,
+      "segs": [ {
+        "utf8": "I like to play this game when I'm sitting\nin traffic."
+      } ]
+    }, {
+      "tStartMs": 1361055,
+      "dDurationMs": 1285,
+      "segs": [ {
+        "utf8": "\u003e\u003e [LAUGH]."
+      } ]
+    }, {
+      "tStartMs": 1362340,
+      "dDurationMs": 2960,
+      "segs": [ {
+        "utf8": "\u003e\u003e Makes me feel better than the, I shout\nthings out."
+      } ]
+    }, {
+      "tStartMs": 1365300,
+      "dDurationMs": 2110,
+      "segs": [ {
+        "utf8": "They're not the naughty things that I\nwanna be shouting out."
+      } ]
+    }, {
+      "tStartMs": 1367410,
+      "dDurationMs": 2430,
+      "segs": [ {
+        "utf8": "But I shout out things, and it helps."
+      } ]
+    }, {
+      "tStartMs": 1369840,
+      "dDurationMs": 1710,
+      "segs": [ {
+        "utf8": "You're training yourself to get out of\nyour own way."
+      } ]
+    }, {
+      "tStartMs": 1371550,
+      "dDurationMs": 4280,
+      "segs": [ {
+        "utf8": "You're working against the muscle memory\nthat you've developed over the course of"
+      } ]
+    }, {
+      "tStartMs": 1375830,
+      "dDurationMs": 3320,
+      "segs": [ {
+        "utf8": "your life with a vain, a brain that acts\nvery fast to help you solve problems."
+      } ]
+    }, {
+      "tStartMs": 1379150,
+      "dDurationMs": 2560,
+      "segs": [ {
+        "utf8": "But in essence, in spontaneous speaking\nsituations,"
+      } ]
+    }, {
+      "tStartMs": 1381710,
+      "dDurationMs": 4630,
+      "segs": [ {
+        "utf8": "you put too much pressure on yourself\ntrying to figure out how to get it right."
+      } ]
+    }, {
+      "tStartMs": 1388170,
+      "dDurationMs": 2740,
+      "segs": [ {
+        "utf8": "So a game like this teaches us to get out\nof our own way."
+      } ]
+    }, {
+      "tStartMs": 1390910,
+      "dDurationMs": 6560,
+      "segs": [ {
+        "utf8": "It teaches us to see the things that we do\nthat prevent us from acting spontaneously."
+      } ]
+    }, {
+      "tStartMs": 1399350,
+      "dDurationMs": 4180,
+      "segs": [ {
+        "utf8": "In essence we are reacting rather than\nresponding."
+      } ]
+    }, {
+      "tStartMs": 1403530,
+      "dDurationMs": 1210,
+      "segs": [ {
+        "utf8": "To react means to act again."
+      } ]
+    }, {
+      "tStartMs": 1406750,
+      "dDurationMs": 1410,
+      "segs": [ {
+        "utf8": "You've thought it and now you're acting on\nit."
+      } ]
+    }, {
+      "tStartMs": 1408160,
+      "dDurationMs": 1920,
+      "segs": [ {
+        "utf8": "That takes too long and it's too\nthoughtful."
+      } ]
+    }, {
+      "tStartMs": 1410080,
+      "dDurationMs": 4300,
+      "segs": [ {
+        "utf8": "We want to respond in a way that's genuine\nand authentic."
+      } ]
+    }, {
+      "tStartMs": 1416158,
+      "dDurationMs": 2762,
+      "segs": [ {
+        "utf8": "So the maxims I would like for you to take\nfrom this, and"
+      } ]
+    }, {
+      "tStartMs": 1418920,
+      "dDurationMs": 3750,
+      "segs": [ {
+        "utf8": "again these maxims come from\nimprovisation, is one of my favorite."
+      } ]
+    }, {
+      "tStartMs": 1422670,
+      "dDurationMs": 1200,
+      "segs": [ {
+        "utf8": "Dare to be dull."
+      } ]
+    }, {
+      "tStartMs": 1425120,
+      "dDurationMs": 4070,
+      "segs": [ {
+        "utf8": "And in a room like this, telling you dare\nto be dull is offensive, and I apologize."
+      } ]
+    }, {
+      "tStartMs": 1429190,
+      "dDurationMs": 2230,
+      "segs": [ {
+        "utf8": "But this will help."
+      } ]
+    }, {
+      "tStartMs": 1431420,
+      "dDurationMs": 5230,
+      "segs": [ {
+        "utf8": "Rather than stre, striving for greatness,\ndare to be dull."
+      } ]
+    }, {
+      "tStartMs": 1437660,
+      "dDurationMs": 2410,
+      "segs": [ {
+        "utf8": "And if you dare to be dull and allow\nyourself that,"
+      } ]
+    }, {
+      "tStartMs": 1440070,
+      "dDurationMs": 2570,
+      "segs": [ {
+        "utf8": "you will reach that greatness."
+      } ]
+    }, {
+      "tStartMs": 1442640,
+      "dDurationMs": 3220,
+      "segs": [ {
+        "utf8": "It's when you set greatness as your\ntarget,"
+      } ]
+    }, {
+      "tStartMs": 1445860,
+      "dDurationMs": 2970,
+      "segs": [ {
+        "utf8": "that it gets in the way of you ever\ngetting there."
+      } ]
+    }, {
+      "tStartMs": 1448830,
+      "dDurationMs": 2060,
+      "segs": [ {
+        "utf8": "Because you over evaluate, you over\nanalyze, you freeze up."
+      } ]
+    }, {
+      "tStartMs": 1452140,
+      "dDurationMs": 5440,
+      "segs": [ {
+        "utf8": "So the first step in our process today, is\nto get out of our own way."
+      } ]
+    }, {
+      "tStartMs": 1457580,
+      "dDurationMs": 1520,
+      "segs": [ {
+        "utf8": "Dare to be dull."
+      } ]
+    }, {
+      "tStartMs": 1459100,
+      "dDurationMs": 980,
+      "segs": [ {
+        "utf8": "Easier said than done."
+      } ]
+    }, {
+      "tStartMs": 1460080,
+      "dDurationMs": 1620,
+      "segs": [ {
+        "utf8": "But once you practice,"
+      } ]
+    }, {
+      "tStartMs": 1461700,
+      "dDurationMs": 3689,
+      "segs": [ {
+        "utf8": "and a game just as simple as the one we\npracticed, is a great way to do it."
+      } ]
+    }, {
+      "tStartMs": 1467060,
+      "dDurationMs": 1710,
+      "segs": [ {
+        "utf8": "But that's not enough."
+      } ]
+    }, {
+      "tStartMs": 1468770,
+      "dDurationMs": 1950,
+      "segs": [ {
+        "utf8": "Getting out of our own way is important."
+      } ]
+    }, {
+      "tStartMs": 1470720,
+      "dDurationMs": 3970,
+      "segs": [ {
+        "utf8": "But the second step of our process has us\nchange how we"
+      } ]
+    }, {
+      "tStartMs": 1474690,
+      "dDurationMs": 2050,
+      "segs": [ {
+        "utf8": "see the situation we find ourselves in."
+      } ]
+    }, {
+      "tStartMs": 1477910,
+      "dDurationMs": 5690,
+      "segs": [ {
+        "utf8": "We need to see the speaking opportunity\nthat we are a part of as an opportunity,"
+      } ]
+    }, {
+      "tStartMs": 1483600,
+      "dDurationMs": 1430,
+      "segs": [ {
+        "utf8": "rather than a challenge and a threat."
+      } ]
+    }, {
+      "tStartMs": 1486580,
+      "dDurationMs": 2370,
+      "segs": [ {
+        "utf8": "When I coach executives on Q and"
+      } ]
+    }, {
+      "tStartMs": 1488950,
+      "dDurationMs": 6920,
+      "segs": [ {
+        "utf8": "A skills, when they go in front of the\nmedia or whatever, investors."
+      } ]
+    }, {
+      "tStartMs": 1495870,
+      "dDurationMs": 2480,
+      "segs": [ {
+        "utf8": "They see it as an adversarial experience,\nme versus them."
+      } ]
+    }, {
+      "tStartMs": 1498350,
+      "dDurationMs": 6050,
+      "segs": [ {
+        "utf8": "And one of the first things I work on is\nchange the way you approach it."
+      } ]
+    }, {
+      "tStartMs": 1506190,
+      "dDurationMs": 3060,
+      "segs": [ {
+        "utf8": "A Q and A session, for example, is an\nopportunity for you."
+      } ]
+    }, {
+      "tStartMs": 1509250,
+      "dDurationMs": 1280,
+      "segs": [ {
+        "utf8": "It's an opportunity to clarify,"
+      } ]
+    }, {
+      "tStartMs": 1510530,
+      "dDurationMs": 2730,
+      "segs": [ {
+        "utf8": "it's an opportunity to understand what\npeople are thinking."
+      } ]
+    }, {
+      "tStartMs": 1513260,
+      "dDurationMs": 3660,
+      "segs": [ {
+        "utf8": "So if we look at it as an opportunity, it\nfeels very different."
+      } ]
+    }, {
+      "tStartMs": 1518030,
+      "dDurationMs": 4160,
+      "segs": [ {
+        "utf8": "We see it differently, and therefore we\nhave more freedom to respond."
+      } ]
+    }, {
+      "tStartMs": 1522190,
+      "dDurationMs": 1960,
+      "segs": [ {
+        "utf8": "When I feel that you are challenging me,"
+      } ]
+    }, {
+      "tStartMs": 1524150,
+      "dDurationMs": 4210,
+      "segs": [ {
+        "utf8": "I am going to do the bare minimum to\nrespond and protect myself."
+      } ]
+    }, {
+      "tStartMs": 1529490,
+      "dDurationMs": 3230,
+      "segs": [ {
+        "utf8": "If I see this as an opportunity where I\nhave a chance to explain and"
+      } ]
+    }, {
+      "tStartMs": 1532720,
+      "dDurationMs": 4480,
+      "segs": [ {
+        "utf8": "expand, I'm going to interact differently\nwith you."
+      } ]
+    }, {
+      "tStartMs": 1537200,
+      "dDurationMs": 3140,
+      "segs": [ {
+        "utf8": "So, spontaneous speaking situations are\nones that afford you opportunities."
+      } ]
+    }, {
+      "tStartMs": 1542460,
+      "dDurationMs": 2250,
+      "segs": [ {
+        "utf8": "So when you're at a corporate dinner, and\nyour boss turns to you and"
+      } ]
+    }, {
+      "tStartMs": 1544710,
+      "dDurationMs": 1910,
+      "segs": [ {
+        "utf8": "says, oh, you know him better than the\nrest."
+      } ]
+    }, {
+      "tStartMs": 1546620,
+      "dDurationMs": 1550,
+      "segs": [ {
+        "utf8": "Would you mind introducing him?"
+      } ]
+    }, {
+      "tStartMs": 1548170,
+      "dDurationMs": 5170,
+      "segs": [ {
+        "utf8": "You say, great, thank you for the\nopportunity, rather than, [UNKNOWN] right?"
+      } ]
+    }, {
+      "tStartMs": 1553340,
+      "dDurationMs": 1040,
+      "segs": [ {
+        "utf8": "I better get this right."
+      } ]
+    }, {
+      "tStartMs": 1555850,
+      "dDurationMs": 2680,
+      "segs": [ {
+        "utf8": "So see things as an opportunity."
+      } ]
+    }, {
+      "tStartMs": 1558530,
+      "dDurationMs": 3720,
+      "segs": [ {
+        "utf8": "I have a game to play to help us with\nthis."
+      } ]
+    }, {
+      "tStartMs": 1563250,
+      "dDurationMs": 4010,
+      "segs": [ {
+        "utf8": "This is a fun one, the holidays are\napproaching, we all, in this room,"
+      } ]
+    }, {
+      "tStartMs": 1567260,
+      "dDurationMs": 1560,
+      "segs": [ {
+        "utf8": "are going to give and receive gifts."
+      } ]
+    }, {
+      "tStartMs": 1569980,
+      "dDurationMs": 1930,
+      "segs": [ {
+        "utf8": "Here is how this game will work."
+      } ]
+    }, {
+      "tStartMs": 1571910,
+      "dDurationMs": 2270,
+      "segs": [ {
+        "utf8": "It works best if you have a partner."
+      } ]
+    }, {
+      "tStartMs": 1574180,
+      "dDurationMs": 2820,
+      "segs": [ {
+        "utf8": "So I am hoping you can work with somebody\nsitting next to you."
+      } ]
+    }, {
+      "tStartMs": 1577000,
+      "dDurationMs": 1330,
+      "segs": [ {
+        "utf8": "If there is nobody sitting next to you,"
+      } ]
+    }, {
+      "tStartMs": 1578330,
+      "dDurationMs": 2980,
+      "segs": [ {
+        "utf8": "turn around, introduce yourself, great way\nto connect."
+      } ]
+    }, {
+      "tStartMs": 1581310,
+      "dDurationMs": 1640,
+      "segs": [ {
+        "utf8": "If not, you can play this game by\nyourself."
+      } ]
+    }, {
+      "tStartMs": 1582950,
+      "dDurationMs": 2490,
+      "segs": [ {
+        "utf8": "It's just a little harder, and you can't\ndo the second part of the game."
+      } ]
+    }, {
+      "tStartMs": 1585440,
+      "dDurationMs": 3600,
+      "segs": [ {
+        "utf8": "So, after I explain the game, give, this\ngives you a chance to,"
+      } ]
+    }, {
+      "tStartMs": 1589040,
+      "dDurationMs": 1360,
+      "segs": [ {
+        "utf8": "to get to know somebody."
+      } ]
+    }, {
+      "tStartMs": 1590400,
+      "dDurationMs": 860,
+      "segs": [ {
+        "utf8": "Here's how it works."
+      } ]
+    }, {
+      "tStartMs": 1591260,
+      "dDurationMs": 2080,
+      "segs": [ {
+        "utf8": "If you have a partner, you and"
+      } ]
+    }, {
+      "tStartMs": 1593340,
+      "dDurationMs": 3940,
+      "segs": [ {
+        "utf8": "your partner are going to exchange\nimaginary gifts, okay?"
+      } ]
+    }, {
+      "tStartMs": 1597280,
+      "dDurationMs": 1260,
+      "segs": [ {
+        "utf8": "Pretend you have a gift."
+      } ]
+    }, {
+      "tStartMs": 1598540,
+      "dDurationMs": 2900,
+      "segs": [ {
+        "utf8": "It can be a big gift, can be a small gift."
+      } ]
+    }, {
+      "tStartMs": 1601440,
+      "dDurationMs": 1500,
+      "segs": [ {
+        "utf8": "And you will give your gift to your\npartner."
+      } ]
+    }, {
+      "tStartMs": 1604780,
+      "dDurationMs": 3130,
+      "segs": [ {
+        "utf8": "Your partner will take the gift and open\nit up and"
+      } ]
+    }, {
+      "tStartMs": 1607910,
+      "dDurationMs": 3960,
+      "segs": [ {
+        "utf8": "will tell you what you gave them, because\nyou have no, you just gave them a gift."
+      } ]
+    }, {
+      "tStartMs": 1611870,
+      "dDurationMs": 3130,
+      "segs": [ {
+        "utf8": "So you are going to open up the box, and\nyou're going to look inside."
+      } ]
+    }, {
+      "tStartMs": 1615000,
+      "dDurationMs": 3260,
+      "segs": [ {
+        "utf8": "And you are going to say the first thing\nthat comes to your mind in the moment,"
+      } ]
+    }, {
+      "tStartMs": 1618260,
+      "dDurationMs": 3454,
+      "segs": [ {
+        "utf8": "not the thing you have all just thought\nof."
+      } ]
+    }, {
+      "tStartMs": 1621714,
+      "dDurationMs": 2066,
+      "segs": [ {
+        "utf8": "\u003e\u003e [LAUGH]\n\u003e\u003e Or the thing after that."
+      } ]
+    }, {
+      "tStartMs": 1623780,
+      "dDurationMs": 1530,
+      "segs": [ {
+        "utf8": "Remember what we talked about before?"
+      } ]
+    }, {
+      "tStartMs": 1625310,
+      "dDurationMs": 2440,
+      "segs": [ {
+        "utf8": "That still plays, that's still in play."
+      } ]
+    }, {
+      "tStartMs": 1627750,
+      "dDurationMs": 1780,
+      "segs": [ {
+        "utf8": "Okay, you're stock piling."
+      } ]
+    }, {
+      "tStartMs": 1629530,
+      "dDurationMs": 1330,
+      "segs": [ {
+        "utf8": "Look in there."
+      } ]
+    }, {
+      "tStartMs": 1630860,
+      "dDurationMs": 3470,
+      "segs": [ {
+        "utf8": "My favorite that I said, somebody gave me\nthis, a gift during playing this game,"
+      } ]
+    }, {
+      "tStartMs": 1634330,
+      "dDurationMs": 2910,
+      "segs": [ {
+        "utf8": "I looked inside and I saw a frog leg."
+      } ]
+    }, {
+      "tStartMs": 1637240,
+      "dDurationMs": 2820,
+      "segs": [ {
+        "utf8": "I don't know why I saw a frog leg, but\nthat's what I said."
+      } ]
+    }, {
+      "tStartMs": 1640060,
+      "dDurationMs": 1660,
+      "segs": [ {
+        "utf8": "That's the first part of the activity."
+      } ]
+    }, {
+      "tStartMs": 1642750,
+      "dDurationMs": 4200,
+      "segs": [ {
+        "utf8": "Now, the opportunity is twofold in this\ngame."
+      } ]
+    }, {
+      "tStartMs": 1646950,
+      "dDurationMs": 2960,
+      "segs": [ {
+        "utf8": "The opportunity is for you, the gift\nreceiver, to name a gift."
+      } ]
+    }, {
+      "tStartMs": 1649910,
+      "dDurationMs": 640,
+      "segs": [ {
+        "utf8": "That's kind of fun."
+      } ]
+    }, {
+      "tStartMs": 1650550,
+      "dDurationMs": 820,
+      "segs": [ {
+        "utf8": "That's an opportunity."
+      } ]
+    }, {
+      "tStartMs": 1651370,
+      "dDurationMs": 650,
+      "segs": [ {
+        "utf8": "It's not a threat."
+      } ]
+    }, {
+      "tStartMs": 1653310,
+      "dDurationMs": 1370,
+      "segs": [ {
+        "utf8": "But the real opportunity is for"
+      } ]
+    }, {
+      "tStartMs": 1654680,
+      "dDurationMs": 3340,
+      "segs": [ {
+        "utf8": "the gift giver, because the gift giver\nthen has to say."
+      } ]
+    }, {
+      "tStartMs": 1659490,
+      "dDurationMs": 2220,
+      "segs": [ {
+        "utf8": "So you look and you say thank you for\ngiving me a frog's leg, and"
+      } ]
+    }, {
+      "tStartMs": 1661710,
+      "dDurationMs": 5740,
+      "segs": [ {
+        "utf8": "the person will, will look at you and say\nI knew you wanted a frog's leg, because So"
+      } ]
+    }, {
+      "tStartMs": 1667450,
+      "dDurationMs": 5130,
+      "segs": [ {
+        "utf8": "whatever you find the person who has\nreceived it is going to say absolutely,"
+      } ]
+    }, {
+      "tStartMs": 1672580,
+      "dDurationMs": 2410,
+      "segs": [ {
+        "utf8": "I'm so glad you're happy, I got it for you\nbecause."
+      } ]
+    }, {
+      "tStartMs": 1674990,
+      "dDurationMs": 2520,
+      "segs": [ {
+        "utf8": "So you have to respond to whatever they\nsay."
+      } ]
+    }, {
+      "tStartMs": 1678630,
+      "dDurationMs": 1260,
+      "segs": [ {
+        "utf8": "Right?"
+      } ]
+    }, {
+      "tStartMs": 1679890,
+      "dDurationMs": 1040,
+      "segs": [ {
+        "utf8": "What a great opportunity."
+      } ]
+    }, {
+      "tStartMs": 1680930,
+      "dDurationMs": 1730,
+      "segs": [ {
+        "utf8": "Now some of you are sitting there going,\noh, that's hard."
+      } ]
+    }, {
+      "tStartMs": 1682660,
+      "dDurationMs": 1340,
+      "segs": [ {
+        "utf8": "I don't wanna do it, I might make a fool\nout of myself."
+      } ]
+    }, {
+      "tStartMs": 1684000,
+      "dDurationMs": 1970,
+      "segs": [ {
+        "utf8": "Others of you are, if you're following\nthis advice,"
+      } ]
+    }, {
+      "tStartMs": 1685970,
+      "dDurationMs": 2830,
+      "segs": [ {
+        "utf8": "are saying, what a great opportunity."
+      } ]
+    }, {
+      "tStartMs": 1688800,
+      "dDurationMs": 580,
+      "segs": [ {
+        "utf8": "Right?"
+      } ]
+    }, {
+      "tStartMs": 1689380,
+      "dDurationMs": 1670,
+      "segs": [ {
+        "utf8": "So, the game again is played like this."
+      } ]
+    }, {
+      "tStartMs": 1691050,
+      "dDurationMs": 3030,
+      "segs": [ {
+        "utf8": "You and your partner will exchange, each\nwill exchange a gift."
+      } ]
+    }, {
+      "tStartMs": 1694080,
+      "dDurationMs": 2200,
+      "segs": [ {
+        "utf8": "One will start, then the other will\nfollow."
+      } ]
+    }, {
+      "tStartMs": 1696280,
+      "dDurationMs": 2060,
+      "segs": [ {
+        "utf8": "The first person will give a gift to the\nsecond person."
+      } ]
+    }, {
+      "tStartMs": 1698340,
+      "dDurationMs": 3590,
+      "segs": [ {
+        "utf8": "Second person opens the box, however big\nthe box is, and if the box is big, and"
+      } ]
+    }, {
+      "tStartMs": 1701930,
+      "dDurationMs": 2810,
+      "segs": [ {
+        "utf8": "you find a penny in it, perfect, doesn't\nmatter."
+      } ]
+    }, {
+      "tStartMs": 1704740,
+      "dDurationMs": 2230,
+      "segs": [ {
+        "utf8": "The box is heavy and you find a feather in\nit, fine."
+      } ]
+    }, {
+      "tStartMs": 1706970,
+      "dDurationMs": 1800,
+      "segs": [ {
+        "utf8": "It doesn't, there's no way to get it\nwrong."
+      } ]
+    }, {
+      "tStartMs": 1708770,
+      "dDurationMs": 540,
+      "segs": [ {
+        "utf8": "Okay?"
+      } ]
+    }, {
+      "tStartMs": 1709310,
+      "dDurationMs": 1320,
+      "segs": [ {
+        "utf8": "Whatever's in the box is in the box."
+      } ]
+    }, {
+      "tStartMs": 1710630,
+      "dDurationMs": 2120,
+      "segs": [ {
+        "utf8": "You can return it and get what you wanted\nlater."
+      } ]
+    }, {
+      "tStartMs": 1712750,
+      "dDurationMs": 913,
+      "segs": [ {
+        "utf8": "Okay?\n\u003e\u003e [LAUGH]"
+      } ]
+    }, {
+      "tStartMs": 1713663,
+      "dDurationMs": 3977,
+      "segs": [ {
+        "utf8": "\u003e\u003e The person, then, you will name it."
+      } ]
+    }, {
+      "tStartMs": 1717640,
+      "dDurationMs": 3110,
+      "segs": [ {
+        "utf8": "You will say thank you for the, whatever\nyou saw in the box."
+      } ]
+    }, {
+      "tStartMs": 1720750,
+      "dDurationMs": 4130,
+      "segs": [ {
+        "utf8": "The person who gave it to you will say,\nI'm so glad you're excited."
+      } ]
+    }, {
+      "tStartMs": 1724880,
+      "dDurationMs": 1410,
+      "segs": [ {
+        "utf8": "I got it for you because."
+      } ]
+    }, {
+      "tStartMs": 1726290,
+      "dDurationMs": 5790,
+      "segs": [ {
+        "utf8": "And you will give a reason that you got\nthem whatever they decided you gave them."
+      } ]
+    }, {
+      "tStartMs": 1732080,
+      "dDurationMs": 1150,
+      "segs": [ {
+        "utf8": "Make sense?"
+      } ]
+    }, {
+      "tStartMs": 1733230,
+      "dDurationMs": 720,
+      "segs": [ {
+        "utf8": "All right."
+      } ]
+    }, {
+      "tStartMs": 1733950,
+      "dDurationMs": 1120,
+      "segs": [ {
+        "utf8": "So, very quickly just,"
+      } ]
+    }, {
+      "tStartMs": 1735070,
+      "dDurationMs": 2810,
+      "segs": [ {
+        "utf8": "in five seconds, find a partner if you're\nwilling to do this with a partner."
+      } ]
+    }, {
+      "tStartMs": 1737880,
+      "dDurationMs": 885,
+      "segs": [ {
+        "utf8": "Everybody have a partner?"
+      } ]
+    }, {
+      "tStartMs": 1738765,
+      "dDurationMs": 908,
+      "segs": [ {
+        "utf8": "\u003e\u003e [LAUGH]."
+      } ]
+    }, {
+      "tStartMs": 1739673,
+      "dDurationMs": 859,
+      "segs": [ {
+        "utf8": "\u003e\u003e Okay."
+      } ]
+    }, {
+      "tStartMs": 1740532,
+      "dDurationMs": 4563,
+      "segs": [ {
+        "utf8": "[BLANK_AUDIO]"
+      } ]
+    }, {
+      "tStartMs": 1745095,
+      "dDurationMs": 2562,
+      "segs": [ {
+        "utf8": "All right.\nIn your partnerships,"
+      } ]
+    }, {
+      "tStartMs": 1747657,
+      "dDurationMs": 4883,
+      "segs": [ {
+        "utf8": "in your partnerships, pick an a person and\na b person."
+      } ]
+    }, {
+      "tStartMs": 1752540,
+      "dDurationMs": 2330,
+      "segs": [ {
+        "utf8": "You may stand or sit, it's totally up to\nyou."
+      } ]
+    }, {
+      "tStartMs": 1756940,
+      "dDurationMs": 740,
+      "segs": [ {
+        "utf8": "Pick an a and pick a b."
+      } ]
+    }, {
+      "tStartMs": 1757680,
+      "dDurationMs": 500,
+      "segs": [ {
+        "utf8": "Okay?"
+      } ]
+    }, {
+      "tStartMs": 1760480,
+      "dDurationMs": 3004,
+      "segs": [ {
+        "utf8": "B goes first, [LAUGH]."
+      } ]
+    }, {
+      "tStartMs": 1763484,
+      "dDurationMs": 2915,
+      "segs": [ {
+        "utf8": "All right."
+      } ]
+    }, {
+      "tStartMs": 1766399,
+      "dDurationMs": 2671,
+      "segs": [ {
+        "utf8": "B, give a a gift."
+      } ]
+    }, {
+      "tStartMs": 1769070,
+      "dDurationMs": 5460,
+      "segs": [ {
+        "utf8": "A thank them, and then b will name and\ngive the reason they gave it to them."
+      } ]
+    }, {
+      "tStartMs": 1774530,
+      "dDurationMs": 5873,
+      "segs": [ {
+        "utf8": "[NOISE]\nIf"
+      } ]
+    }, {
+      "tStartMs": 1780403,
+      "dDurationMs": 8390,
+      "segs": [ {
+        "utf8": "you have not"
+      } ]
+    }, {
+      "tStartMs": 1788793,
+      "dDurationMs": 8390,
+      "segs": [ {
+        "utf8": "switched,"
+      } ]
+    }, {
+      "tStartMs": 1797183,
+      "dDurationMs": 5034,
+      "segs": [ {
+        "utf8": "switch"
+      } ]
+    }, {
+      "tStartMs": 1802217,
+      "dDurationMs": 6713,
+      "segs": [ {
+        "utf8": "please."
+      } ]
+    }, {
+      "tStartMs": 1808930,
+      "dDurationMs": 2403,
+      "segs": [ {
+        "utf8": "If you have not switched, switch please."
+      } ]
+    }, {
+      "tStartMs": 1811333,
+      "dDurationMs": 8102,
+      "segs": [ {
+        "utf8": "[NOISE]\nLet's"
+      } ]
+    }, {
+      "tStartMs": 1819435,
+      "dDurationMs": 5892,
+      "segs": [ {
+        "utf8": "wrap it up"
+      } ]
+    }, {
+      "tStartMs": 1825327,
+      "dDurationMs": 9575,
+      "segs": [ {
+        "utf8": "in 30 seconds"
+      } ]
+    }, {
+      "tStartMs": 1834902,
+      "dDurationMs": 5895,
+      "segs": [ {
+        "utf8": "please."
+      } ]
+    }, {
+      "tStartMs": 1840797,
+      "dDurationMs": 758,
+      "segs": [ {
+        "utf8": "Let's wrap it up."
+      } ]
+    }, {
+      "tStartMs": 1841555,
+      "dDurationMs": 3551,
+      "segs": [ {
+        "utf8": "[NOISE]"
+      } ]
+    }, {
+      "tStartMs": 1845106,
+      "dDurationMs": 7102,
+      "segs": [ {
+        "utf8": "All right."
+      } ]
+    }, {
+      "tStartMs": 1852208,
+      "dDurationMs": 3635,
+      "segs": [ {
+        "utf8": "If we can all have our seats."
+      } ]
+    }, {
+      "tStartMs": 1855843,
+      "dDurationMs": 8744,
+      "segs": [ {
+        "utf8": "[NOISE] If we can all [NOISE] take our\nseats please."
+      } ]
+    }, {
+      "tStartMs": 1864587,
+      "dDurationMs": 9410,
+      "segs": [ {
+        "utf8": "[NOISE] I know I'm telling a room of many\nMBA alums to stop talking and that's hard."
+      } ]
+    }, {
+      "tStartMs": 1873997,
+      "dDurationMs": 8108,
+      "segs": [ {
+        "utf8": "[NOISE] All right, ladies and gentlemen."
+      } ]
+    }, {
+      "tStartMs": 1882105,
+      "dDurationMs": 1790,
+      "segs": [ {
+        "utf8": "Did you get what you wanted?"
+      } ]
+    }, {
+      "tStartMs": 1883895,
+      "dDurationMs": 1425,
+      "segs": [ {
+        "utf8": "\u003e\u003e Yes."
+      } ]
+    }, {
+      "tStartMs": 1885320,
+      "dDurationMs": 870,
+      "segs": [ {
+        "utf8": "\u003e\u003e Pretty neat, huh?"
+      } ]
+    }, {
+      "tStartMs": 1886190,
+      "dDurationMs": 2360,
+      "segs": [ {
+        "utf8": "You always get what you want."
+      } ]
+    }, {
+      "tStartMs": 1888550,
+      "dDurationMs": 4100,
+      "segs": [ {
+        "utf8": "Now for some of you this was really hard\nbecause you, you're really taking"
+      } ]
+    }, {
+      "tStartMs": 1892650,
+      "dDurationMs": 3760,
+      "segs": [ {
+        "utf8": "the challenge and, and not seeing what was\nin the box until you looked in there."
+      } ]
+    }, {
+      "tStartMs": 1896410,
+      "dDurationMs": 2350,
+      "segs": [ {
+        "utf8": "Okay.\nWas anybody surprised by what you"
+      } ]
+    }, {
+      "tStartMs": 1898760,
+      "dDurationMs": 560,
+      "segs": [ {
+        "utf8": "found in the box?"
+      } ]
+    }, {
+      "tStartMs": 1900840,
+      "dDurationMs": 1430,
+      "segs": [ {
+        "utf8": "What did you find sir, what was in the\nbox?"
+      } ]
+    }, {
+      "tStartMs": 1906170,
+      "dDurationMs": 570,
+      "segs": [ {
+        "utf8": "What?"
+      } ]
+    }, {
+      "tStartMs": 1906740,
+      "dDurationMs": 1150,
+      "segs": [ {
+        "utf8": "Oh, wow!"
+      } ]
+    }, {
+      "tStartMs": 1907890,
+      "dDurationMs": 1490,
+      "segs": [ {
+        "utf8": "Nice!"
+      } ]
+    }, {
+      "tStartMs": 1909380,
+      "dDurationMs": 2300,
+      "segs": [ {
+        "utf8": "Nice, if you've got a Ferrari you need a\ntransmission."
+      } ]
+    }, {
+      "tStartMs": 1911680,
+      "dDurationMs": 930,
+      "segs": [ {
+        "utf8": "I like it."
+      } ]
+    }, {
+      "tStartMs": 1912610,
+      "dDurationMs": 2260,
+      "segs": [ {
+        "utf8": "Who else found something that was\nsurprising?"
+      } ]
+    }, {
+      "tStartMs": 1916460,
+      "dDurationMs": 660,
+      "segs": [ {
+        "utf8": "What did you find?"
+      } ]
+    }, {
+      "tStartMs": 1917120,
+      "dDurationMs": 630,
+      "segs": [ {
+        "utf8": "A live unicorn!"
+      } ]
+    }, {
+      "tStartMs": 1917750,
+      "dDurationMs": 1700,
+      "segs": [ {
+        "utf8": "That's a great gift."
+      } ]
+    }, {
+      "tStartMs": 1919450,
+      "dDurationMs": 1350,
+      "segs": [ {
+        "utf8": "Right?"
+      } ]
+    }, {
+      "tStartMs": 1920800,
+      "dDurationMs": 1970,
+      "segs": [ {
+        "utf8": "How was it as the gift giver?"
+      } ]
+    }, {
+      "tStartMs": 1922770,
+      "dDurationMs": 3340,
+      "segs": [ {
+        "utf8": "Were you surprised at what your partner\nfound in the box?"
+      } ]
+    }, {
+      "tStartMs": 1926110,
+      "dDurationMs": 3150,
+      "segs": [ {
+        "utf8": "Isn't it interesting that when we give an\nimaginary gift knowing that"
+      } ]
+    }, {
+      "tStartMs": 1929260,
+      "dDurationMs": 3720,
+      "segs": [ {
+        "utf8": "the person's gonna name it we already have\nin mind what they're gonna find?"
+      } ]
+    }, {
+      "tStartMs": 1932980,
+      "dDurationMs": 3150,
+      "segs": [ {
+        "utf8": "And when they say live unicorn, we go well\nthat's interesting."
+      } ]
+    }, {
+      "tStartMs": 1936130,
+      "dDurationMs": 1130,
+      "segs": [ {
+        "utf8": "Right?"
+      } ]
+    }, {
+      "tStartMs": 1937260,
+      "dDurationMs": 5170,
+      "segs": [ {
+        "utf8": "So the point of this game is, to one,"
+      } ]
+    }, {
+      "tStartMs": 1942430,
+      "dDurationMs": 1870,
+      "segs": [ {
+        "utf8": "remind ourselves we have to get out of our\nown way,"
+      } ]
+    }, {
+      "tStartMs": 1944300,
+      "dDurationMs": 4320,
+      "segs": [ {
+        "utf8": "like we talked about before, but to see\nthis as an opportunity and to have fun."
+      } ]
+    }, {
+      "tStartMs": 1948620,
+      "dDurationMs": 2840,
+      "segs": [ {
+        "utf8": "I love watching people play this game."
+      } ]
+    }, {
+      "tStartMs": 1951460,
+      "dDurationMs": 4360,
+      "segs": [ {
+        "utf8": "The number of smiles that I saw amongst\nyou and, and I have to admit when I"
+      } ]
+    }, {
+      "tStartMs": 1955820,
+      "dDurationMs": 3305,
+      "segs": [ {
+        "utf8": "first started some of you looked a little\ndour, a little doubting, okay?"
+      } ]
+    }, {
+      "tStartMs": 1959125,
+      "dDurationMs": 1475,
+      "segs": [ {
+        "utf8": "\u003e\u003e [LAUGH].\n\u003e\u003e But in that last game you all"
+      } ]
+    }, {
+      "tStartMs": 1960600,
+      "dDurationMs": 2140,
+      "segs": [ {
+        "utf8": "were smiling and looked like you were\nhaving fun, so"
+      } ]
+    }, {
+      "tStartMs": 1962740,
+      "dDurationMs": 5560,
+      "segs": [ {
+        "utf8": "when you reframe the spontaneous speaking\nopportunity as, as an opportunity,"
+      } ]
+    }, {
+      "tStartMs": 1968300,
+      "dDurationMs": 3550,
+      "segs": [ {
+        "utf8": "as something that you co-create and share."
+      } ]
+    }, {
+      "tStartMs": 1971850,
+      "dDurationMs": 4080,
+      "segs": [ {
+        "utf8": "All the sudden, you are less nervous, less\ndefensive,"
+      } ]
+    }, {
+      "tStartMs": 1975930,
+      "dDurationMs": 2640,
+      "segs": [ {
+        "utf8": "and you can accomplish something pretty\ndarn good."
+      } ]
+    }, {
+      "tStartMs": 1978570,
+      "dDurationMs": 1840,
+      "segs": [ {
+        "utf8": "In this case, a fun outcome."
+      } ]
+    }, {
+      "tStartMs": 1981840,
+      "dDurationMs": 4830,
+      "segs": [ {
+        "utf8": "This reminds us of perhaps the most famous\nof all improvisation sayings,."
+      } ]
+    }, {
+      "tStartMs": 1986670,
+      "dDurationMs": 1490,
+      "segs": [ {
+        "utf8": "Yes and."
+      } ]
+    }, {
+      "tStartMs": 1988160,
+      "dDurationMs": 3650,
+      "segs": [ {
+        "utf8": "A lot of us live our communication lives\nsaying no but."
+      } ]
+    }, {
+      "tStartMs": 1993350,
+      "dDurationMs": 3240,
+      "segs": [ {
+        "utf8": "Yes and opens up a tremendous amount of\nopportunities."
+      } ]
+    }, {
+      "tStartMs": 1996590,
+      "dDurationMs": 3710,
+      "segs": [ {
+        "utf8": "And this doesn't mean you have to say yes\nand to a question somebody asks."
+      } ]
+    }, {
+      "tStartMs": 2000300,
+      "dDurationMs": 2310,
+      "segs": [ {
+        "utf8": "This just means the approach you take to\nthe situation."
+      } ]
+    }, {
+      "tStartMs": 2002610,
+      "dDurationMs": 4440,
+      "segs": [ {
+        "utf8": "So you're going to ask me questions,\nthat's an opportunity."
+      } ]
+    }, {
+      "tStartMs": 2007050,
+      "dDurationMs": 5330,
+      "segs": [ {
+        "utf8": "Yes, and I will follow through, versus no\nand being defensive."
+      } ]
+    }, {
+      "tStartMs": 2012380,
+      "dDurationMs": 3800,
+      "segs": [ {
+        "utf8": "So, we've accomplished the first two steps\nof our process."
+      } ]
+    }, {
+      "tStartMs": 2016180,
+      "dDurationMs": 1388,
+      "segs": [ {
+        "utf8": "First we get out of our own way,"
+      } ]
+    }, {
+      "tStartMs": 2017568,
+      "dDurationMs": 3412,
+      "segs": [ {
+        "utf8": "[UNKNOWN] we can reframe the situation as\nan opportunity."
+      } ]
+    }, {
+      "tStartMs": 2022750,
+      "dDurationMs": 3240,
+      "segs": [ {
+        "utf8": "The next phase is also hard, but"
+      } ]
+    }, {
+      "tStartMs": 2025990,
+      "dDurationMs": 4520,
+      "segs": [ {
+        "utf8": "very rewarding, and that is to slow down,\nand listen."
+      } ]
+    }, {
+      "tStartMs": 2031990,
+      "dDurationMs": 3460,
+      "segs": [ {
+        "utf8": "You need to understand the demands of the\nrequirement you find yourself in,"
+      } ]
+    }, {
+      "tStartMs": 2036480,
+      "dDurationMs": 2710,
+      "segs": [ {
+        "utf8": "in order to respond appropriately."
+      } ]
+    }, {
+      "tStartMs": 2039190,
+      "dDurationMs": 2290,
+      "segs": [ {
+        "utf8": "But often, we jump ahead."
+      } ]
+    }, {
+      "tStartMs": 2041480,
+      "dDurationMs": 2740,
+      "segs": [ {
+        "utf8": "We listen just enough to think we got it,"
+      } ]
+    }, {
+      "tStartMs": 2044220,
+      "dDurationMs": 3030,
+      "segs": [ {
+        "utf8": "and then we go ahead, starting [UNKNOWN]\nto think about."
+      } ]
+    }, {
+      "tStartMs": 2047250,
+      "dDurationMs": 2300,
+      "segs": [ {
+        "utf8": "What we're gonna respond and then we\nrespond."
+      } ]
+    }, {
+      "tStartMs": 2049550,
+      "dDurationMs": 1480,
+      "segs": [ {
+        "utf8": "We really need to listen."
+      } ]
+    }, {
+      "tStartMs": 2051030,
+      "dDurationMs": 2160,
+      "segs": [ {
+        "utf8": "Because fundamentally, as a communicator,"
+      } ]
+    }, {
+      "tStartMs": 2053190,
+      "dDurationMs": 2400,
+      "segs": [ {
+        "utf8": "your job is to be in service of your\naudience."
+      } ]
+    }, {
+      "tStartMs": 2055590,
+      "dDurationMs": 2150,
+      "segs": [ {
+        "utf8": "And if you don't understand what your\naudience is asking or"
+      } ]
+    }, {
+      "tStartMs": 2057740,
+      "dDurationMs": 2870,
+      "segs": [ {
+        "utf8": "needs, you can't fulfill that obligation."
+      } ]
+    }, {
+      "tStartMs": 2060610,
+      "dDurationMs": 2400,
+      "segs": [ {
+        "utf8": "So we need to slow down and listen."
+      } ]
+    }, {
+      "tStartMs": 2063010,
+      "dDurationMs": 2725,
+      "segs": [ {
+        "utf8": "I have a fun game to play."
+      } ]
+    }, {
+      "tStartMs": 2065735,
+      "dDurationMs": 9316,
+      "segs": [ {
+        "utf8": "[SOUND] In this game you are going to\nS-P-E-L-L E-V-E-R-Y-T-H-I-N-G"
+      } ]
+    }, {
+      "tStartMs": 2075051,
+      "dDurationMs": 6620,
+      "segs": [ {
+        "utf8": "Y-O-U S-A-Y T-O Y-O-U-R P-A-R-T-N-E-R."
+      } ]
+    }, {
+      "tStartMs": 2081671,
+      "dDurationMs": 2135,
+      "segs": [ {
+        "utf8": "[BLANK_AUDIO]"
+      } ]
+    }, {
+      "tStartMs": 2083806,
+      "dDurationMs": 3157,
+      "segs": [ {
+        "utf8": "I will translate.\nYou're going to get with the same partner"
+      } ]
+    }, {
+      "tStartMs": 2086963,
+      "dDurationMs": 2437,
+      "segs": [ {
+        "utf8": "you just worked with."
+      } ]
+    }, {
+      "tStartMs": 2089400,
+      "dDurationMs": 3610,
+      "segs": [ {
+        "utf8": "And you are going to have a very brief\nconversation about something fun that you"
+      } ]
+    }, {
+      "tStartMs": 2093010,
+      "dDurationMs": 1740,
+      "segs": [ {
+        "utf8": "plan to do today."
+      } ]
+    }, {
+      "tStartMs": 2094750,
+      "dDurationMs": 1890,
+      "segs": [ {
+        "utf8": "I know this is the most fun you are going\nto have all day."
+      } ]
+    }, {
+      "tStartMs": 2096640,
+      "dDurationMs": 1690,
+      "segs": [ {
+        "utf8": "But the next fun thing you are going to do\ntoday."
+      } ]
+    }, {
+      "tStartMs": 2098330,
+      "dDurationMs": 2680,
+      "segs": [ {
+        "utf8": "You are going to tell your partner what\nyou are going to do that will"
+      } ]
+    }, {
+      "tStartMs": 2101010,
+      "dDurationMs": 610,
+      "segs": [ {
+        "utf8": "be fun today."
+      } ]
+    }, {
+      "tStartMs": 2101620,
+      "dDurationMs": 5211,
+      "segs": [ {
+        "utf8": "But you are going to do so by\nS-P-E-L-L-I-N-G I-T."
+      } ]
+    }, {
+      "tStartMs": 2106831,
+      "dDurationMs": 1900,
+      "segs": [ {
+        "utf8": "[BLANK_AUDIO]"
+      } ]
+    }, {
+      "tStartMs": 2108731,
+      "dDurationMs": 1419,
+      "segs": [ {
+        "utf8": "Okay?"
+      } ]
+    }, {
+      "tStartMs": 2110150,
+      "dDurationMs": 1080,
+      "segs": [ {
+        "utf8": "So you're going to spell it."
+      } ]
+    }, {
+      "tStartMs": 2112870,
+      "dDurationMs": 1665,
+      "segs": [ {
+        "utf8": "It's okay if you are not a good speller."
+      } ]
+    }, {
+      "tStartMs": 2114535,
+      "dDurationMs": 3515,
+      "segs": [ {
+        "utf8": "\u003e\u003e [LAUGH]\n\u003e\u003e 'Kay?"
+      } ]
+    }, {
+      "tStartMs": 2118050,
+      "dDurationMs": 1930,
+      "segs": [ {
+        "utf8": "Look I, you'll see the benefit of doing\nthis."
+      } ]
+    }, {
+      "tStartMs": 2119980,
+      "dDurationMs": 4970,
+      "segs": [ {
+        "utf8": "So, with the partner you just worked with,\nperson a is going to go first this time."
+      } ]
+    }, {
+      "tStartMs": 2124950,
+      "dDurationMs": 1880,
+      "segs": [ {
+        "utf8": "You are simply going to tell your partner."
+      } ]
+    }, {
+      "tStartMs": 2126830,
+      "dDurationMs": 4960,
+      "segs": [ {
+        "utf8": "Actually you're going to spell to your\npartner, what it is of fun,"
+      } ]
+    }, {
+      "tStartMs": 2131790,
+      "dDurationMs": 2560,
+      "segs": [ {
+        "utf8": "something of fun, that you're going to do\ntoday."
+      } ]
+    }, {
+      "tStartMs": 2134350,
+      "dDurationMs": 900,
+      "segs": [ {
+        "utf8": "Okay?"
+      } ]
+    }, {
+      "tStartMs": 2135250,
+      "dDurationMs": 1190,
+      "segs": [ {
+        "utf8": "Do what you were really going to do for"
+      } ]
+    }, {
+      "tStartMs": 2136440,
+      "dDurationMs": 4042,
+      "segs": [ {
+        "utf8": "fun and not do things like F-E-E-D T-H-E\nC-A-T, right,"
+      } ]
+    }, {
+      "tStartMs": 2140482,
+      "dDurationMs": 1838,
+      "segs": [ {
+        "utf8": "just cuz you don't wanna spell, right?"
+      } ]
+    }, {
+      "tStartMs": 2142320,
+      "dDurationMs": 2510,
+      "segs": [ {
+        "utf8": "So, you can use big words."
+      } ]
+    }, {
+      "tStartMs": 2144830,
+      "dDurationMs": 2090,
+      "segs": [ {
+        "utf8": "Alright, 30 seconds each."
+      } ]
+    }, {
+      "tStartMs": 2146920,
+      "dDurationMs": 2719,
+      "segs": [ {
+        "utf8": "Spell to your partner something fun that\nyou're going to do today."
+      } ]
+    }, {
+      "tStartMs": 2149639,
+      "dDurationMs": 5305,
+      "segs": [ {
+        "utf8": "[BLANK_AUDIO]"
+      } ]
+    }, {
+      "tStartMs": 2154944,
+      "dDurationMs": 884,
+      "segs": [ {
+        "utf8": "Would you like to play?"
+      } ]
+    }, {
+      "tStartMs": 2155828,
+      "dDurationMs": 3054,
+      "segs": [ {
+        "utf8": "[NOISE] Go ahead."
+      } ]
+    }, {
+      "tStartMs": 2158882,
+      "dDurationMs": 1408,
+      "segs": [ {
+        "utf8": "\u003e\u003e G-O-T A-T G-A-M-E.\n\u003e\u003e Oh my goodness say it again."
+      } ]
+    }, {
+      "tStartMs": 2160290,
+      "dDurationMs": 1280,
+      "segs": [ {
+        "utf8": "Spell it again."
+      } ]
+    }, {
+      "tStartMs": 2161570,
+      "dDurationMs": 799,
+      "segs": [ {
+        "utf8": "\u003e\u003e Yeah.\n\u003e\u003e Yeah."
+      } ]
+    }, {
+      "tStartMs": 2162369,
+      "dDurationMs": 4029,
+      "segs": [ {
+        "utf8": "\u003e\u003e G-O-T A-T G-A-M-E."
+      } ]
+    }, {
+      "tStartMs": 2166398,
+      "dDurationMs": 4529,
+      "segs": [ {
+        "utf8": "\u003e\u003e E-X-C-E-L-L-E-N-T."
+      } ]
+    }, {
+      "tStartMs": 2170927,
+      "dDurationMs": 5238,
+      "segs": [ {
+        "utf8": "I H-O-P-E T-H-A-T T-H-E-Y W-I-N."
+      } ]
+    }, {
+      "tStartMs": 2176165,
+      "dDurationMs": 4003,
+      "segs": [ {
+        "utf8": "\u003e\u003e E-X-C-E-L-L-E-N-T."
+      } ]
+    }, {
+      "tStartMs": 2180168,
+      "dDurationMs": 702,
+      "segs": [ {
+        "utf8": "\u003e\u003e Thank you."
+      } ]
+    }, {
+      "tStartMs": 2180870,
+      "dDurationMs": 1335,
+      "segs": [ {
+        "utf8": "That was very good."
+      } ]
+    }, {
+      "tStartMs": 2182205,
+      "dDurationMs": 1368,
+      "segs": [ {
+        "utf8": "Thank you."
+      } ]
+    }, {
+      "tStartMs": 2183573,
+      "dDurationMs": 10000,
+      "segs": [ {
+        "utf8": "[BLANK_AUDIO]"
+      } ]
+    }, {
+      "tStartMs": 2203826,
+      "dDurationMs": 3304,
+      "segs": [ {
+        "utf8": "[NOISE] If you have not switched, switch."
+      } ]
+    }, {
+      "tStartMs": 2207130,
+      "dDurationMs": 2826,
+      "segs": [ {
+        "utf8": "Take 30 more seconds with the new partner\nspelling."
+      } ]
+    }, {
+      "tStartMs": 2209956,
+      "dDurationMs": 3236,
+      "segs": [ {
+        "utf8": "[NOISE]"
+      } ]
+    }, {
+      "tStartMs": 2213192,
+      "dDurationMs": 8414,
+      "segs": [ {
+        "utf8": "G-R-E-A-T"
+      } ]
+    }, {
+      "tStartMs": 2221606,
+      "dDurationMs": 7119,
+      "segs": [ {
+        "utf8": "exclamation"
+      } ]
+    }, {
+      "tStartMs": 2228725,
+      "dDurationMs": 4532,
+      "segs": [ {
+        "utf8": "point."
+      } ]
+    }, {
+      "tStartMs": 2233257,
+      "dDurationMs": 3923,
+      "segs": [ {
+        "utf8": "T-H-A-N-K-Y-O-U."
+      } ]
+    }, {
+      "tStartMs": 2237180,
+      "dDurationMs": 3516,
+      "segs": [ {
+        "utf8": "P-L-E-A-S-E."
+      } ]
+    }, {
+      "tStartMs": 2240696,
+      "dDurationMs": 6616,
+      "segs": [ {
+        "utf8": "T-A-K-E Y-O-U-R S-E-A-T."
+      } ]
+    }, {
+      "tStartMs": 2247312,
+      "dDurationMs": 6231,
+      "segs": [ {
+        "utf8": "[NOISE] So what did we learn?"
+      } ]
+    }, {
+      "tStartMs": 2253543,
+      "dDurationMs": 1337,
+      "segs": [ {
+        "utf8": "What did we learn?"
+      } ]
+    }, {
+      "tStartMs": 2254880,
+      "dDurationMs": 1855,
+      "segs": [ {
+        "utf8": "Besides that we're not so good at\nspelling."
+      } ]
+    }, {
+      "tStartMs": 2256735,
+      "dDurationMs": 4875,
+      "segs": [ {
+        "utf8": "\u003e\u003e [INAUDIBLE]\n\u003e\u003e You have to pause between the words."
+      } ]
+    }, {
+      "tStartMs": 2263490,
+      "dDurationMs": 4980,
+      "segs": [ {
+        "utf8": "How did this change your interaction with\nthe person you were interacting with?"
+      } ]
+    }, {
+      "tStartMs": 2268470,
+      "dDurationMs": 1640,
+      "segs": [ {
+        "utf8": "What did you have to do?"
+      } ]
+    }, {
+      "tStartMs": 2270110,
+      "dDurationMs": 2130,
+      "segs": [ {
+        "utf8": "\u003e\u003e Focus.\n\u003e\u003e Focus, and listen."
+      } ]
+    }, {
+      "tStartMs": 2273380,
+      "dDurationMs": 1910,
+      "segs": [ {
+        "utf8": "And you can't be thinking ahead."
+      } ]
+    }, {
+      "tStartMs": 2275290,
+      "dDurationMs": 1970,
+      "segs": [ {
+        "utf8": "You have to be in the moment."
+      } ]
+    }, {
+      "tStartMs": 2277260,
+      "dDurationMs": 4770,
+      "segs": [ {
+        "utf8": "When you listen and truly understand what\nthe person is trying to say,"
+      } ]
+    }, {
+      "tStartMs": 2282030,
+      "dDurationMs": 3300,
+      "segs": [ {
+        "utf8": "then you can respond in a better way, a\nmore targeted response."
+      } ]
+    }, {
+      "tStartMs": 2286650,
+      "dDurationMs": 1170,
+      "segs": [ {
+        "utf8": "We often don't listen."
+      } ]
+    }, {
+      "tStartMs": 2289530,
+      "dDurationMs": 2960,
+      "segs": [ {
+        "utf8": "So we start by getting out of our own way."
+      } ]
+    }, {
+      "tStartMs": 2293780,
+      "dDurationMs": 3380,
+      "segs": [ {
+        "utf8": "We then reframe the situation as an\nopportunity."
+      } ]
+    }, {
+      "tStartMs": 2297160,
+      "dDurationMs": 2060,
+      "segs": [ {
+        "utf8": "Those are things we do inside our head."
+      } ]
+    }, {
+      "tStartMs": 2299220,
+      "dDurationMs": 2630,
+      "segs": [ {
+        "utf8": "But in the moment of interacting, we have\nto listen first,"
+      } ]
+    }, {
+      "tStartMs": 2301850,
+      "dDurationMs": 2300,
+      "segs": [ {
+        "utf8": "before we can respond to the spontaneous\nrequest."
+      } ]
+    }, {
+      "tStartMs": 2305740,
+      "dDurationMs": 4610,
+      "segs": [ {
+        "utf8": "Perhaps my most favorite maxim comes from\nthis activity."
+      } ]
+    }, {
+      "tStartMs": 2311450,
+      "dDurationMs": 1819,
+      "segs": [ {
+        "utf8": "Don't just do something, stand there."
+      } ]
+    }, {
+      "tStartMs": 2313269,
+      "dDurationMs": 2236,
+      "segs": [ {
+        "utf8": "[BLANK_AUDIO]"
+      } ]
+    }, {
+      "tStartMs": 2315505,
+      "dDurationMs": 675,
+      "segs": [ {
+        "utf8": "Listen."
+      } ]
+    }, {
+      "tStartMs": 2317860,
+      "dDurationMs": 2190,
+      "segs": [ {
+        "utf8": "Listen, and then respond."
+      } ]
+    }, {
+      "tStartMs": 2322370,
+      "dDurationMs": 1300,
+      "segs": [ {
+        "utf8": "Now, how do we respond?"
+      } ]
+    }, {
+      "tStartMs": 2323670,
+      "dDurationMs": 2200,
+      "segs": [ {
+        "utf8": "That brings us to the fourth part of our\nprocess."
+      } ]
+    }, {
+      "tStartMs": 2327190,
+      "dDurationMs": 3210,
+      "segs": [ {
+        "utf8": "And that is, we have to tell a story."
+      } ]
+    }, {
+      "tStartMs": 2330400,
+      "dDurationMs": 2330,
+      "segs": [ {
+        "utf8": "We respond in a way that has a structure."
+      } ]
+    }, {
+      "tStartMs": 2332730,
+      "dDurationMs": 1350,
+      "segs": [ {
+        "utf8": "All stories have structure."
+      } ]
+    }, {
+      "tStartMs": 2334080,
+      "dDurationMs": 2300,
+      "segs": [ {
+        "utf8": "We have to respond in a structured way."
+      } ]
+    }, {
+      "tStartMs": 2337430,
+      "dDurationMs": 2980,
+      "segs": [ {
+        "utf8": "The key to successful spontaneous speaking\nand"
+      } ]
+    }, {
+      "tStartMs": 2340410,
+      "dDurationMs": 2250,
+      "segs": [ {
+        "utf8": "by the way planned speaking is having a\nstructure."
+      } ]
+    }, {
+      "tStartMs": 2344110,
+      "dDurationMs": 4930,
+      "segs": [ {
+        "utf8": "I would like to introduce you to two of\nthe most prevalent and popular and useful"
+      } ]
+    }, {
+      "tStartMs": 2349040,
+      "dDurationMs": 5070,
+      "segs": [ {
+        "utf8": "structures you can use to communicate a\nmessage in a spontaneous situation."
+      } ]
+    }, {
+      "tStartMs": 2354110,
+      "dDurationMs": 3540,
+      "segs": [ {
+        "utf8": "But before we get there, we have to talk\nabout the value of structure."
+      } ]
+    }, {
+      "tStartMs": 2357650,
+      "dDurationMs": 3600,
+      "segs": [ {
+        "utf8": "It increases what is called processing\nfluency, the effectiveness of which, or"
+      } ]
+    }, {
+      "tStartMs": 2361250,
+      "dDurationMs": 2850,
+      "segs": [ {
+        "utf8": "through which we process information."
+      } ]
+    }, {
+      "tStartMs": 2365460,
+      "dDurationMs": 3460,
+      "segs": [ {
+        "utf8": "We actually process structured\ninformation, roughly 40% more"
+      } ]
+    }, {
+      "tStartMs": 2368920,
+      "dDurationMs": 3770,
+      "segs": [ {
+        "utf8": "effectively and efficiently than\ninformation that's not structured."
+      } ]
+    }, {
+      "tStartMs": 2373780,
+      "dDurationMs": 4020,
+      "segs": [ {
+        "utf8": "I love looking out in this audience,\nbecause you will remember as I remember."
+      } ]
+    }, {
+      "tStartMs": 2377800,
+      "dDurationMs": 870,
+      "segs": [ {
+        "utf8": "Phone numbers."
+      } ]
+    }, {
+      "tStartMs": 2378670,
+      "dDurationMs": 3150,
+      "segs": [ {
+        "utf8": "When you had to remember them if you\nwanted to call somebody."
+      } ]
+    }, {
+      "tStartMs": 2381820,
+      "dDurationMs": 960,
+      "segs": [ {
+        "utf8": "Okay."
+      } ]
+    }, {
+      "tStartMs": 2382780,
+      "dDurationMs": 2440,
+      "segs": [ {
+        "utf8": "Young folks today don't need to remember\nphone numbers."
+      } ]
+    }, {
+      "tStartMs": 2385220,
+      "dDurationMs": 1840,
+      "segs": [ {
+        "utf8": "They just need to look at a picture, push\na button and"
+      } ]
+    }, {
+      "tStartMs": 2387060,
+      "dDurationMs": 2650,
+      "segs": [ {
+        "utf8": "then the voice starts talking on the other\nend."
+      } ]
+    }, {
+      "tStartMs": 2389710,
+      "dDurationMs": 2930,
+      "segs": [ {
+        "utf8": "Ten digit phone numbers, it's actually\nhard to remember ten digit phone numbers."
+      } ]
+    }, {
+      "tStartMs": 2392640,
+      "dDurationMs": 1320,
+      "segs": [ {
+        "utf8": "How did you do it?"
+      } ]
+    }, {
+      "tStartMs": 2393960,
+      "dDurationMs": 1460,
+      "segs": [ {
+        "utf8": "You chunked it into a structure."
+      } ]
+    }, {
+      "tStartMs": 2395420,
+      "dDurationMs": 1970,
+      "segs": [ {
+        "utf8": "Three, three and four."
+      } ]
+    }, {
+      "tStartMs": 2397390,
+      "dDurationMs": 1210,
+      "segs": [ {
+        "utf8": "Structure helps us remember."
+      } ]
+    }, {
+      "tStartMs": 2400170,
+      "dDurationMs": 4020,
+      "segs": [ {
+        "utf8": "The same is true when speaking\nspontaneously or in a planned situation."
+      } ]
+    }, {
+      "tStartMs": 2404190,
+      "dDurationMs": 2590,
+      "segs": [ {
+        "utf8": "So let me introduce you to two useful\nstructures."
+      } ]
+    }, {
+      "tStartMs": 2406780,
+      "dDurationMs": 2200,
+      "segs": [ {
+        "utf8": "The first useful structure you have\nprobably heard or"
+      } ]
+    }, {
+      "tStartMs": 2408980,
+      "dDurationMs": 5270,
+      "segs": [ {
+        "utf8": "used in some incarnation, it is the\nproblem, solution, benefit, structure."
+      } ]
+    }, {
+      "tStartMs": 2414250,
+      "dDurationMs": 2240,
+      "segs": [ {
+        "utf8": "You start by talking about what the issue\nis, the problem."
+      } ]
+    }, {
+      "tStartMs": 2418340,
+      "dDurationMs": 1550,
+      "segs": [ {
+        "utf8": "You then talk about a way of solving it,"
+      } ]
+    }, {
+      "tStartMs": 2419890,
+      "dDurationMs": 2550,
+      "segs": [ {
+        "utf8": "and then you talk about the benefits of\nfollowing through on it."
+      } ]
+    }, {
+      "tStartMs": 2422440,
+      "dDurationMs": 2480,
+      "segs": [ {
+        "utf8": "Very persuasive, very effective."
+      } ]
+    }, {
+      "tStartMs": 2424920,
+      "dDurationMs": 1490,
+      "segs": [ {
+        "utf8": "Helps you as the speaker remember it,"
+      } ]
+    }, {
+      "tStartMs": 2426410,
+      "dDurationMs": 1560,
+      "segs": [ {
+        "utf8": "helps your audience know where you're\ngoing with it."
+      } ]
+    }, {
+      "tStartMs": 2429510,
+      "dDurationMs": 3510,
+      "segs": [ {
+        "utf8": "When I was a tour guide on this campus,\nmany, many, many years ago,."
+      } ]
+    }, {
+      "tStartMs": 2434740,
+      "dDurationMs": 2110,
+      "segs": [ {
+        "utf8": "What do you think the single most\nimportant thing they"
+      } ]
+    }, {
+      "tStartMs": 2436850,
+      "dDurationMs": 860,
+      "segs": [ {
+        "utf8": "drilled into our head?"
+      } ]
+    }, {
+      "tStartMs": 2437710,
+      "dDurationMs": 3880,
+      "segs": [ {
+        "utf8": "It took a full quarter, by the way, to\ntrain to be a tour guide here."
+      } ]
+    }, {
+      "tStartMs": 2441590,
+      "dDurationMs": 2260,
+      "segs": [ {
+        "utf8": "They used to line us up at one end of the\nquad, and"
+      } ]
+    }, {
+      "tStartMs": 2443850,
+      "dDurationMs": 3870,
+      "segs": [ {
+        "utf8": "have us walk backward, straight, and if\nyou failed you had to start over."
+      } ]
+    }, {
+      "tStartMs": 2447720,
+      "dDurationMs": 3770,
+      "segs": [ {
+        "utf8": "To this day, I can walk backwards in a\nstraight like because of that."
+      } ]
+    }, {
+      "tStartMs": 2451490,
+      "dDurationMs": 890,
+      "segs": [ {
+        "utf8": "As part of that training,"
+      } ]
+    }, {
+      "tStartMs": 2452380,
+      "dDurationMs": 2320,
+      "segs": [ {
+        "utf8": "what do you think the most important thing\nthey taught us was?"
+      } ]
+    }, {
+      "tStartMs": 2456860,
+      "dDurationMs": 2065,
+      "segs": [ {
+        "utf8": "Never lose your tour group."
+      } ]
+    }, {
+      "tStartMs": 2458925,
+      "dDurationMs": 3435,
+      "segs": [ {
+        "utf8": "\u003e\u003e [LAUGH]\n\u003e\u003e I'm not joking."
+      } ]
+    }, {
+      "tStartMs": 2462360,
+      "dDurationMs": 1800,
+      "segs": [ {
+        "utf8": "Never, that's, never lose your tour group."
+      } ]
+    }, {
+      "tStartMs": 2465590,
+      "dDurationMs": 1840,
+      "segs": [ {
+        "utf8": "The same is true as a presenter."
+      } ]
+    }, {
+      "tStartMs": 2467430,
+      "dDurationMs": 1900,
+      "segs": [ {
+        "utf8": "Never lose your audience."
+      } ]
+    }, {
+      "tStartMs": 2469330,
+      "dDurationMs": 3300,
+      "segs": [ {
+        "utf8": "The way you keep your audience on track is\nby providing structure."
+      } ]
+    }, {
+      "tStartMs": 2472630,
+      "dDurationMs": 2758,
+      "segs": [ {
+        "utf8": "None of you would go on a tour with me if\nI said, hi, my name's Matt."
+      } ]
+    }, {
+      "tStartMs": 2475388,
+      "dDurationMs": 2679,
+      "segs": [ {
+        "utf8": "Let's go.\n[BLANK_AUDIO]"
+      } ]
+    }, {
+      "tStartMs": 2478067,
+      "dDurationMs": 2079,
+      "segs": [ {
+        "utf8": "You wanna know where you're going, why\nyou're going there,"
+      } ]
+    }, {
+      "tStartMs": 2480146,
+      "dDurationMs": 914,
+      "segs": [ {
+        "utf8": "how long it's gonna take?"
+      } ]
+    }, {
+      "tStartMs": 2481060,
+      "dDurationMs": 3380,
+      "segs": [ {
+        "utf8": "You need to set expectations and structure\ndoes that."
+      } ]
+    }, {
+      "tStartMs": 2484440,
+      "dDurationMs": 3550,
+      "segs": [ {
+        "utf8": "Problem, solution, benefit is a wonderful\nstructure to have in your back pocket."
+      } ]
+    }, {
+      "tStartMs": 2489460,
+      "dDurationMs": 2870,
+      "segs": [ {
+        "utf8": "It's something that you can use quickly\nwhen you're in the moment."
+      } ]
+    }, {
+      "tStartMs": 2494140,
+      "dDurationMs": 2640,
+      "segs": [ {
+        "utf8": "It can be reframed so it's not always a\nproblem you're talking about."
+      } ]
+    }, {
+      "tStartMs": 2496780,
+      "dDurationMs": 1130,
+      "segs": [ {
+        "utf8": "Maybe it's an opportunity."
+      } ]
+    }, {
+      "tStartMs": 2497910,
+      "dDurationMs": 2760,
+      "segs": [ {
+        "utf8": "Maybe there's a market opportunity you\nwanna go out and capture."
+      } ]
+    }, {
+      "tStartMs": 2500670,
+      "dDurationMs": 1450,
+      "segs": [ {
+        "utf8": "It's not a problem that we're not doing\nit."
+      } ]
+    }, {
+      "tStartMs": 2502120,
+      "dDurationMs": 2230,
+      "segs": [ {
+        "utf8": "But maybe we'd be better off if we did."
+      } ]
+    }, {
+      "tStartMs": 2504350,
+      "dDurationMs": 4310,
+      "segs": [ {
+        "utf8": "So it becomes opportunity, solution, which\nare the steps to achieve it."
+      } ]
+    }, {
+      "tStartMs": 2508660,
+      "dDurationMs": 570,
+      "segs": [ {
+        "utf8": "And then the benefit."
+      } ]
+    }, {
+      "tStartMs": 2511060,
+      "dDurationMs": 1910,
+      "segs": [ {
+        "utf8": "Another structure."
+      } ]
+    }, {
+      "tStartMs": 2512970,
+      "dDurationMs": 3920,
+      "segs": [ {
+        "utf8": "Which works equally, equally well, is the\nwhat?"
+      } ]
+    }, {
+      "tStartMs": 2516890,
+      "dDurationMs": 1080,
+      "segs": [ {
+        "utf8": "So what?"
+      } ]
+    }, {
+      "tStartMs": 2517970,
+      "dDurationMs": 600,
+      "segs": [ {
+        "utf8": "Now what?"
+      } ]
+    }, {
+      "tStartMs": 2518570,
+      "dDurationMs": 1260,
+      "segs": [ {
+        "utf8": "Structure."
+      } ]
+    }, {
+      "tStartMs": 2519830,
+      "dDurationMs": 5710,
+      "segs": [ {
+        "utf8": "You start by talking about what it is,\nthen you talk about why it's important,"
+      } ]
+    }, {
+      "tStartMs": 2525540,
+      "dDurationMs": 1340,
+      "segs": [ {
+        "utf8": "and then what the next steps are."
+      } ]
+    }, {
+      "tStartMs": 2528980,
+      "dDurationMs": 3130,
+      "segs": [ {
+        "utf8": "This is a wonderful formula for answering\nquestions."
+      } ]
+    }, {
+      "tStartMs": 2533130,
+      "dDurationMs": 1750,
+      "segs": [ {
+        "utf8": "For introducing people."
+      } ]
+    }, {
+      "tStartMs": 2534880,
+      "dDurationMs": 2410,
+      "segs": [ {
+        "utf8": "So if, in the moment somebody asks me to\nintroduce somebody,"
+      } ]
+    }, {
+      "tStartMs": 2537290,
+      "dDurationMs": 1650,
+      "segs": [ {
+        "utf8": "I change the what to who."
+      } ]
+    }, {
+      "tStartMs": 2538940,
+      "dDurationMs": 2780,
+      "segs": [ {
+        "utf8": "I say who they are, why they're important\nand what we're gonna do next."
+      } ]
+    }, {
+      "tStartMs": 2541720,
+      "dDurationMs": 1840,
+      "segs": [ {
+        "utf8": "Maybe listen to them, maybe drink our\nwine, whatever."
+      } ]
+    }, {
+      "tStartMs": 2543560,
+      "dDurationMs": 500,
+      "segs": [ {
+        "utf8": "All right."
+      } ]
+    }, {
+      "tStartMs": 2545410,
+      "dDurationMs": 1580,
+      "segs": [ {
+        "utf8": "What, so what, now what."
+      } ]
+    }, {
+      "tStartMs": 2546990,
+      "dDurationMs": 2950,
+      "segs": [ {
+        "utf8": "The reality is this, when you are in\nspontaneously speaking situation,"
+      } ]
+    }, {
+      "tStartMs": 2549940,
+      "dDurationMs": 1790,
+      "segs": [ {
+        "utf8": "you have to do two things simultaneously."
+      } ]
+    }, {
+      "tStartMs": 2551730,
+      "dDurationMs": 3570,
+      "segs": [ {
+        "utf8": "You have to figure out what to say and how\nto say it."
+      } ]
+    }, {
+      "tStartMs": 2555300,
+      "dDurationMs": 3590,
+      "segs": [ {
+        "utf8": "These structures help you by telling you\nhow to say it."
+      } ]
+    }, {
+      "tStartMs": 2561910,
+      "dDurationMs": 3100,
+      "segs": [ {
+        "utf8": "If you can become comfortable with these\nstructures, you can be"
+      } ]
+    }, {
+      "tStartMs": 2565010,
+      "dDurationMs": 4790,
+      "segs": [ {
+        "utf8": "in a situation where you can respond very\nably to spontaneous speaking situations."
+      } ]
+    }, {
+      "tStartMs": 2569800,
+      "dDurationMs": 2580,
+      "segs": [ {
+        "utf8": "We're gonna practice."
+      } ]
+    }, {
+      "tStartMs": 2572380,
+      "dDurationMs": 660,
+      "segs": [ {
+        "utf8": "Cuz that's what we do."
+      } ]
+    }, {
+      "tStartMs": 2574200,
+      "dDurationMs": 940,
+      "segs": [ {
+        "utf8": "Here's the situation."
+      } ]
+    }, {
+      "tStartMs": 2575140,
+      "dDurationMs": 1740,
+      "segs": [ {
+        "utf8": "Is everybody familiar with this child's\ntoy?"
+      } ]
+    }, {
+      "tStartMs": 2576880,
+      "dDurationMs": 1510,
+      "segs": [ {
+        "utf8": "It's a slinky."
+      } ]
+    }, {
+      "tStartMs": 2578390,
+      "dDurationMs": 1480,
+      "segs": [ {
+        "utf8": "Okay?"
+      } ]
+    }, {
+      "tStartMs": 2579870,
+      "dDurationMs": 5110,
+      "segs": [ {
+        "utf8": "You are going to sell this slinky to your\npartner using either problem,"
+      } ]
+    }, {
+      "tStartMs": 2584980,
+      "dDurationMs": 3660,
+      "segs": [ {
+        "utf8": "solution, benefit or opportunity,\nsolution, benefit."
+      } ]
+    }, {
+      "tStartMs": 2588640,
+      "dDurationMs": 1540,
+      "segs": [ {
+        "utf8": "What does the slinky provide you?"
+      } ]
+    }, {
+      "tStartMs": 2592130,
+      "dDurationMs": 1850,
+      "segs": [ {
+        "utf8": "Or you could use what, so what, now what?"
+      } ]
+    }, {
+      "tStartMs": 2593980,
+      "dDurationMs": 1350,
+      "segs": [ {
+        "utf8": "What is it?\nWhy is it important?"
+      } ]
+    }, {
+      "tStartMs": 2595330,
+      "dDurationMs": 2230,
+      "segs": [ {
+        "utf8": "And the next steps might be to buy it,\nokay?"
+      } ]
+    }, {
+      "tStartMs": 2597560,
+      "dDurationMs": 4140,
+      "segs": [ {
+        "utf8": "So by using that structure, see how\nalready it helps you?"
+      } ]
+    }, {
+      "tStartMs": 2601700,
+      "dDurationMs": 831,
+      "segs": [ {
+        "utf8": "It helps you focus."
+      } ]
+    }, {
+      "tStartMs": 2602531,
+      "dDurationMs": 2011,
+      "segs": [ {
+        "utf8": "Get with your partner and we,"
+      } ]
+    }, {
+      "tStartMs": 2604542,
+      "dDurationMs": 4896,
+      "segs": [ {
+        "utf8": "we're only going to have one partner sell\nto the other partner, okay?"
+      } ]
+    }, {
+      "tStartMs": 2609438,
+      "dDurationMs": 1748,
+      "segs": [ {
+        "utf8": "So get with your partner."
+      } ]
+    }, {
+      "tStartMs": 2612200,
+      "dDurationMs": 2840,
+      "segs": [ {
+        "utf8": "One of you will volunteer to sell to the\nother, okay?"
+      } ]
+    }, {
+      "tStartMs": 2615040,
+      "dDurationMs": 4338,
+      "segs": [ {
+        "utf8": "Sell a slinky using problem, solution,\nbenefit or what so what, now what?"
+      } ]
+    }, {
+      "tStartMs": 2619378,
+      "dDurationMs": 5052,
+      "segs": [ {
+        "utf8": "Please begin."
+      } ]
+    }, {
+      "tStartMs": 2624430,
+      "dDurationMs": 10000,
+      "segs": [ {
+        "utf8": "[NOISE]."
+      } ]
+    }, {
+      "tStartMs": 2637460,
+      "dDurationMs": 1480,
+      "segs": [ {
+        "utf8": "\u003e\u003e So we have the handouts, but I'm also\ngoing to be doing the, the-"
+      } ]
+    }, {
+      "tStartMs": 2638940,
+      "dDurationMs": 680,
+      "segs": [ {
+        "utf8": "\u003e\u003e The microphone?"
+      } ]
+    }, {
+      "tStartMs": 2639620,
+      "dDurationMs": 4490,
+      "segs": [ {
+        "utf8": "\u003e\u003e Mic. So. \u003e\u003e When I debrief this, you\ncan go ahead and pass them out."
+      } ]
+    }, {
+      "tStartMs": 2644110,
+      "dDurationMs": 1470,
+      "segs": [ {
+        "utf8": "Does that make sense?"
+      } ]
+    }, {
+      "tStartMs": 2645580,
+      "dDurationMs": 1158,
+      "segs": [ {
+        "utf8": "\u003e\u003e Okay, so after, after."
+      } ]
+    }, {
+      "tStartMs": 2646738,
+      "dDurationMs": 2932,
+      "segs": [ {
+        "utf8": "\u003e\u003e No no, mm-hm, after this activity."
+      } ]
+    }, {
+      "tStartMs": 2649670,
+      "dDurationMs": 670,
+      "segs": [ {
+        "utf8": "\u003e\u003e Okay. And then. \u003e\u003e And then."
+      } ]
+    }, {
+      "tStartMs": 2650340,
+      "dDurationMs": 547,
+      "segs": [ {
+        "utf8": "\u003e\u003e After that."
+      } ]
+    }, {
+      "tStartMs": 2650887,
+      "dDurationMs": 9832,
+      "segs": [ {
+        "utf8": "\u003e\u003e [NOISE]"
+      } ]
+    }, {
+      "tStartMs": 2660719,
+      "dDurationMs": 7866,
+      "segs": [ {
+        "utf8": "30"
+      } ]
+    }, {
+      "tStartMs": 2668585,
+      "dDurationMs": 7866,
+      "segs": [ {
+        "utf8": "more"
+      } ]
+    }, {
+      "tStartMs": 2676451,
+      "dDurationMs": 10000,
+      "segs": [ {
+        "utf8": "seconds,"
+      } ]
+    }, {
+      "tStartMs": 2694149,
+      "dDurationMs": 10000,
+      "segs": [ {
+        "utf8": "please."
+      } ]
+    }, {
+      "tStartMs": 2709882,
+      "dDurationMs": 4105,
+      "segs": [ {
+        "utf8": "[NOISE]"
+      } ]
+    }, {
+      "tStartMs": 2713987,
+      "dDurationMs": 9034,
+      "segs": [ {
+        "utf8": "Excellent."
+      } ]
+    }, {
+      "tStartMs": 2723021,
+      "dDurationMs": 3008,
+      "segs": [ {
+        "utf8": "Let's all close the deal, seal the deal."
+      } ]
+    }, {
+      "tStartMs": 2726029,
+      "dDurationMs": 7441,
+      "segs": [ {
+        "utf8": "[NOISE] I have never seen."
+      } ]
+    }, {
+      "tStartMs": 2733470,
+      "dDurationMs": 2715,
+      "segs": [ {
+        "utf8": "More people in one place doing this at the\nsame time."
+      } ]
+    }, {
+      "tStartMs": 2736185,
+      "dDurationMs": 2835,
+      "segs": [ {
+        "utf8": "[LAUGH]\nI love it."
+      } ]
+    }, {
+      "tStartMs": 2739020,
+      "dDurationMs": 2340,
+      "segs": [ {
+        "utf8": "I teach people to gesture and gesture big,\nit's great."
+      } ]
+    }, {
+      "tStartMs": 2741360,
+      "dDurationMs": 1390,
+      "segs": [ {
+        "utf8": "I love it."
+      } ]
+    }, {
+      "tStartMs": 2742750,
+      "dDurationMs": 4720,
+      "segs": [ {
+        "utf8": "So if you were the recipient of the sales\npitch, thumbs up."
+      } ]
+    }, {
+      "tStartMs": 2747470,
+      "dDurationMs": 760,
+      "segs": [ {
+        "utf8": "Did they do a good job?"
+      } ]
+    }, {
+      "tStartMs": 2749590,
+      "dDurationMs": 2050,
+      "segs": [ {
+        "utf8": "Did they use the structure?"
+      } ]
+    }, {
+      "tStartMs": 2751640,
+      "dDurationMs": 710,
+      "segs": [ {
+        "utf8": "Awesome."
+      } ]
+    }, {
+      "tStartMs": 2752350,
+      "dDurationMs": 2455,
+      "segs": [ {
+        "utf8": "I'm recruiting you all for my next\nbusiness as my salespeople."
+      } ]
+    }, {
+      "tStartMs": 2754805,
+      "dDurationMs": 2585,
+      "segs": [ {
+        "utf8": "[LAUGH] Please try to ignore this,"
+      } ]
+    }, {
+      "tStartMs": 2757390,
+      "dDurationMs": 4550,
+      "segs": [ {
+        "utf8": "but as we're speaking the handout I told\nyou about is coming around."
+      } ]
+    }, {
+      "tStartMs": 2761940,
+      "dDurationMs": 1295,
+      "segs": [ {
+        "utf8": "On the back of that handout,"
+      } ]
+    }, {
+      "tStartMs": 2763235,
+      "dDurationMs": 4015,
+      "segs": [ {
+        "utf8": "you're going to see a list of structures,\nthe two we talked about and"
+      } ]
+    }, {
+      "tStartMs": 2767250,
+      "dDurationMs": 3400,
+      "segs": [ {
+        "utf8": "several others, that can help you in\nspontaneous speaking situations."
+      } ]
+    }, {
+      "tStartMs": 2771670,
+      "dDurationMs": 2070,
+      "segs": [ {
+        "utf8": "These structures help."
+      } ]
+    }, {
+      "tStartMs": 2773740,
+      "dDurationMs": 3730,
+      "segs": [ {
+        "utf8": "Because they help you understand, how\nyou're going to say what you say."
+      } ]
+    }, {
+      "tStartMs": 2777470,
+      "dDurationMs": 3750,
+      "segs": [ {
+        "utf8": "Structure sets you free and I know that's\nkind of ironic, but it's true, if"
+      } ]
+    }, {
+      "tStartMs": 2781220,
+      "dDurationMs": 3840,
+      "segs": [ {
+        "utf8": "you have that structure then you are free\nto think about what you are going to say."
+      } ]
+    }, {
+      "tStartMs": 2786330,
+      "dDurationMs": 3620,
+      "segs": [ {
+        "utf8": "It reduces the cognitive load of figuring\nout what you are saying, and"
+      } ]
+    }, {
+      "tStartMs": 2789950,
+      "dDurationMs": 1550,
+      "segs": [ {
+        "utf8": "how you are going to say it."
+      } ]
+    }, {
+      "tStartMs": 2791500,
+      "dDurationMs": 2010,
+      "segs": [ {
+        "utf8": "All of this is on that handout, okay?"
+      } ]
+    }, {
+      "tStartMs": 2795680,
+      "dDurationMs": 2110,
+      "segs": [ {
+        "utf8": "So what does this all mean?"
+      } ]
+    }, {
+      "tStartMs": 2797790,
+      "dDurationMs": 5500,
+      "segs": [ {
+        "utf8": "It means that we have, within our ability,\nthe tools and"
+      } ]
+    }, {
+      "tStartMs": 2803290,
+      "dDurationMs": 3860,
+      "segs": [ {
+        "utf8": "the approaches, to help us in spontaneous\nspeaking situations."
+      } ]
+    }, {
+      "tStartMs": 2807150,
+      "dDurationMs": 3230,
+      "segs": [ {
+        "utf8": "The very first thing we have to do is\nmanage our anxiety,"
+      } ]
+    }, {
+      "tStartMs": 2810380,
+      "dDurationMs": 2440,
+      "segs": [ {
+        "utf8": "because you can't be an effective speaker."
+      } ]
+    }, {
+      "tStartMs": 2812820,
+      "dDurationMs": 2790,
+      "segs": [ {
+        "utf8": "If you don't have your anxiety under\ncontrol."
+      } ]
+    }, {
+      "tStartMs": 2815610,
+      "dDurationMs": 3610,
+      "segs": [ {
+        "utf8": "And we talked about how you can do that by\ngreeting your anxiety,"
+      } ]
+    }, {
+      "tStartMs": 2819220,
+      "dDurationMs": 4590,
+      "segs": [ {
+        "utf8": "reframing as a conversation, and being in\nthe present moment."
+      } ]
+    }, {
+      "tStartMs": 2823810,
+      "dDurationMs": 3690,
+      "segs": [ {
+        "utf8": "Once you do that, you need to practice a\nseries of four steps,"
+      } ]
+    }, {
+      "tStartMs": 2827500,
+      "dDurationMs": 2840,
+      "segs": [ {
+        "utf8": "that will help you speak spontaneously."
+      } ]
+    }, {
+      "tStartMs": 2830340,
+      "dDurationMs": 2320,
+      "segs": [ {
+        "utf8": "First you get out of your own way."
+      } ]
+    }, {
+      "tStartMs": 2832660,
+      "dDurationMs": 3250,
+      "segs": [ {
+        "utf8": "I would love it if all of you, on your way\nfrom here to the football game,"
+      } ]
+    }, {
+      "tStartMs": 2837000,
+      "dDurationMs": 1675,
+      "segs": [ {
+        "utf8": "point at things and call them the wrong\nname."
+      } ]
+    }, {
+      "tStartMs": 2838675,
+      "dDurationMs": 1925,
+      "segs": [ {
+        "utf8": "[LAUGH] It'll be fun."
+      } ]
+    }, {
+      "tStartMs": 2840600,
+      "dDurationMs": 1890,
+      "segs": [ {
+        "utf8": "If most of us do it, then it won't be\nweird."
+      } ]
+    }, {
+      "tStartMs": 2842490,
+      "dDurationMs": 1860,
+      "segs": [ {
+        "utf8": "If only one and two of us do it, it'll be\nweird."
+      } ]
+    }, {
+      "tStartMs": 2844350,
+      "dDurationMs": 510,
+      "segs": [ {
+        "utf8": "Right."
+      } ]
+    }, {
+      "tStartMs": 2844860,
+      "dDurationMs": 1430,
+      "segs": [ {
+        "utf8": "Second."
+      } ]
+    }, {
+      "tStartMs": 2846290,
+      "dDurationMs": 1660,
+      "segs": [ {
+        "utf8": "Give gifts."
+      } ]
+    }, {
+      "tStartMs": 2847950,
+      "dDurationMs": 3990,
+      "segs": [ {
+        "utf8": "By that I mean see your interactions as\nones of opportunity, not challenges."
+      } ]
+    }, {
+      "tStartMs": 2853930,
+      "dDurationMs": 4140,
+      "segs": [ {
+        "utf8": "Third, take the time to listen, listen."
+      } ]
+    }, {
+      "tStartMs": 2859740,
+      "dDurationMs": 2380,
+      "segs": [ {
+        "utf8": "And then finally, use structures."
+      } ]
+    }, {
+      "tStartMs": 2862120,
+      "dDurationMs": 1800,
+      "segs": [ {
+        "utf8": "And you have to practice these structures."
+      } ]
+    }, {
+      "tStartMs": 2863920,
+      "dDurationMs": 2180,
+      "segs": [ {
+        "utf8": "I practice these structures on my kids."
+      } ]
+    }, {
+      "tStartMs": 2866100,
+      "dDurationMs": 680,
+      "segs": [ {
+        "utf8": "I have two kids."
+      } ]
+    }, {
+      "tStartMs": 2866780,
+      "dDurationMs": 3080,
+      "segs": [ {
+        "utf8": "When they ask me questions, I usually\nanswer them in what, so what, now what."
+      } ]
+    }, {
+      "tStartMs": 2870910,
+      "dDurationMs": 1560,
+      "segs": [ {
+        "utf8": "They don't know it."
+      } ]
+    }, {
+      "tStartMs": 2872470,
+      "dDurationMs": 1700,
+      "segs": [ {
+        "utf8": "But, when they go over to their friends'\nhouses and"
+      } ]
+    }, {
+      "tStartMs": 2874170,
+      "dDurationMs": 2770,
+      "segs": [ {
+        "utf8": "they see their friends ask their dads\nquestions, they don't get what, so"
+      } ]
+    }, {
+      "tStartMs": 2876940,
+      "dDurationMs": 600,
+      "segs": [ {
+        "utf8": "what, now what."
+      } ]
+    }, {
+      "tStartMs": 2877540,
+      "dDurationMs": 2540,
+      "segs": [ {
+        "utf8": "So, you know, you have to practice."
+      } ]
+    }, {
+      "tStartMs": 2880080,
+      "dDurationMs": 2060,
+      "segs": [ {
+        "utf8": "The more you practice, the more\ncomfortable you will become."
+      } ]
+    }, {
+      "tStartMs": 2883670,
+      "dDurationMs": 4030,
+      "segs": [ {
+        "utf8": "Ultimately you have the opportunity before\nyou to become more compelling,"
+      } ]
+    }, {
+      "tStartMs": 2887700,
+      "dDurationMs": 4630,
+      "segs": [ {
+        "utf8": "more confident, more connected as a\nspeaker, if you leverage these techniques."
+      } ]
+    }, {
+      "tStartMs": 2894390,
+      "dDurationMs": 2975,
+      "segs": [ {
+        "utf8": "If you're interested in learning more,\nthis is where I do a little plug."
+      } ]
+    }, {
+      "tStartMs": 2897365,
+      "dDurationMs": 1215,
+      "segs": [ {
+        "utf8": "'Kay, I've written a book."
+      } ]
+    }, {
+      "tStartMs": 2898580,
+      "dDurationMs": 3030,
+      "segs": [ {
+        "utf8": "Many of the MBA students who take the\nstrategic communication classes,"
+      } ]
+    }, {
+      "tStartMs": 2901610,
+      "dDurationMs": 1780,
+      "segs": [ {
+        "utf8": "here that I and others teach read it."
+      } ]
+    }, {
+      "tStartMs": 2903390,
+      "dDurationMs": 1640,
+      "segs": [ {
+        "utf8": "It's called SPEAKING UP WITHOUT FREAKING\nOUT."
+      } ]
+    }, {
+      "tStartMs": 2906610,
+      "dDurationMs": 580,
+      "segs": [ {
+        "utf8": "More importantly,"
+      } ]
+    }, {
+      "tStartMs": 2907190,
+      "dDurationMs": 3335,
+      "segs": [ {
+        "utf8": "there's a website here that I curate\ncalled NOFREAKINGSPEAKING.COM."
+      } ]
+    }, {
+      "tStartMs": 2911550,
+      "dDurationMs": 2330,
+      "segs": [ {
+        "utf8": "And it has lots of information that I've\nwritten, and"
+      } ]
+    }, {
+      "tStartMs": 2913880,
+      "dDurationMs": 2800,
+      "segs": [ {
+        "utf8": "others have written about how to become\nmore effective at speaking."
+      } ]
+    }, {
+      "tStartMs": 2916680,
+      "dDurationMs": 1530,
+      "segs": [ {
+        "utf8": "So that's, that's the end of my plug."
+      } ]
+    }, {
+      "tStartMs": 2918210,
+      "dDurationMs": 5940,
+      "segs": [ {
+        "utf8": "What I'd really like to do is, enter into\na spontaneous speaking situation with you."
+      } ]
+    }, {
+      "tStartMs": 2924150,
+      "dDurationMs": 2470,
+      "segs": [ {
+        "utf8": "And I would love to entertain any\nquestions that you have."
+      } ]
+    }, {
+      "tStartMs": 2926620,
+      "dDurationMs": 2800,
+      "segs": [ {
+        "utf8": "There are two people who are running\naround with microphones, so"
+      } ]
+    }, {
+      "tStartMs": 2929420,
+      "dDurationMs": 2680,
+      "segs": [ {
+        "utf8": "some of us re, who remember the Phil\nDonahue show."
+      } ]
+    }, {
+      "tStartMs": 2932100,
+      "dDurationMs": 1884,
+      "segs": [ {
+        "utf8": "We're gonna do a little bit of that."
+      } ]
+    }, {
+      "tStartMs": 2933984,
+      "dDurationMs": 3607,
+      "segs": [ {
+        "utf8": "If you have a question, the microphone\nwill come, and I'm happy to answer it."
+      } ]
+    }, {
+      "tStartMs": 2937591,
+      "dDurationMs": 837,
+      "segs": [ {
+        "utf8": "\u003e\u003e Yeah."
+      } ]
+    }, {
+      "tStartMs": 2938428,
+      "dDurationMs": 1404,
+      "segs": [ {
+        "utf8": "\u003e\u003e I think if you-"
+      } ]
+    }, {
+      "tStartMs": 2939832,
+      "dDurationMs": 639,
+      "segs": [ {
+        "utf8": "\u003e\u003e Is it on?"
+      } ]
+    }, {
+      "tStartMs": 2940471,
+      "dDurationMs": 1090,
+      "segs": [ {
+        "utf8": "\u003e\u003e Yep, yep."
+      } ]
+    }, {
+      "tStartMs": 2941561,
+      "dDurationMs": 848,
+      "segs": [ {
+        "utf8": "[LAUGH] We can hear you."
+      } ]
+    }, {
+      "tStartMs": 2942409,
+      "dDurationMs": 516,
+      "segs": [ {
+        "utf8": "\u003e\u003e Great."
+      } ]
+    }, {
+      "tStartMs": 2942925,
+      "dDurationMs": 2898,
+      "segs": [ {
+        "utf8": "Can you talk about hostile situations?"
+      } ]
+    }, {
+      "tStartMs": 2945823,
+      "dDurationMs": 1021,
+      "segs": [ {
+        "utf8": "\u003e\u003e Hostile situations, yes."
+      } ]
+    }, {
+      "tStartMs": 2946844,
+      "dDurationMs": 3065,
+      "segs": [ {
+        "utf8": "So when you find yourself in a challenging\nsituation."
+      } ]
+    }, {
+      "tStartMs": 2949909,
+      "dDurationMs": 3041,
+      "segs": [ {
+        "utf8": "First, It should not be a surprise to you."
+      } ]
+    }, {
+      "tStartMs": 2952950,
+      "dDurationMs": 1533,
+      "segs": [ {
+        "utf8": "It should not be a surprise."
+      } ]
+    }, {
+      "tStartMs": 2954483,
+      "dDurationMs": 1145,
+      "segs": [ {
+        "utf8": "Before you ever speak,"
+      } ]
+    }, {
+      "tStartMs": 2955628,
+      "dDurationMs": 3282,
+      "segs": [ {
+        "utf8": "you should think about what is the\nenvironment going to be like?"
+      } ]
+    }, {
+      "tStartMs": 2958910,
+      "dDurationMs": 3820,
+      "segs": [ {
+        "utf8": "So it shouldn't surprise you that there\nmight be some challenges in the room."
+      } ]
+    }, {
+      "tStartMs": 2964330,
+      "dDurationMs": 4020,
+      "segs": [ {
+        "utf8": "When there are hostile situations that\narise, you have to acknowledge it."
+      } ]
+    }, {
+      "tStartMs": 2968350,
+      "dDurationMs": 4770,
+      "segs": [ {
+        "utf8": "So if somebody says, that's a ridiculous\nidea, why did you come up with that?"
+      } ]
+    }, {
+      "tStartMs": 2973120,
+      "dDurationMs": 2700,
+      "segs": [ {
+        "utf8": "To simply say, so, the idea I came up with\nwas, right?"
+      } ]
+    }, {
+      "tStartMs": 2975820,
+      "dDurationMs": 4920,
+      "segs": [ {
+        "utf8": "Acknowledge the emotion, I recommend not\nnaming the emotion, right?"
+      } ]
+    }, {
+      "tStartMs": 2980740,
+      "dDurationMs": 2730,
+      "segs": [ {
+        "utf8": "So, you sound really angry, the person's,\nI'm not angry, I'm frustrated."
+      } ]
+    }, {
+      "tStartMs": 2983470,
+      "dDurationMs": 1690,
+      "segs": [ {
+        "utf8": "Now we're arguing over their mental state,\nright?"
+      } ]
+    }, {
+      "tStartMs": 2985160,
+      "dDurationMs": 1080,
+      "segs": [ {
+        "utf8": "Emotional state."
+      } ]
+    }, {
+      "tStartMs": 2986240,
+      "dDurationMs": 3620,
+      "segs": [ {
+        "utf8": "So, so I say something like, I hear you\nhave a lot of passion on this issue, or,"
+      } ]
+    }, {
+      "tStartMs": 2989860,
+      "dDurationMs": 1500,
+      "segs": [ {
+        "utf8": "I hear there's great concern from you."
+      } ]
+    }, {
+      "tStartMs": 2991360,
+      "dDurationMs": 3500,
+      "segs": [ {
+        "utf8": "So you acknowledge the emotion, cuz\notherwise it sits in the room."
+      } ]
+    }, {
+      "tStartMs": 2994860,
+      "dDurationMs": 3050,
+      "segs": [ {
+        "utf8": "And then reframe and respond the way that\nmakes sense."
+      } ]
+    }, {
+      "tStartMs": 2997910,
+      "dDurationMs": 4100,
+      "segs": [ {
+        "utf8": "So if somebody raises their hand and says,\nyour product is ridiculously priced."
+      } ]
+    }, {
+      "tStartMs": 3002010,
+      "dDurationMs": 1050,
+      "segs": [ {
+        "utf8": "Why do you charge so much?"
+      } ]
+    }, {
+      "tStartMs": 3004680,
+      "dDurationMs": 3970,
+      "segs": [ {
+        "utf8": "I might say I hear great concern, and what\nyou're really asking about is the value of"
+      } ]
+    }, {
+      "tStartMs": 3008650,
+      "dDurationMs": 2490,
+      "segs": [ {
+        "utf8": "our product, and I would give my value\nproposition, and"
+      } ]
+    }, {
+      "tStartMs": 3011140,
+      "dDurationMs": 3170,
+      "segs": [ {
+        "utf8": "then I would come back and say, and\nbecause of the value we provide."
+      } ]
+    }, {
+      "tStartMs": 3014310,
+      "dDurationMs": 1860,
+      "segs": [ {
+        "utf8": "We believe it's priced fairly."
+      } ]
+    }, {
+      "tStartMs": 3016170,
+      "dDurationMs": 1250,
+      "segs": [ {
+        "utf8": "So you answer the question about price,"
+      } ]
+    }, {
+      "tStartMs": 3017420,
+      "dDurationMs": 4880,
+      "segs": [ {
+        "utf8": "but you've reframe it in a way that you\nfeel more comfortable answering it."
+      } ]
+    }, {
+      "tStartMs": 3022300,
+      "dDurationMs": 5680,
+      "segs": [ {
+        "utf8": "So, th, the way to do this is to practice\nall the skills we just talked about."
+      } ]
+    }, {
+      "tStartMs": 3027980,
+      "dDurationMs": 3620,
+      "segs": [ {
+        "utf8": "The only skill that I'm adding to this is\nthe awareness in"
+      } ]
+    }, {
+      "tStartMs": 3031600,
+      "dDurationMs": 2610,
+      "segs": [ {
+        "utf8": "advance that you might be in that\nsituation."
+      } ]
+    }, {
+      "tStartMs": 3034210,
+      "dDurationMs": 2920,
+      "segs": [ {
+        "utf8": "First I have to truly listen to what I'm\nhearing, right?"
+      } ]
+    }, {
+      "tStartMs": 3037130,
+      "dDurationMs": 2520,
+      "segs": [ {
+        "utf8": "It's very easy for me when I hear a\nchallenging question,"
+      } ]
+    }, {
+      "tStartMs": 3039650,
+      "dDurationMs": 3490,
+      "segs": [ {
+        "utf8": "to get all defensive and not hear what the\nperson's asking."
+      } ]
+    }, {
+      "tStartMs": 3043140,
+      "dDurationMs": 2740,
+      "segs": [ {
+        "utf8": "I see it as an opportunity to reframe and\nexplain."
+      } ]
+    }, {
+      "tStartMs": 3045880,
+      "dDurationMs": 3000,
+      "segs": [ {
+        "utf8": "Okay so, again, you have to practice."
+      } ]
+    }, {
+      "tStartMs": 3048880,
+      "dDurationMs": 1460,
+      "segs": [ {
+        "utf8": "But, that's how I think you address it."
+      } ]
+    }, {
+      "tStartMs": 3050340,
+      "dDurationMs": 1330,
+      "segs": [ {
+        "utf8": "Are there other questions?"
+      } ]
+    }, {
+      "tStartMs": 3051670,
+      "dDurationMs": 1440,
+      "segs": [ {
+        "utf8": "I see a question back here, yes, please."
+      } ]
+    }, {
+      "tStartMs": 3053110,
+      "dDurationMs": 1060,
+      "segs": [ {
+        "utf8": "\u003e\u003e Yes, first of all, thank you very much."
+      } ]
+    }, {
+      "tStartMs": 3054170,
+      "dDurationMs": 1340,
+      "segs": [ {
+        "utf8": "Great, great presentation."
+      } ]
+    }, {
+      "tStartMs": 3055510,
+      "dDurationMs": 3330,
+      "segs": [ {
+        "utf8": "\u003e\u003e Thank you.\n\u003e\u003e For a lot of the the speaking I do,"
+      } ]
+    }, {
+      "tStartMs": 3058840,
+      "dDurationMs": 3780,
+      "segs": [ {
+        "utf8": "I have remote audiences, audiences\ndistributed all over the country,"
+      } ]
+    }, {
+      "tStartMs": 3062620,
+      "dDurationMs": 1410,
+      "segs": [ {
+        "utf8": "with telecom."
+      } ]
+    }, {
+      "tStartMs": 3064030,
+      "dDurationMs": 1840,
+      "segs": [ {
+        "utf8": "Any tips for those kinds of audiences?"
+      } ]
+    }, {
+      "tStartMs": 3065870,
+      "dDurationMs": 5160,
+      "segs": [ {
+        "utf8": "\u003e\u003e So when you are speaking in a situation\nwhere not everybody is co-located, okay?"
+      } ]
+    }, {
+      "tStartMs": 3071030,
+      "dDurationMs": 1470,
+      "segs": [ {
+        "utf8": "In fact, at this very moment,"
+      } ]
+    }, {
+      "tStartMs": 3072500,
+      "dDurationMs": 2540,
+      "segs": [ {
+        "utf8": "there are people watching this\npresentation remotely."
+      } ]
+    }, {
+      "tStartMs": 3076690,
+      "dDurationMs": 3020,
+      "segs": [ {
+        "utf8": "What you need to do is be mindful of it."
+      } ]
+    }, {
+      "tStartMs": 3079710,
+      "dDurationMs": 4890,
+      "segs": [ {
+        "utf8": "Second, try to include engagement\ntechniques where the audience actually has"
+      } ]
+    }, {
+      "tStartMs": 3084600,
+      "dDurationMs": 1960,
+      "segs": [ {
+        "utf8": "to do something."
+      } ]
+    }, {
+      "tStartMs": 3086560,
+      "dDurationMs": 3780,
+      "segs": [ {
+        "utf8": "So, physical participation is what we did\nhere with the games."
+      } ]
+    }, {
+      "tStartMs": 3090340,
+      "dDurationMs": 2160,
+      "segs": [ {
+        "utf8": "You can ask your audience to imagine\nsomething,"
+      } ]
+    }, {
+      "tStartMs": 3092500,
+      "dDurationMs": 3920,
+      "segs": [ {
+        "utf8": "imagine what it would be like if, when we\ntry to achieve a goal, rather than say"
+      } ]
+    }, {
+      "tStartMs": 3096420,
+      "dDurationMs": 3370,
+      "segs": [ {
+        "utf8": "here is the goal we are trying to achieve,\nsay imagine what it would be like if."
+      } ]
+    }, {
+      "tStartMs": 3099790,
+      "dDurationMs": 3690,
+      "segs": [ {
+        "utf8": "See what that does to you, it pulls you\nin, I can take polling questions, most of"
+      } ]
+    }, {
+      "tStartMs": 3103480,
+      "dDurationMs": 3740,
+      "segs": [ {
+        "utf8": "the technology that you are referring to\nhas some kind of polling feature."
+      } ]
+    }, {
+      "tStartMs": 3107220,
+      "dDurationMs": 4690,
+      "segs": [ {
+        "utf8": "You can open up some kind of Wiki or\nGoogle Doc, or some collaborative tool."
+      } ]
+    }, {
+      "tStartMs": 3111910,
+      "dDurationMs": 1840,
+      "segs": [ {
+        "utf8": "Where people can be doing things and"
+      } ]
+    }, {
+      "tStartMs": 3113750,
+      "dDurationMs": 3000,
+      "segs": [ {
+        "utf8": "you can be monitoring that while you're\npresenting."
+      } ]
+    }, {
+      "tStartMs": 3116750,
+      "dDurationMs": 1360,
+      "segs": [ {
+        "utf8": "So I might take some breaks."
+      } ]
+    }, {
+      "tStartMs": 3118110,
+      "dDurationMs": 2980,
+      "segs": [ {
+        "utf8": "I talk for ten, 15 minutes and say, okay,\nlet's apply this and"
+      } ]
+    }, {
+      "tStartMs": 3121090,
+      "dDurationMs": 3710,
+      "segs": [ {
+        "utf8": "let's go into this Google Doc I've\ncreated, and I see what people are doing."
+      } ]
+    }, {
+      "tStartMs": 3124800,
+      "dDurationMs": 3160,
+      "segs": [ {
+        "utf8": "So it's about variety and it's about\nengagement."
+      } ]
+    }, {
+      "tStartMs": 3127960,
+      "dDurationMs": 4070,
+      "segs": [ {
+        "utf8": "Those are the ways that you really connect\nto people who are remote from you."
+      } ]
+    }, {
+      "tStartMs": 3132030,
+      "dDurationMs": 1075,
+      "segs": [ {
+        "utf8": "Okay, other questions?"
+      } ]
+    }, {
+      "tStartMs": 3133105,
+      "dDurationMs": 4285,
+      "segs": [ {
+        "utf8": "Who, you're pointing oh, [LAUGH], I've got\nto look for where the mic is."
+      } ]
+    }, {
+      "tStartMs": 3137390,
+      "dDurationMs": 1140,
+      "segs": [ {
+        "utf8": "\u003e\u003e This may be similar to"
+      } ]
+    }, {
+      "tStartMs": 3138530,
+      "dDurationMs": 910,
+      "segs": [ {
+        "utf8": "the first question,\n\u003e\u003e Sure."
+      } ]
+    }, {
+      "tStartMs": 3139440,
+      "dDurationMs": 2760,
+      "segs": [ {
+        "utf8": "\u003e\u003e But I do a lot of expert witness\ntestimony."
+      } ]
+    }, {
+      "tStartMs": 3142200,
+      "dDurationMs": 3142,
+      "segs": [ {
+        "utf8": "What's your recommendation for handling\ncross-examination?"
+      } ]
+    }, {
+      "tStartMs": 3145342,
+      "dDurationMs": 2278,
+      "segs": [ {
+        "utf8": "[LAUGH] Specifically, specifically a\nhostile one."
+      } ]
+    }, {
+      "tStartMs": 3147620,
+      "dDurationMs": 1633,
+      "segs": [ {
+        "utf8": "\u003e\u003e I feel like I'm being cross-examined."
+      } ]
+    }, {
+      "tStartMs": 3149253,
+      "dDurationMs": 1041,
+      "segs": [ {
+        "utf8": "\u003e\u003e It's very hostile."
+      } ]
+    }, {
+      "tStartMs": 3150294,
+      "dDurationMs": 1426,
+      "segs": [ {
+        "utf8": "[LAUGH]."
+      } ]
+    }, {
+      "tStartMs": 3151720,
+      "dDurationMs": 4670,
+      "segs": [ {
+        "utf8": "In any speaking situation that you go into\nthat has some planned element to it I"
+      } ]
+    }, {
+      "tStartMs": 3156390,
+      "dDurationMs": 3580,
+      "segs": [ {
+        "utf8": "recommend identifying certain themes, that\nyou think are important or"
+      } ]
+    }, {
+      "tStartMs": 3159970,
+      "dDurationMs": 940,
+      "segs": [ {
+        "utf8": "believe need to come out."
+      } ]
+    }, {
+      "tStartMs": 3160910,
+      "dDurationMs": 2750,
+      "segs": [ {
+        "utf8": "And then with each one of those themes\nhave some examples and"
+      } ]
+    }, {
+      "tStartMs": 3163660,
+      "dDurationMs": 1790,
+      "segs": [ {
+        "utf8": "concrete evidence that you can use to\nsupport it."
+      } ]
+    }, {
+      "tStartMs": 3166900,
+      "dDurationMs": 4010,
+      "segs": [ {
+        "utf8": "You don't go in with memorized terms, or\nways of saying it."
+      } ]
+    }, {
+      "tStartMs": 3170910,
+      "dDurationMs": 3670,
+      "segs": [ {
+        "utf8": "You just have ideas and themes, and then\nyou put them together as necessary."
+      } ]
+    }, {
+      "tStartMs": 3174580,
+      "dDurationMs": 3530,
+      "segs": [ {
+        "utf8": "So, when I'm in a situation where people\nare interrogating me."
+      } ]
+    }, {
+      "tStartMs": 3178110,
+      "dDurationMs": 2590,
+      "segs": [ {
+        "utf8": "I have certain themes that I wanna get\nacross, and make sure that I,"
+      } ]
+    }, {
+      "tStartMs": 3180700,
+      "dDurationMs": 3990,
+      "segs": [ {
+        "utf8": "I can do that in a way that fits the needs\nin the moment."
+      } ]
+    }, {
+      "tStartMs": 3184690,
+      "dDurationMs": 5350,
+      "segs": [ {
+        "utf8": "If it's hostile, again, you, the, the\nsingle best tool you have to"
+      } ]
+    }, {
+      "tStartMs": 3190040,
+      "dDurationMs": 4570,
+      "segs": [ {
+        "utf8": "buy yourself time and to help you answer a\nquestion efficiently is paraphrasing."
+      } ]
+    }, {
+      "tStartMs": 3194610,
+      "dDurationMs": 3560,
+      "segs": [ {
+        "utf8": "The paraphrase is like the Swiss Army\nknife of communication."
+      } ]
+    }, {
+      "tStartMs": 3198170,
+      "dDurationMs": 3860,
+      "segs": [ {
+        "utf8": "If you remember the show MacGyver, it's\nyour MacGyver tool, right?"
+      } ]
+    }, {
+      "tStartMs": 3202030,
+      "dDurationMs": 2210,
+      "segs": [ {
+        "utf8": "So when a question comes in."
+      } ]
+    }, {
+      "tStartMs": 3204240,
+      "dDurationMs": 4700,
+      "segs": [ {
+        "utf8": "The way you paraphrase it allows you the\nopportunity to reframe it,"
+      } ]
+    }, {
+      "tStartMs": 3208940,
+      "dDurationMs": 4860,
+      "segs": [ {
+        "utf8": "to think about your answer and, to pause\nand make sure you got it right."
+      } ]
+    }, {
+      "tStartMs": 3213800,
+      "dDurationMs": 2700,
+      "segs": [ {
+        "utf8": "So when you're under those situations, if\nyou have an opportunity to paraphrase it,"
+      } ]
+    }, {
+      "tStartMs": 3216500,
+      "dDurationMs": 2830,
+      "segs": [ {
+        "utf8": "say, so what you're really asking about is\nx, y and z."
+      } ]
+    }, {
+      "tStartMs": 3219330,
+      "dDurationMs": 4030,
+      "segs": [ {
+        "utf8": "That gives you the opportunity to employ\none of these techniques."
+      } ]
+    }, {
+      "tStartMs": 3223360,
+      "dDurationMs": 4140,
+      "segs": [ {
+        "utf8": "Now I've never been an expert witness, cuz\nI'm not an expert on anything, but."
+      } ]
+    }, {
+      "tStartMs": 3227500,
+      "dDurationMs": 5050,
+      "segs": [ {
+        "utf8": "Those tools I believe could be helpful."
+      } ]
+    }, {
+      "tStartMs": 3232550,
+      "dDurationMs": 1520,
+      "segs": [ {
+        "utf8": "The microphone is back there."
+      } ]
+    }, {
+      "tStartMs": 3234070,
+      "dDurationMs": 900,
+      "segs": [ {
+        "utf8": "Thank you.\n\u003e\u003e Thank you so much."
+      } ]
+    }, {
+      "tStartMs": 3234970,
+      "dDurationMs": 2880,
+      "segs": [ {
+        "utf8": "This has been so helpful and enjoyable\nthis morning."
+      } ]
+    }, {
+      "tStartMs": 3237850,
+      "dDurationMs": 3150,
+      "segs": [ {
+        "utf8": "Would you please show the last screen, so"
+      } ]
+    }, {
+      "tStartMs": 3241000,
+      "dDurationMs": 2270,
+      "segs": [ {
+        "utf8": "we can get down the name of the book you\nhave written and the information?"
+      } ]
+    }, {
+      "tStartMs": 3243270,
+      "dDurationMs": 635,
+      "segs": [ {
+        "utf8": "\u003e\u003e Absolutely.\n\u003e\u003e Thank you."
+      } ]
+    }, {
+      "tStartMs": 3243905,
+      "dDurationMs": 3605,
+      "segs": [ {
+        "utf8": "[LAUGH] I think they actually, you might\neven have an opportunity,"
+      } ]
+    }, {
+      "tStartMs": 3247510,
+      "dDurationMs": 2490,
+      "segs": [ {
+        "utf8": "it's on the sheet too, everything I said\nis on the back of that sheet, but"
+      } ]
+    }, {
+      "tStartMs": 3250000,
+      "dDurationMs": 2515,
+      "segs": [ {
+        "utf8": "I am happy to have this behind me while I\ntalk."
+      } ]
+    }, {
+      "tStartMs": 3252515,
+      "dDurationMs": 2025,
+      "segs": [ {
+        "utf8": "[LAUGH] Other questions?"
+      } ]
+    }, {
+      "tStartMs": 3254540,
+      "dDurationMs": 1000,
+      "segs": [ {
+        "utf8": "Yes please?"
+      } ]
+    }, {
+      "tStartMs": 3255540,
+      "dDurationMs": 4320,
+      "segs": [ {
+        "utf8": "\u003e\u003e Yes, I work with groups that, from,"
+      } ]
+    }, {
+      "tStartMs": 3259860,
+      "dDurationMs": 3170,
+      "segs": [ {
+        "utf8": "that represent many different cultural\nbackgrounds."
+      } ]
+    }, {
+      "tStartMs": 3263030,
+      "dDurationMs": 750,
+      "segs": [ {
+        "utf8": "\u003e\u003e Yes.\n\u003e\u003e So"
+      } ]
+    }, {
+      "tStartMs": 3263780,
+      "dDurationMs": 4210,
+      "segs": [ {
+        "utf8": "are there any caveats or is this a\nuniversal strategy."
+      } ]
+    }, {
+      "tStartMs": 3269420,
+      "dDurationMs": 1410,
+      "segs": [ {
+        "utf8": "\u003e\u003e So in terms of,"
+      } ]
+    }, {
+      "tStartMs": 3270830,
+      "dDurationMs": 2330,
+      "segs": [ {
+        "utf8": "from your perspective as the speaker,\n\u003e\u003e Yes."
+      } ]
+    }, {
+      "tStartMs": 3273160,
+      "dDurationMs": 1430,
+      "segs": [ {
+        "utf8": "\u003e\u003e I believe this applies."
+      } ]
+    }, {
+      "tStartMs": 3274590,
+      "dDurationMs": 3830,
+      "segs": [ {
+        "utf8": "But when you, whenever you communicate,\npart of the listening aspect is"
+      } ]
+    }, {
+      "tStartMs": 3278420,
+      "dDurationMs": 4300,
+      "segs": [ {
+        "utf8": "also thinking about and is who is my\naudience and what are their expectations?"
+      } ]
+    }, {
+      "tStartMs": 3282720,
+      "dDurationMs": 4280,
+      "segs": [ {
+        "utf8": "So what are the cultural expectations of\nthe audience that, I'm presenting to?"
+      } ]
+    }, {
+      "tStartMs": 3287000,
+      "dDurationMs": 3110,
+      "segs": [ {
+        "utf8": "So there might be certain norms and rules\nthat are expected."
+      } ]
+    }, {
+      "tStartMs": 3290110,
+      "dDurationMs": 1130,
+      "segs": [ {
+        "utf8": "So when I travel and"
+      } ]
+    }, {
+      "tStartMs": 3291240,
+      "dDurationMs": 4310,
+      "segs": [ {
+        "utf8": "do talks I have to take into account where\nI'm doing the, the presentations."
+      } ]
+    }, {
+      "tStartMs": 3295550,
+      "dDurationMs": 2350,
+      "segs": [ {
+        "utf8": "So I, I'm, I help present in the Ignite\nprogram."
+      } ]
+    }, {
+      "tStartMs": 3297900,
+      "dDurationMs": 5460,
+      "segs": [ {
+        "utf8": "If you have not heard about the Ignite\nprogram here at the GSB it's fantastic."
+      } ]
+    }, {
+      "tStartMs": 3303360,
+      "dDurationMs": 4240,
+      "segs": [ {
+        "utf8": "And I just did a presentation standing in\none of these awesome classrooms that have"
+      } ]
+    }, {
+      "tStartMs": 3307600,
+      "dDurationMs": 3130,
+      "segs": [ {
+        "utf8": "all these cameras and I just taught 35\npeople in Santiago Chile."
+      } ]
+    }, {
+      "tStartMs": 3312780,
+      "dDurationMs": 6000,
+      "segs": [ {
+        "utf8": "And I needed to understand the cultural\nexpectations of that area."
+      } ]
+    }, {
+      "tStartMs": 3318780,
+      "dDurationMs": 1010,
+      "segs": [ {
+        "utf8": "And what they expect and"
+      } ]
+    }, {
+      "tStartMs": 3319790,
+      "dDurationMs": 2130,
+      "segs": [ {
+        "utf8": "what they're willing to do, when I ask\nthem to participate."
+      } ]
+    }, {
+      "tStartMs": 3321920,
+      "dDurationMs": 3520,
+      "segs": [ {
+        "utf8": "So, it, it's part of that listening step\nwhere you reflect on what"
+      } ]
+    }, {
+      "tStartMs": 3325440,
+      "dDurationMs": 2400,
+      "segs": [ {
+        "utf8": "are the expectations of the audience."
+      } ]
+    }, {
+      "tStartMs": 3327840,
+      "dDurationMs": 1680,
+      "segs": [ {
+        "utf8": "I think we have time for two more\nquestions and"
+      } ]
+    }, {
+      "tStartMs": 3329520,
+      "dDurationMs": 2670,
+      "segs": [ {
+        "utf8": "then I'm gonna hang around afterwards if\nanybody has individual questions."
+      } ]
+    }, {
+      "tStartMs": 3332190,
+      "dDurationMs": 2720,
+      "segs": [ {
+        "utf8": "But, some of these folks really want me to\nkeep on schedule."
+      } ]
+    }, {
+      "tStartMs": 3334910,
+      "dDurationMs": 1310,
+      "segs": [ {
+        "utf8": "Yes, please?\n\u003e\u003e I wanted to ask you a question."
+      } ]
+    }, {
+      "tStartMs": 3336220,
+      "dDurationMs": 2330,
+      "segs": [ {
+        "utf8": "One of the things that you've done\neffectively in your talking."
+      } ]
+    }, {
+      "tStartMs": 3338550,
+      "dDurationMs": 2455,
+      "segs": [ {
+        "utf8": "And I've seen other effective speakers do,\nis interject humor."
+      } ]
+    }, {
+      "tStartMs": 3341005,
+      "dDurationMs": 635,
+      "segs": [ {
+        "utf8": "\u003e\u003e Mm-hm."
+      } ]
+    }, {
+      "tStartMs": 3341640,
+      "dDurationMs": 570,
+      "segs": [ {
+        "utf8": "\u003e\u003e In their talk."
+      } ]
+    }, {
+      "tStartMs": 3342210,
+      "dDurationMs": 3530,
+      "segs": [ {
+        "utf8": "How, what are the risks and rewards of\ntrying to do that."
+      } ]
+    }, {
+      "tStartMs": 3345740,
+      "dDurationMs": 2850,
+      "segs": [ {
+        "utf8": "\u003e\u003e Well first, thank you, and I appreciate\nall of you laughing."
+      } ]
+    }, {
+      "tStartMs": 3348590,
+      "dDurationMs": 2605,
+      "segs": [ {
+        "utf8": "Those are, that's the sum total of all my\njokes, you've heard them,"
+      } ]
+    }, {
+      "tStartMs": 3351195,
+      "dDurationMs": 1450,
+      "segs": [ {
+        "utf8": "I'm not funny beyond those jokes."
+      } ]
+    }, {
+      "tStartMs": 3352645,
+      "dDurationMs": 4155,
+      "segs": [ {
+        "utf8": "[LAUGH] So humor is wonderfully\nconnecting."
+      } ]
+    }, {
+      "tStartMs": 3356800,
+      "dDurationMs": 1970,
+      "segs": [ {
+        "utf8": "It's wonderfully connecting, it's a great\ntool for"
+      } ]
+    }, {
+      "tStartMs": 3358770,
+      "dDurationMs": 1800,
+      "segs": [ {
+        "utf8": "connection, it is very, very risky."
+      } ]
+    }, {
+      "tStartMs": 3361770,
+      "dDurationMs": 1950,
+      "segs": [ {
+        "utf8": "Cultural reasons get in the way,"
+      } ]
+    }, {
+      "tStartMs": 3363720,
+      "dDurationMs": 3580,
+      "segs": [ {
+        "utf8": "sometimes what you think is funny isn't\nfunny to other people."
+      } ]
+    }, {
+      "tStartMs": 3367300,
+      "dDurationMs": 3185,
+      "segs": [ {
+        "utf8": "What research tells us is that if you're\ngoing to try to be funny,"
+      } ]
+    }, {
+      "tStartMs": 3370485,
+      "dDurationMs": 4245,
+      "segs": [ {
+        "utf8": "self-deprecating humor is your best bet,\nokay?"
+      } ]
+    }, {
+      "tStartMs": 3374730,
+      "dDurationMs": 4500,
+      "segs": [ {
+        "utf8": "Because it is the least risky, there is\nnothing worse than putting out a joke and"
+      } ]
+    }, {
+      "tStartMs": 3379230,
+      "dDurationMs": 2020,
+      "segs": [ {
+        "utf8": "having no response."
+      } ]
+    }, {
+      "tStartMs": 3381250,
+      "dDurationMs": 3670,
+      "segs": [ {
+        "utf8": "It actually sets you back farther than if\nyou would have gotten,"
+      } ]
+    }, {
+      "tStartMs": 3384920,
+      "dDurationMs": 3560,
+      "segs": [ {
+        "utf8": "where you would have gotten if the joke\nwould have hit, so"
+      } ]
+    }, {
+      "tStartMs": 3388480,
+      "dDurationMs": 2180,
+      "segs": [ {
+        "utf8": "basic fundamentals you need to think about\nwith humor."
+      } ]
+    }, {
+      "tStartMs": 3390660,
+      "dDurationMs": 3710,
+      "segs": [ {
+        "utf8": "One, is it funny, how do I know, I ask\nother people first."
+      } ]
+    }, {
+      "tStartMs": 3394370,
+      "dDurationMs": 2730,
+      "segs": [ {
+        "utf8": "Second, what happens if it doesn't work?"
+      } ]
+    }, {
+      "tStartMs": 3397100,
+      "dDurationMs": 2750,
+      "segs": [ {
+        "utf8": "Have a backup plan, right?"
+      } ]
+    }, {
+      "tStartMs": 3399850,
+      "dDurationMs": 2620,
+      "segs": [ {
+        "utf8": "And then third, if you're worried about\nthe answers to those first two,"
+      } ]
+    }, {
+      "tStartMs": 3402470,
+      "dDurationMs": 2240,
+      "segs": [ {
+        "utf8": "don't do it, right?"
+      } ]
+    }, {
+      "tStartMs": 3404710,
+      "dDurationMs": 1180,
+      "segs": [ {
+        "utf8": "One last question please."
+      } ]
+    }, {
+      "tStartMs": 3405890,
+      "dDurationMs": 1000,
+      "segs": [ {
+        "utf8": "The microphone is right here."
+      } ]
+    }, {
+      "tStartMs": 3406890,
+      "dDurationMs": 1920,
+      "segs": [ {
+        "utf8": "And then like I said, I will hang around\nafterwards."
+      } ]
+    }, {
+      "tStartMs": 3408810,
+      "dDurationMs": 1070,
+      "segs": [ {
+        "utf8": "Yes, please."
+      } ]
+    }, {
+      "tStartMs": 3409880,
+      "dDurationMs": 4025,
+      "segs": [ {
+        "utf8": "\u003e\u003e I I'm sort of on the opposite side of\nthis, since I'm a journalist."
+      } ]
+    }, {
+      "tStartMs": 3413905,
+      "dDurationMs": 2085,
+      "segs": [ {
+        "utf8": "\u003e\u003e Mm-hm.\n\u003e\u003e And I frequently have to ask"
+      } ]
+    }, {
+      "tStartMs": 3415990,
+      "dDurationMs": 7750,
+      "segs": [ {
+        "utf8": "spontaneous questions of people, who have\nbeen through media training."
+      } ]
+    }, {
+      "tStartMs": 3423740,
+      "dDurationMs": 525,
+      "segs": [ {
+        "utf8": "\u003e\u003e Yes.\n\u003e\u003e So."
+      } ]
+    }, {
+      "tStartMs": 3424265,
+      "dDurationMs": 985,
+      "segs": [ {
+        "utf8": "[LAUGH] So any tips for"
+      } ]
+    }, {
+      "tStartMs": 3425250,
+      "dDurationMs": 3385,
+      "segs": [ {
+        "utf8": "chinks in the armor, way to ask."
+      } ]
+    }, {
+      "tStartMs": 3428635,
+      "dDurationMs": 855,
+      "segs": [ {
+        "utf8": "[LAUGH]"
+      } ]
+    }, {
+      "tStartMs": 3429490,
+      "dDurationMs": 2880,
+      "segs": [ {
+        "utf8": "\u003e\u003e Ask a question without being\nantagonistic, but"
+      } ]
+    }, {
+      "tStartMs": 3432370,
+      "dDurationMs": 2930,
+      "segs": [ {
+        "utf8": "get a facsimile of a straight answer."
+      } ]
+    }, {
+      "tStartMs": 3435300,
+      "dDurationMs": 1320,
+      "segs": [ {
+        "utf8": "\u003e\u003e Well, so let me give you two answers."
+      } ]
+    }, {
+      "tStartMs": 3436620,
+      "dDurationMs": 4310,
+      "segs": [ {
+        "utf8": "One is I I have young boys, and the power\nof the why is great."
+      } ]
+    }, {
+      "tStartMs": 3440930,
+      "dDurationMs": 1900,
+      "segs": [ {
+        "utf8": "Just ask why a couple times, and"
+      } ]
+    }, {
+      "tStartMs": 3442830,
+      "dDurationMs": 2675,
+      "segs": [ {
+        "utf8": "and you can get through that first two\nlayers of training."
+      } ]
+    }, {
+      "tStartMs": 3445505,
+      "dDurationMs": 1675,
+      "segs": [ {
+        "utf8": "[LAUGH] You know, why do you say that?"
+      } ]
+    }, {
+      "tStartMs": 3447180,
+      "dDurationMs": 1730,
+      "segs": [ {
+        "utf8": "How do you feel about that?"
+      } ]
+    }, {
+      "tStartMs": 3448910,
+      "dDurationMs": 1830,
+      "segs": [ {
+        "utf8": "the, the second bit is."
+      } ]
+    }, {
+      "tStartMs": 3450740,
+      "dDurationMs": 500,
+      "segs": [ {
+        "utf8": "To."
+      } ]
+    }, {
+      "tStartMs": 3452600,
+      "dDurationMs": 2390,
+      "segs": [ {
+        "utf8": "What I have found successful in getting\npeople to."
+      } ]
+    }, {
+      "tStartMs": 3454990,
+      "dDurationMs": 3040,
+      "segs": [ {
+        "utf8": "I do this to get people to answer in a\nmore authentic way."
+      } ]
+    }, {
+      "tStartMs": 3458030,
+      "dDurationMs": 2780,
+      "segs": [ {
+        "utf8": "What I'll do is I'll ask them to give\nadvice."
+      } ]
+    }, {
+      "tStartMs": 3460810,
+      "dDurationMs": 2610,
+      "segs": [ {
+        "utf8": "So what advice would you give somebody\nwho's challenged with this?"
+      } ]
+    }, {
+      "tStartMs": 3463420,
+      "dDurationMs": 3060,
+      "segs": [ {
+        "utf8": "Or what advice would you give to somebody\nin this situation?"
+      } ]
+    }, {
+      "tStartMs": 3466480,
+      "dDurationMs": 1080,
+      "segs": [ {
+        "utf8": "And by asking for"
+      } ]
+    }, {
+      "tStartMs": 3467560,
+      "dDurationMs": 4790,
+      "segs": [ {
+        "utf8": "the advice, it changes the relationship\nthey have to me as the question asker."
+      } ]
+    }, {
+      "tStartMs": 3472350,
+      "dDurationMs": 2490,
+      "segs": [ {
+        "utf8": "And I often get much more rich detailed\ninformation."
+      } ]
+    }, {
+      "tStartMs": 3474840,
+      "dDurationMs": 1470,
+      "segs": [ {
+        "utf8": "So the power of the why, and"
+      } ]
+    }, {
+      "tStartMs": 3476310,
+      "dDurationMs": 5330,
+      "segs": [ {
+        "utf8": "then put them in a position of providing\nguidance, and that can really work."
+      } ]
+    }, {
+      "tStartMs": 3481640,
+      "dDurationMs": 2320,
+      "segs": [ {
+        "utf8": "With that, I'm going to thank you very\nmuch."
+      } ]
+    }, {
+      "tStartMs": 3483960,
+      "dDurationMs": 4430,
+      "segs": [ {
+        "utf8": "I welcome you to ask questions later, and\nenjoy the rest of your reunion weekend."
+      } ]
+    }, {
+      "tStartMs": 3488390,
+      "dDurationMs": 6179,
+      "segs": [ {
+        "utf8": "\u003e\u003e Thank you.\n[APPLAUSE]"
+      } ]
+    }, {
+      "tStartMs": 3494569,
+      "dDurationMs": 2315,
+      "segs": [ {
+        "utf8": "[MUSIC]"
+      } ]
+    }, {
+      "tStartMs": 3496884,
+      "dDurationMs": 2676,
+      "segs": [ {
+        "utf8": "[BLANK_AUDIO]"
+      } ]
+    } ]
+  }
+  
