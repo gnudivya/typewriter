@@ -56,7 +56,7 @@ export default function App({ Component, pageProps }: AppProps) {
             <ListItemText primary={"Type Writing"} />
           </ListItemButton>
         </ListItem>
-        <ListItem disablePadding onClick={() => router.push("/listening")}>
+        <ListItem disablePadding onClick={() => router.push("/listening/ct")}>
           <ListItemButton>
             <ListItemIcon>
               <HeadphonesIcon />
