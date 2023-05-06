@@ -206,6 +206,7 @@ const ListeningAudio: NextPage = () => {
         <Divider />
         {shuffeledArray.map((item, index) => (
           <Chip
+            key={index}
             sx={{ m: 1 }}
             label={item}
             onClick={() => {
