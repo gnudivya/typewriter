@@ -120,6 +120,7 @@ const ListeningAudio: NextPage = () => {
   };
 
   const goPrev = () => {
+    setUserFeededArray([]);
     if (currentWindow < 1) {
       return;
     }
@@ -135,6 +136,7 @@ const ListeningAudio: NextPage = () => {
   };
 
   const goNext = () => {
+    setUserFeededArray([]);
     if (Math.floor(audioEvents.length) < currentWindow) {
       return;
     }
