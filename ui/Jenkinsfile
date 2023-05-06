@@ -1,0 +1,19 @@
+pipeline {
+    agent any
+    
+    stages {
+        stage('Build') {
+            steps {
+                sh 'npm install'
+                sh 'npm run build'
+                sh 'docker build -t my-next-app .'
+            }
+        }
+        
+        stage('Deploy') {
+            steps {
+                sh 'docker run -d -p 80:80 my-next-app'
+            }
+        }
+    }
+}
