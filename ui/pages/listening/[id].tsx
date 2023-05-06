@@ -181,6 +181,7 @@ const ListeningAudio: NextPage = () => {
       </Box>
       <Box flexGrow={1}>
         <audio
+          hidden
           ref={audioElement}
           controls
           src={"/podcast/" + id + ".mp3"}
