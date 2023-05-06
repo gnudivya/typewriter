@@ -159,6 +159,15 @@ const ListeningAudio: NextPage = () => {
                   return;
                 }
                 setCurrentWindow((prev) => prev - framesCount);
+                setStart(
+                  audioEvents[currentWindow - framesCount - framesCount + 1]
+                    .tStartMs
+                );
+                setEnd(
+                  audioEvents[currentWindow - framesCount].tStartMs +
+                    audioEvents[currentWindow - framesCount].dDurationMs
+                );
+                setRetry((prev) => prev + 1);
               }}
             >
               <ArrowBackIosNewIcon />
