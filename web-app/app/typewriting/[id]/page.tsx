@@ -9,17 +9,42 @@ import {
   ListItemText,
   Typography,
 } from "@mui/material";
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
+import { mockWords } from "./mock";
 
 let listening = false;
 
 export default function TypingPagePage() {
-    const [currentWord, setCurrentWord] = useState('test...');
-  const [typedChar, setTypedChar] = useState("");
+  const [fullText, setFullText] = useState([""]);
+  const fullTextRef = useRef(['']);
+  fullTextRef.current = fullText;
+  const [currentIndex, setCurrentIndex] = useState(0);
+  const currentIndexRef = useRef(0);
+  currentIndexRef.current = currentIndex;
+  const [currentWord, setCurrentWord] = useState("test...");
+  const currentWordRef = useRef('');
+  currentWordRef.current = currentWord;
+  const [typedChars, setTypedChars] = useState("");
+  const typedCharsRef = useRef('');
+  typedCharsRef.current = typedChars;
 
   const goToNextword = () => {
+    console.log(new Date())
+    setCurrentIndex((prev) => {
+        const nextIndex = prev + 1;
+        setCurrentWord(fullTextRef.current[nextIndex]);
+        return nextIndex;
+    });
+  };
 
-  }
+  useEffect(() => {
+    const wordsArr = mockWords
+      .replaceAll("\n", " ")
+      .split(" ")
+      .filter((item) => item);
+    setFullText(wordsArr);
+    setCurrentWord(wordsArr[0]);
+  }, []);
 
   useEffect(() => {
     if (!listening) {
@@ -34,19 +59,28 @@ export default function TypingPagePage() {
       document.addEventListener(
         "keyup",
         (event) => {
-          const keyName = event.key;
-          setTypedChar((prev) => {
-            const newTypedChar = prev + keyName;
-            if(newTypedChar == currentWord) {
+            if(event.key == 'Enter') {
                 goToNextword();
             }
-            if(currentWord.indexOf(newTypedChar) != 0) {
-                return '';
-            } else {
-                return newTypedChar;
+          const regex = /^[\w\W]$/;
+          if (!regex.test(event.key)) {
+            return;
+          }
+          const keyName = event.key;
+        //   setTypedChars((prev) => {
+            const newTypedChar = typedCharsRef.current + keyName;
+            if (newTypedChar == currentWordRef.current + " ") {
+              goToNextword();
             }
-            
-          });
+            console.log(newTypedChar, currentWord.indexOf(newTypedChar), currentWord);
+            if (currentWordRef.current.indexOf(newTypedChar) != 0) {
+            //   return "";
+            setTypedChars('');
+            } else {
+            //   return newTypedChar;
+            setTypedChars(newTypedChar)
+            }
+        //   });
         },
         false
       );
@@ -59,15 +93,36 @@ export default function TypingPagePage() {
       <Typography variant="h5" fontWeight={100}>
         Type the word displayed on screen
       </Typography>
-      <Card sx={{ mt: 3 }}>
+      <Card
+        sx={{
+          mt: 3,
+          width: "fit-content",
+          backgroundColor:
+            currentWord.indexOf(typedChars) == 0 ? "#159947" : "red",
+        }}
+      >
         <CardContent>
           <Typography variant="h1" fontWeight={100} fontFamily={"monospace"}>
-            {currentWord.indexOf(typedChar) == 0 && <Box><span style={{color: 'green'}}>{typedChar}</span><span>{currentWord.substring(typedChar.length, currentWord.length)}</span></Box> }
-            {currentWord.indexOf(typedChar) != 0 && <Box>{currentWord}</Box>}
+            {currentWord.indexOf(typedChars) == 0 && (
+              <Box>
+                <span style={{ color: "#159947" }}>{typedChars}</span>
+                <span style={{ color: "white" }}>
+                  {currentWord.substring(typedChars.length, currentWord.length)}
+                </span>
+              </Box>
+            )}
+            {currentWord.indexOf(typedChars) != 0 && (
+              <Box>
+                <span style={{ color: "white" }}>{currentWord}</span>
+              </Box>
+            )}
           </Typography>
         </CardContent>
       </Card>
-      <Typography> {typedChar} </Typography>
+      -<Typography> {typedChars} </Typography>
+      {currentWord.indexOf(typedChars)}=
+      <Typography> {fullText[currentIndex]} </Typography>
+      <Typography>{fullText.filter((item,i)=>i<20).join(' ')}</Typography>
     </Box>
   );
 }
