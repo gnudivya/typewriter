@@ -184,7 +184,6 @@ export default function RootLayout({
             sx={{ flexGrow: 1, p: 3, display: "flex", flexDirection: "column" }}
           >
             <DrawerHeader />
-
             <Box sx={{ flexGrow: 1 }} >
               {children}
             </Box>
