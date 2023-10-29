@@ -49,7 +49,7 @@ export default function TypingPagePage() {
   useEffect(() => {
     if (!listening) {
       document.addEventListener(
-        "keydown",
+        "keyup",
         (event) => {
           const keyName = event.key;
         },
@@ -57,7 +57,7 @@ export default function TypingPagePage() {
       );
 
       document.addEventListener(
-        "keyup",
+        "keydown",
         (event) => {
             if(event.key == 'Enter') {
                 goToNextword();
