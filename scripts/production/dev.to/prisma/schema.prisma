@@ -37,4 +37,3 @@ model DevToFeeds {
   published_at_int Int
   tag_list         String[]
 }
-
