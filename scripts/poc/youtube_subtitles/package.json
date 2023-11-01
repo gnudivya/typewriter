@@ -1,0 +1,20 @@
+{
+  "name": "youtube_subtitles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^5.5.2",
+    "youtube-captions-scraper": "^2.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.8.10",
+    "prisma": "^5.5.2"
+  }
+}
