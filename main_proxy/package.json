@@ -1,7 +1,6 @@
 {
   "name": "main_proxy",
   "version": "1.0.0",
-  "description": "",
   "main": "proxy.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,5 +11,7 @@
   "dependencies": {
     "http-proxy": "^1.18.1",
     "https": "^1.0.0"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
